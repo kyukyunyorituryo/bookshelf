@@ -1,5 +1,5155 @@
 [
  {
+  "filename": "[倉田百三] 念仏と生活.mobi",
+  "mtime": "2024-12-03T18:16:46.948Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[倉田百三] 青春の息の痕.mobi",
+  "mtime": "2024-12-03T18:16:43.211Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[倉田百三] 光り合ういのち.mobi",
+  "mtime": "2024-12-03T18:16:38.290Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[倉田百三] 俊寛.mobi",
+  "mtime": "2024-12-03T18:16:30.166Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[倉田百三] 芸術上の心得.mobi",
+  "mtime": "2024-12-03T18:16:24.003Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[倉田百三] 生活と一枚の宗教.mobi",
+  "mtime": "2024-12-03T18:16:20.270Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[倉田百三] 婦人と職業.mobi",
+  "mtime": "2024-12-03T18:16:15.985Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[倉田百三] 人生における離合について.mobi",
+  "mtime": "2024-12-03T18:16:12.261Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[倉田百三] 女性の諸問題.mobi",
+  "mtime": "2024-12-03T18:16:08.526Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[倉田百三] 学生と読書 ――いかに書を読むべきか――.mobi",
+  "mtime": "2024-12-03T18:16:04.694Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[倉田百三] 学生と先哲 ――予言僧日蓮――.mobi",
+  "mtime": "2024-12-03T18:16:00.918Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[倉田百三] 学生と生活 ――恋愛――.mobi",
+  "mtime": "2024-12-03T18:15:56.976Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[倉田百三] 学生と教養 ――教養と倫理学――.mobi",
+  "mtime": "2024-12-03T18:15:52.999Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[倉田百三] 愛の問題（夫婦愛） ――生命の法に随う――.mobi",
+  "mtime": "2024-12-03T18:15:49.170Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[倉田百三] 『出家とその弟子』の追憶.mobi",
+  "mtime": "2024-12-03T18:15:45.443Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[倉田百三] あはれなる廿日鼠.mobi",
+  "mtime": "2024-12-03T18:15:41.593Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[倉田百三] 愛と認識との出発.mobi",
+  "mtime": "2024-12-03T18:15:37.574Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[倉田百三] 善くならうとする祈り.mobi",
+  "mtime": "2024-12-03T18:15:31.695Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[倉田百三] 出家とその弟子.mobi",
+  "mtime": "2024-12-03T18:15:27.692Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 五階の窓 合作の五.mobi",
+  "mtime": "2024-12-03T18:14:48.345Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 猫の蚤とり武士.mobi",
+  "mtime": "2024-12-03T18:14:44.429Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 真間の手古奈.mobi",
+  "mtime": "2024-12-03T18:14:35.529Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 血煙天明陣.mobi",
+  "mtime": "2024-12-03T18:14:31.637Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] レモンの花の咲く丘へ.mobi",
+  "mtime": "2024-12-03T18:14:21.856Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 喇嘛の行衛.mobi",
+  "mtime": "2024-12-03T18:14:16.528Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 西班牙の恋.mobi",
+  "mtime": "2024-12-03T18:14:10.607Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 物凄き人喰い花の怪.mobi",
+  "mtime": "2024-12-03T18:14:06.426Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 目撃者.mobi",
+  "mtime": "2024-12-03T18:14:02.530Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 木乃伊の耳飾.mobi",
+  "mtime": "2024-12-03T18:13:58.678Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 人を呪わば.mobi",
+  "mtime": "2024-12-03T18:13:54.823Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 人間製造.mobi",
+  "mtime": "2024-12-03T18:13:51.013Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 闘牛.mobi",
+  "mtime": "2024-12-03T18:13:47.045Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 畳まれた町.mobi",
+  "mtime": "2024-12-03T18:13:43.239Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 死の復讐.mobi",
+  "mtime": "2024-12-03T18:13:39.436Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 死の航海.mobi",
+  "mtime": "2024-12-03T18:13:35.474Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] さまよう町のさまよう家のさまよう人々.mobi",
+  "mtime": "2024-12-03T18:13:31.644Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 沙漠の美姫.mobi",
+  "mtime": "2024-12-03T18:13:26.656Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 沙漠の歌 スタンレー探検日記.mobi",
+  "mtime": "2024-12-03T18:13:21.895Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 国事犯の行方 ―破獄の志士赤井景韶―.mobi",
+  "mtime": "2024-12-03T18:13:17.970Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 広東葱.mobi",
+  "mtime": "2024-12-03T18:13:14.204Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 温室の恋.mobi",
+  "mtime": "2024-12-03T18:13:10.283Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 奥さんの家出.mobi",
+  "mtime": "2024-12-03T18:13:06.399Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 赤い手.mobi",
+  "mtime": "2024-12-03T18:13:02.431Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 剣侠受難.mobi",
+  "mtime": "2024-12-03T18:12:58.498Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] ローマ法王と外交.mobi",
+  "mtime": "2024-12-03T18:12:49.937Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] マイクロフォン―八月号増刊「陰獣」を中心として― 「新青年」一九二八年一〇月.mobi",
+  "mtime": "2024-12-03T18:12:46.144Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] マイクロフォン―雑感― 「新青年」一九二五年一二月.mobi",
+  "mtime": "2024-12-03T18:12:42.272Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] マイクロフォン 「新青年」一九二八年二月.mobi",
+  "mtime": "2024-12-03T18:12:38.519Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] マイクロフォン 「新青年」一九三三年七月.mobi",
+  "mtime": "2024-12-03T18:12:34.753Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] マイクロフォン 「新青年」一九二八年一一月.mobi",
+  "mtime": "2024-12-03T18:12:31.021Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] マイクロフォン 「新青年」一九二七年五月.mobi",
+  "mtime": "2024-12-03T18:12:27.229Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] マイクロフォン 「新青年」一九二七年三月.mobi",
+  "mtime": "2024-12-03T18:12:23.418Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] マイクロフォン 「新青年」一九二六年一一月.mobi",
+  "mtime": "2024-12-03T18:12:19.710Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] マイクロフォン 「新青年」一九二六年三月.mobi",
+  "mtime": "2024-12-03T18:12:15.952Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] マイクロフォン 「新青年」一九二六年二月.mobi",
+  "mtime": "2024-12-03T18:12:12.132Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] ヒトラーの健全性.mobi",
+  "mtime": "2024-12-03T18:12:08.476Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] わかりきった話.mobi",
+  "mtime": "2024-12-03T18:12:04.757Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 妖異むだ言.mobi",
+  "mtime": "2024-12-03T18:12:01.040Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 又復与太話.mobi",
+  "mtime": "2024-12-03T18:11:57.244Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 二つの作品.mobi",
+  "mtime": "2024-12-03T18:11:53.490Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 秀吉・家康二英雄の対南洋外交.mobi",
+  "mtime": "2024-12-03T18:11:49.698Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 半七雑感.mobi",
+  "mtime": "2024-12-03T18:11:46.012Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 日本探偵小説界寸評.mobi",
+  "mtime": "2024-12-03T18:11:42.236Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 日本上古の硬外交.mobi",
+  "mtime": "2024-12-03T18:11:38.266Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 名古屋の小酒井不木氏.mobi",
+  "mtime": "2024-12-03T18:11:34.502Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 独逸の範とすべき点.mobi",
+  "mtime": "2024-12-03T18:11:30.723Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 探偵文壇鳥瞰.mobi",
+  "mtime": "2024-12-03T18:11:27.009Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 探偵小説を作って貰い度い人々.mobi",
+  "mtime": "2024-12-03T18:11:23.194Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 他界の味其他.mobi",
+  "mtime": "2024-12-03T18:11:19.448Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 大衆物寸観.mobi",
+  "mtime": "2024-12-03T18:11:15.622Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 大衆文芸問答.mobi",
+  "mtime": "2024-12-03T18:11:11.765Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 前兆？.mobi",
+  "mtime": "2024-12-03T18:11:07.858Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 全体主義.mobi",
+  "mtime": "2024-12-03T18:11:04.147Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 世界の裏.mobi",
+  "mtime": "2024-12-03T18:11:00.401Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 社会主義者に非ず ―江戸川乱歩氏へ―.mobi",
+  "mtime": "2024-12-03T18:10:56.566Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 支那の思出.mobi",
+  "mtime": "2024-12-03T18:10:52.829Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 雑草一束.mobi",
+  "mtime": "2024-12-03T18:10:49.065Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 御存与太話.mobi",
+  "mtime": "2024-12-03T18:10:45.300Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 今昔茶話.mobi",
+  "mtime": "2024-12-03T18:10:41.579Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 小酒井不木氏の思い出 ―その丹念な創作態度―.mobi",
+  "mtime": "2024-12-03T18:10:37.667Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 小酒井さんのことども.mobi",
+  "mtime": "2024-12-03T18:10:33.874Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 愚言二十七箇条.mobi",
+  "mtime": "2024-12-03T18:10:30.161Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 孔雀の樹に就いて.mobi",
+  "mtime": "2024-12-03T18:10:26.373Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 思ったままを！.mobi",
+  "mtime": "2024-12-03T18:10:22.497Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 印度の詩人.mobi",
+  "mtime": "2024-12-03T18:10:18.712Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 印象に残った新作家.mobi",
+  "mtime": "2024-12-03T18:10:14.952Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 赤げっと　支那あちこち.mobi",
+  "mtime": "2024-12-03T18:10:11.240Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 小酒井不木氏スケッチ.mobi",
+  "mtime": "2024-12-03T18:10:07.239Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 「五階の窓」執筆に就いて ―不満二三―.mobi",
+  "mtime": "2024-12-03T18:10:03.390Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 隠亡堀.mobi",
+  "mtime": "2024-12-03T18:09:59.544Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 赤坂城の謀略.mobi",
+  "mtime": "2024-12-03T18:09:55.520Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 任侠二刀流.mobi",
+  "mtime": "2024-12-03T18:09:51.643Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 蔦葛木曽棧.mobi",
+  "mtime": "2024-12-03T18:09:41.559Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 五右衛門と新左.mobi",
+  "mtime": "2024-12-03T18:09:27.985Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] あさひの鎧.mobi",
+  "mtime": "2024-12-03T18:09:23.987Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 娘煙術師.mobi",
+  "mtime": "2024-12-03T18:09:07.777Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 剣侠.mobi",
+  "mtime": "2024-12-03T18:08:57.258Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 沙漠の古都.mobi",
+  "mtime": "2024-12-03T18:08:49.346Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 血曼陀羅紙帳武士.mobi",
+  "mtime": "2024-12-03T18:08:42.999Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 名人地獄.mobi",
+  "mtime": "2024-12-03T18:08:37.039Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 村井長庵記名の傘.mobi",
+  "mtime": "2024-12-03T18:08:29.770Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 岷山の隠士.mobi",
+  "mtime": "2024-12-03T18:08:25.951Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 二人町奴.mobi",
+  "mtime": "2024-12-03T18:08:21.875Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 善悪両面鼠小僧.mobi",
+  "mtime": "2024-12-03T18:08:17.948Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 郷介法師.mobi",
+  "mtime": "2024-12-03T18:08:14.040Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 銀三十枚.mobi",
+  "mtime": "2024-12-03T18:08:10.127Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 仇討姉妹笠.mobi",
+  "mtime": "2024-12-03T18:08:05.410Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 鸚鵡蔵代首伝説.mobi",
+  "mtime": "2024-12-03T18:07:59.749Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 鴉片を喫む美少年.mobi",
+  "mtime": "2024-12-03T18:07:55.825Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 赤格子九郎右衛門の娘.mobi",
+  "mtime": "2024-12-03T18:07:52.006Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 柳営秘録かつえ蔵.mobi",
+  "mtime": "2024-12-03T18:07:47.981Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 血ぬられた懐刀.mobi",
+  "mtime": "2024-12-03T18:07:43.964Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 前記天満焼.mobi",
+  "mtime": "2024-12-03T18:07:38.767Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 正雪の遺書.mobi",
+  "mtime": "2024-12-03T18:07:33.814Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 戯作者.mobi",
+  "mtime": "2024-12-03T18:07:30.003Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 弓道中祖伝.mobi",
+  "mtime": "2024-12-03T18:07:26.187Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 南蛮秘話森右近丸.mobi",
+  "mtime": "2024-12-03T18:07:22.341Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 大捕物仙人壺.mobi",
+  "mtime": "2024-12-03T18:07:17.367Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 銅銭会事変.mobi",
+  "mtime": "2024-12-03T18:07:12.310Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 三甚内.mobi",
+  "mtime": "2024-12-03T18:07:06.406Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 紅白縮緬組.mobi",
+  "mtime": "2024-12-03T18:07:00.512Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 大鵬のゆくえ.mobi",
+  "mtime": "2024-12-03T18:06:56.383Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 染吉の朱盆.mobi",
+  "mtime": "2024-12-03T18:06:50.245Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 加利福尼亜の宝島 （お伽冒険談）.mobi",
+  "mtime": "2024-12-03T18:06:46.150Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 十二神貝十郎手柄話.mobi",
+  "mtime": "2024-12-03T18:06:41.064Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 稚子法師.mobi",
+  "mtime": "2024-12-03T18:06:35.606Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 首頂戴.mobi",
+  "mtime": "2024-12-03T18:06:31.803Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 鵞湖仙人.mobi",
+  "mtime": "2024-12-03T18:06:27.966Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 天草四郎の妖術.mobi",
+  "mtime": "2024-12-03T18:06:23.983Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 赤格子九郎右衛門.mobi",
+  "mtime": "2024-12-03T18:06:20.068Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 生死卍巴.mobi",
+  "mtime": "2024-12-03T18:06:16.085Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 怪しの者.mobi",
+  "mtime": "2024-12-03T18:06:10.276Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 北斎と幽霊.mobi",
+  "mtime": "2024-12-03T18:06:06.429Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 日置流系図.mobi",
+  "mtime": "2024-12-03T18:06:02.566Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 猿ヶ京片耳伝説.mobi",
+  "mtime": "2024-12-03T18:05:58.707Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 開運の鼓.mobi",
+  "mtime": "2024-12-03T18:05:54.697Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 犬神娘.mobi",
+  "mtime": "2024-12-03T18:05:50.886Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 一枚絵の女.mobi",
+  "mtime": "2024-12-03T18:05:46.894Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 怪しの館.mobi",
+  "mtime": "2024-12-03T18:05:43.061Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 甲州鎮撫隊.mobi",
+  "mtime": "2024-12-03T18:05:39.019Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 神秘昆虫館.mobi",
+  "mtime": "2024-12-03T18:05:35.002Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 八ヶ嶽の魔神.mobi",
+  "mtime": "2024-12-03T18:05:24.815Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 天主閣の音.mobi",
+  "mtime": "2024-12-03T18:05:15.615Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 高島異誌.mobi",
+  "mtime": "2024-12-03T18:05:05.221Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[国枝史郎] 神州纐纈城.mobi",
+  "mtime": "2024-12-03T18:04:56.510Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[九条武子] 六甲山上の夏.mobi",
+  "mtime": "2024-12-03T18:04:46.205Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[陸羯南] 近時政論考.mobi",
+  "mtime": "2024-12-03T18:04:42.507Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[金史良] 土城廊.mobi",
+  "mtime": "2024-12-03T18:04:38.205Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[金史良] 親方コブセ.mobi",
+  "mtime": "2024-12-03T18:04:34.255Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[金史良] 尹主事.mobi",
+  "mtime": "2024-12-03T18:04:30.453Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[金史良] 天馬.mobi",
+  "mtime": "2024-12-03T18:04:26.629Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[金史良] 故郷を想う.mobi",
+  "mtime": "2024-12-03T18:04:22.464Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[金史良] 玄海灘密航.mobi",
+  "mtime": "2024-12-03T18:04:18.498Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[金史良] 光の中に.mobi",
+  "mtime": "2024-12-03T18:04:14.625Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[金史良] 荷.mobi",
+  "mtime": "2024-12-03T18:04:06.658Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[岸田劉生] 新古細句銀座通.mobi",
+  "mtime": "2024-12-03T18:04:02.707Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[岸田劉生] 想像と装飾の美 それを持つ特殊の個性によって生かさるべし.mobi",
+  "mtime": "2024-12-03T18:03:58.703Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[岸田劉生] ばけものばなし.mobi",
+  "mtime": "2024-12-03T18:03:54.846Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[岸田劉生] 美術上の婦人.mobi",
+  "mtime": "2024-12-03T18:03:50.416Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[河上肇] 放翁鑑賞 その七　――放翁詩話三十章――.mobi",
+  "mtime": "2024-12-03T18:03:46.589Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[河上肇] 枕上浮雲.mobi",
+  "mtime": "2024-12-03T18:03:42.306Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[河上肇] 閉戸閑詠.mobi",
+  "mtime": "2024-12-03T18:03:37.113Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[河上肇] 閑人詩話.mobi",
+  "mtime": "2024-12-03T18:03:26.493Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[河上肇] 放翁鑑賞 その六　――放翁絶句十三首和訳（つけたり、雑詩七首）――.mobi",
+  "mtime": "2024-12-03T18:03:21.533Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[河上肇] 小国寡民.mobi",
+  "mtime": "2024-12-03T18:03:12.468Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[河上肇] 御萩と七種粥.mobi",
+  "mtime": "2024-12-03T18:03:08.656Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[河上肇] 貧乏物語.mobi",
+  "mtime": "2024-12-03T18:03:04.544Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[河上肇] 随筆「断片」.mobi",
+  "mtime": "2024-12-03T18:02:53.538Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[嘉村礒多] 故郷に帰りゆくこころ.mobi",
+  "mtime": "2024-12-03T18:02:49.397Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[嘉村礒多] 途上.mobi",
+  "mtime": "2024-12-03T18:02:45.610Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[嘉村礒多] 滑川畔にて.mobi",
+  "mtime": "2024-12-03T18:02:41.305Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[嘉村礒多] 足相撲.mobi",
+  "mtime": "2024-12-03T18:02:37.441Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[嘉村礒多] 崖の下.mobi",
+  "mtime": "2024-12-03T18:02:33.679Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[嘉村礒多] 業苦.mobi",
+  "mtime": "2024-12-03T18:02:29.467Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[上司小劍] 天滿宮.mobi",
+  "mtime": "2024-12-03T18:02:25.436Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[上司小劍] 死刑.mobi",
+  "mtime": "2024-12-03T18:02:20.575Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[上司小劍] 東光院.mobi",
+  "mtime": "2024-12-03T18:02:14.514Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[上司小劍] 兵隊の宿.mobi",
+  "mtime": "2024-12-03T18:02:08.150Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[上司小劍] 鱧の皮.mobi",
+  "mtime": "2024-12-03T18:02:01.683Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[上司小劍] 父の婚禮.mobi",
+  "mtime": "2024-12-03T18:01:55.911Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[上司小劍] 太政官.mobi",
+  "mtime": "2024-12-03T18:01:50.845Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[上司小劍] ごりがん.mobi",
+  "mtime": "2024-12-03T18:01:45.397Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[上司小劍] 石川五右衞門の生立.mobi",
+  "mtime": "2024-12-03T18:01:41.192Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[上司小剣] 鱧の皮.mobi",
+  "mtime": "2024-12-03T18:01:34.683Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[加能作次郎] 早稲田神楽坂.mobi",
+  "mtime": "2024-12-03T18:01:30.748Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[加能作次郎] 世の中へ.mobi",
+  "mtime": "2024-12-03T18:01:26.798Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[加能作次郎] 厄年.mobi",
+  "mtime": "2024-12-03T18:01:20.783Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[加能作次郎] 乳の匂ひ.mobi",
+  "mtime": "2024-12-03T18:01:15.017Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[加能作次郎] 少年と海.mobi",
+  "mtime": "2024-12-03T18:01:10.418Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[加能作次郎] 恭三の父.mobi",
+  "mtime": "2024-12-03T18:01:06.638Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[金子文子] 何が私をこうさせたか ――獄中手記――.mobi",
+  "mtime": "2024-12-03T18:01:02.736Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[金子ふみ子] 父.mobi",
+  "mtime": "2024-12-03T18:00:54.844Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[加藤文太郎] 単独行.mobi",
+  "mtime": "2024-12-03T18:00:51.050Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[梶井久] 臨終まで.mobi",
+  "mtime": "2024-12-03T18:00:45.354Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[小野賢一郎] やきもの讀本.mobi",
+  "mtime": "2024-12-03T18:00:41.549Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[尾崎秀実] 遺書.mobi",
+  "mtime": "2024-12-03T18:00:30.324Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[小栗風葉] 片男波.mobi",
+  "mtime": "2024-12-03T18:00:26.592Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[小栗風葉] 世間師.mobi",
+  "mtime": "2024-12-03T18:00:22.813Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[小栗風葉] 深川女房.mobi",
+  "mtime": "2024-12-03T18:00:18.804Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[荻原守衞] 彫刻家の見たる美人.mobi",
+  "mtime": "2024-12-03T18:00:14.466Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[岡本一平] 坊つちやん「遺蹟めぐり」.mobi",
+  "mtime": "2024-12-03T18:00:10.617Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[岡本一平] 怪物取組画譜 出羽ヶ嶽その日その日.mobi",
+  "mtime": "2024-12-03T18:00:06.497Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[岡本一平] 相撲の稽古.mobi",
+  "mtime": "2024-12-03T18:00:02.202Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[岡本一平] 怪物と飯を食ふ話.mobi",
+  "mtime": "2024-12-03T17:59:58.391Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[岡本一平] 非凡人と凡人の遺書.mobi",
+  "mtime": "2024-12-03T17:59:54.109Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[岡倉覚三] 茶の本 茶の本.mobi",
+  "mtime": "2024-12-03T17:59:50.383Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 酒に死せる押川春浪.mobi",
+  "mtime": "2024-12-03T17:59:45.583Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 鎌倉大仏論.mobi",
+  "mtime": "2024-12-03T17:59:41.786Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 狹山紀行.mobi",
+  "mtime": "2024-12-03T17:59:38.102Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 飛鳥山遠足.mobi",
+  "mtime": "2024-12-03T17:59:34.274Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 夜の高尾山.mobi",
+  "mtime": "2024-12-03T17:59:30.546Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 町田村の香雪園.mobi",
+  "mtime": "2024-12-03T17:59:26.688Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 冬の榛名山.mobi",
+  "mtime": "2024-12-03T17:59:22.953Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 十和田湖.mobi",
+  "mtime": "2024-12-03T17:59:19.215Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 多摩川冒險記.mobi",
+  "mtime": "2024-12-03T17:59:15.365Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 上州沼田より日光へ.mobi",
+  "mtime": "2024-12-03T17:59:11.648Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 白河の七日.mobi",
+  "mtime": "2024-12-03T17:59:07.876Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 白河の關.mobi",
+  "mtime": "2024-12-03T17:59:03.985Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 鹽原新七不思議.mobi",
+  "mtime": "2024-12-03T17:59:00.245Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 近藤重藏の富士山.mobi",
+  "mtime": "2024-12-03T17:58:56.527Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 越ヶ谷の半日.mobi",
+  "mtime": "2024-12-03T17:58:52.786Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 金華山.mobi",
+  "mtime": "2024-12-03T17:58:49.031Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 鹿島詣.mobi",
+  "mtime": "2024-12-03T17:58:45.321Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 沖の小島.mobi",
+  "mtime": "2024-12-03T17:58:41.573Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 碓氷峠.mobi",
+  "mtime": "2024-12-03T17:58:37.935Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 石田堤.mobi",
+  "mtime": "2024-12-03T17:58:34.261Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 阿武隈川水源の仙境.mobi",
+  "mtime": "2024-12-03T17:58:30.574Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 足柄の山水.mobi",
+  "mtime": "2024-12-03T17:58:26.857Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 赤城山.mobi",
+  "mtime": "2024-12-03T17:58:23.184Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 層雲峡より大雪山へ.mobi",
+  "mtime": "2024-12-03T17:58:19.373Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 風船玉.mobi",
+  "mtime": "2024-12-03T17:58:15.600Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 箱根神社祈願の記.mobi",
+  "mtime": "2024-12-03T17:58:11.903Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 猫征伐.mobi",
+  "mtime": "2024-12-03T17:58:08.242Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 日月喩.mobi",
+  "mtime": "2024-12-03T17:58:04.538Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 南洲留魂祠.mobi",
+  "mtime": "2024-12-03T17:58:00.800Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 獨笑記.mobi",
+  "mtime": "2024-12-03T17:57:56.997Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 月の隅田川.mobi",
+  "mtime": "2024-12-03T17:57:53.235Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 牛經.mobi",
+  "mtime": "2024-12-03T17:57:49.522Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 妙義山の五日.mobi",
+  "mtime": "2024-12-03T17:57:45.654Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 水戸觀梅.mobi",
+  "mtime": "2024-12-03T17:57:41.789Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 豐島ヶ岡.mobi",
+  "mtime": "2024-12-03T17:57:38.082Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 常磐の山水.mobi",
+  "mtime": "2024-12-03T17:57:34.327Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 梅の吉野村.mobi",
+  "mtime": "2024-12-03T17:57:30.491Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 鹿野山.mobi",
+  "mtime": "2024-12-03T17:57:26.806Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 久地の梅林.mobi",
+  "mtime": "2024-12-03T17:57:23.049Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 小石川臺.mobi",
+  "mtime": "2024-12-03T17:57:19.287Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 小日向臺.mobi",
+  "mtime": "2024-12-03T17:57:15.555Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 杉田の一夜.mobi",
+  "mtime": "2024-12-03T17:57:11.658Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 宗吾靈堂.mobi",
+  "mtime": "2024-12-03T17:57:07.949Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 中野あるき.mobi",
+  "mtime": "2024-12-03T17:57:04.273Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 親馬鹿の旅.mobi",
+  "mtime": "2024-12-03T17:57:00.567Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 北條より一ノ宮へ.mobi",
+  "mtime": "2024-12-03T17:56:56.585Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 房州の一夏.mobi",
+  "mtime": "2024-12-03T17:56:52.802Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 親子遠足の感.mobi",
+  "mtime": "2024-12-03T17:56:49.027Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 吾嬬の森.mobi",
+  "mtime": "2024-12-03T17:56:45.363Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 小金井の櫻.mobi",
+  "mtime": "2024-12-03T17:56:41.702Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 八鹽のいでゆ.mobi",
+  "mtime": "2024-12-03T17:56:38.021Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 北總の十六島.mobi",
+  "mtime": "2024-12-03T17:56:34.303Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 春の筑波山.mobi",
+  "mtime": "2024-12-03T17:56:30.514Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 月の東京灣.mobi",
+  "mtime": "2024-12-03T17:56:26.417Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 千川の櫻.mobi",
+  "mtime": "2024-12-03T17:56:22.646Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 菅の堤の櫻.mobi",
+  "mtime": "2024-12-03T17:56:18.944Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 新武藏野の櫻.mobi",
+  "mtime": "2024-12-03T17:56:15.159Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 三里塚の櫻.mobi",
+  "mtime": "2024-12-03T17:56:11.382Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 一萬尺の山嶽.mobi",
+  "mtime": "2024-12-03T17:56:07.599Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 遊羽雜感.mobi",
+  "mtime": "2024-12-03T17:56:03.886Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 明治神宮と松.mobi",
+  "mtime": "2024-12-03T17:56:00.166Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 房州紀行.mobi",
+  "mtime": "2024-12-03T17:55:56.324Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 春の郊外.mobi",
+  "mtime": "2024-12-03T17:55:52.548Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 川越夜行記.mobi",
+  "mtime": "2024-12-03T17:55:48.807Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 粕壁夜行記.mobi",
+  "mtime": "2024-12-03T17:55:45.109Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 東京の近郊.mobi",
+  "mtime": "2024-12-03T17:55:41.310Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 千葉夜行記.mobi",
+  "mtime": "2024-12-03T17:55:37.619Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 小利根川の櫻.mobi",
+  "mtime": "2024-12-03T17:55:33.930Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 國府臺.mobi",
+  "mtime": "2024-12-03T17:55:30.280Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 川魚料理.mobi",
+  "mtime": "2024-12-03T17:55:26.547Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 秋の筑波山.mobi",
+  "mtime": "2024-12-03T17:55:22.785Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大町桂月] 月譜.mobi",
+  "mtime": "2024-12-03T17:55:19.083Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大阪圭吉] 坑鬼.mobi",
+  "mtime": "2024-12-03T17:55:15.344Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大阪圭吉] 石塀幽霊.mobi",
+  "mtime": "2024-12-03T17:55:11.267Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大阪圭吉] 花束の虫.mobi",
+  "mtime": "2024-12-03T17:55:07.396Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大阪圭吉] 香水紳士.mobi",
+  "mtime": "2024-12-03T17:55:03.505Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大阪圭吉] カンカン虫殺人事件.mobi",
+  "mtime": "2024-12-03T17:54:55.865Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大阪圭吉] 三の字旅行会.mobi",
+  "mtime": "2024-12-03T17:54:51.205Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大阪圭吉] 寒の夜晴れ.mobi",
+  "mtime": "2024-12-03T17:54:47.469Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大阪圭吉] 動かぬ鯨群.mobi",
+  "mtime": "2024-12-03T17:54:43.693Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大阪圭吉] 銀座幽霊.mobi",
+  "mtime": "2024-12-03T17:54:39.694Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大阪圭吉] あやつり裁判.mobi",
+  "mtime": "2024-12-03T17:54:35.892Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大阪圭吉] 白妖.mobi",
+  "mtime": "2024-12-03T17:54:32.099Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大阪圭吉] 三狂人.mobi",
+  "mtime": "2024-12-03T17:54:28.141Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大阪圭吉] 闖入者.mobi",
+  "mtime": "2024-12-03T17:54:24.328Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大阪圭吉] とむらい機関車.mobi",
+  "mtime": "2024-12-03T17:54:20.503Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大阪圭吉] 気狂い機関車.mobi",
+  "mtime": "2024-12-03T17:54:16.581Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大阪圭吉] 死の快走船.mobi",
+  "mtime": "2024-12-03T17:54:12.679Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大阪圭吉] デパートの絞刑吏.mobi",
+  "mtime": "2024-12-03T17:54:08.448Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大阪圭吉] 幽霊妻.mobi",
+  "mtime": "2024-12-03T17:54:04.573Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大阪圭吉] 灯台鬼.mobi",
+  "mtime": "2024-12-03T17:53:56.828Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[上田敏] まちむすめ.mobi",
+  "mtime": "2024-12-03T17:53:52.328Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[上田敏] さかほがひ.mobi",
+  "mtime": "2024-12-03T17:53:48.522Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[上田敏] 牧羊神.mobi",
+  "mtime": "2024-12-03T17:53:44.764Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[上田敏] 海潮音.mobi",
+  "mtime": "2024-12-03T17:53:36.950Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[上田敏] 月.mobi",
+  "mtime": "2024-12-03T17:53:29.950Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[上田敏訳詩集] 海潮音.mobi",
+  "mtime": "2024-12-03T17:53:26.232Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[上田敏] 『新訳源氏物語』初版の序.mobi",
+  "mtime": "2024-12-03T17:53:10.180Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[今井邦子] 雪解水.mobi",
+  "mtime": "2024-12-03T17:53:06.433Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[今井邦子] 佛法僧.mobi",
+  "mtime": "2024-12-03T17:53:02.761Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[今井邦子] 瀧.mobi",
+  "mtime": "2024-12-03T17:52:59.104Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[今井邦子] 誠心院の一夜.mobi",
+  "mtime": "2024-12-03T17:52:55.398Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[今井邦子] 伊那紀行.mobi",
+  "mtime": "2024-12-03T17:52:51.706Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[今井邦子] 水野仙子さんの思ひ出.mobi",
+  "mtime": "2024-12-03T17:52:47.987Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊波普猷] 土塊石片録.mobi",
+  "mtime": "2024-12-03T17:52:44.169Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊波普猷] 進化論より見たる沖縄の廃藩置県.mobi",
+  "mtime": "2024-12-03T17:52:39.793Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊波普猷] 沖縄人の最大欠点.mobi",
+  "mtime": "2024-12-03T17:52:36.042Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊波普猷] 浦添考.mobi",
+  "mtime": "2024-12-03T17:52:32.330Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊波普猷] 「古琉球」自序.mobi",
+  "mtime": "2024-12-03T17:52:28.478Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊波普猷] 「古琉球」改版に際して.mobi",
+  "mtime": "2024-12-03T17:52:24.759Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊波普猷] 琉球史の趨勢.mobi",
+  "mtime": "2024-12-03T17:52:21.005Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊波普猷] ユタの歴史的研究.mobi",
+  "mtime": "2024-12-03T17:52:17.065Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊波普猷] 私の子供時分.mobi",
+  "mtime": "2024-12-03T17:52:12.776Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] 広告.mobi",
+  "mtime": "2024-12-03T17:52:08.905Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] 人間山中貞雄.mobi",
+  "mtime": "2024-12-03T17:52:05.147Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] 著作権の問題.mobi",
+  "mtime": "2024-12-03T17:52:01.415Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] 戦争責任者の問題.mobi",
+  "mtime": "2024-12-03T17:51:57.637Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] 政治に関する随想.mobi",
+  "mtime": "2024-12-03T17:51:53.942Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] 雑文的雑文.mobi",
+  "mtime": "2024-12-03T17:51:50.224Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] 思い ――情報局の映画新体制案について――.mobi",
+  "mtime": "2024-12-03T17:51:46.373Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] 映画の普及力とは.mobi",
+  "mtime": "2024-12-03T17:51:42.658Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] 映画と民族性.mobi",
+  "mtime": "2024-12-03T17:51:38.966Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] ルネ・クレール私見.mobi",
+  "mtime": "2024-12-03T17:51:35.201Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] カメラに関する覚え書.mobi",
+  "mtime": "2024-12-03T17:51:31.424Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] カタカナニツイテ.mobi",
+  "mtime": "2024-12-03T17:51:27.650Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] 私の活動写真傍観史.mobi",
+  "mtime": "2024-12-03T17:51:23.965Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] わが妻の記.mobi",
+  "mtime": "2024-12-03T17:51:20.137Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] 余裕のことなど.mobi",
+  "mtime": "2024-12-03T17:51:16.405Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] 映画と音楽.mobi",
+  "mtime": "2024-12-03T17:51:12.729Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] 「ファン」について.mobi",
+  "mtime": "2024-12-03T17:51:08.899Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] 顔の美について.mobi",
+  "mtime": "2024-12-03T17:51:05.142Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] 一つの世界 ――私信――.mobi",
+  "mtime": "2024-12-03T17:51:01.447Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] 戦争中止を望む.mobi",
+  "mtime": "2024-12-03T17:50:57.644Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] 映画と癩の問題.mobi",
+  "mtime": "2024-12-03T17:50:53.886Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] 映画界手近の問題.mobi",
+  "mtime": "2024-12-03T17:50:50.160Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[伊丹万作] 演技指導論草案.mobi",
+  "mtime": "2024-12-03T17:50:46.311Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[石原莞爾] 戦争史大観.mobi",
+  "mtime": "2024-12-03T17:50:42.359Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[石原莞爾] 新日本の進路 石原莞爾將軍の遺書.mobi",
+  "mtime": "2024-12-03T17:50:32.268Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[石原莞爾] 最終戦争論.mobi",
+  "mtime": "2024-12-03T17:50:28.296Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[石田孫太郎] 猫と色の嗜好.mobi",
+  "mtime": "2024-12-03T17:50:23.352Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[生田春月] 滅亡の喜び.mobi",
+  "mtime": "2024-12-03T17:50:19.564Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[生田春月] 象徴の烏賊.mobi",
+  "mtime": "2024-12-03T17:50:15.836Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[生田春月] 誤植.mobi",
+  "mtime": "2024-12-03T17:50:12.073Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[生田春月] 幸福が遅く来たなら.mobi",
+  "mtime": "2024-12-03T17:50:08.312Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[生田春月] 聖書.mobi",
+  "mtime": "2024-12-03T17:50:04.560Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[スワンテ・アウグスト・アーレニウス　Svante August Arrhenius] 宇宙の始まり.mobi",
+  "mtime": "2024-12-03T17:50:00.075Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[阿部徳蔵] 美術曲芸しん粉細工.mobi",
+  "mtime": "2024-12-03T17:49:50.586Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[小泉節子] 思い出の記.mobi",
+  "mtime": "2024-12-03T17:49:46.845Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 五階の窓 合作の二.mobi",
+  "mtime": "2024-12-03T17:49:39.162Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 昭和四年の文壇の概観.mobi",
+  "mtime": "2024-12-03T17:49:35.195Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 新人の諸作一括.mobi",
+  "mtime": "2024-12-03T17:49:31.286Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 『心理試験』を読む.mobi",
+  "mtime": "2024-12-03T17:49:27.443Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 探偵小説壇の諸傾向.mobi",
+  "mtime": "2024-12-03T17:49:23.571Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 探偵小説の世界的流行.mobi",
+  "mtime": "2024-12-03T17:49:19.774Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 誰が何故彼を殺したか.mobi",
+  "mtime": "2024-12-03T17:49:15.897Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 角田喜久雄「肉」.mobi",
+  "mtime": "2024-12-03T17:49:11.929Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 鉄の規律.mobi",
+  "mtime": "2024-12-03T17:49:08.061Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 当選作所感.mobi",
+  "mtime": "2024-12-03T17:49:04.137Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 動物園の一夜.mobi",
+  "mtime": "2024-12-03T17:49:00.222Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 謎の女.mobi",
+  "mtime": "2024-12-03T17:48:56.167Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 夏の夜の冒険.mobi",
+  "mtime": "2024-12-03T17:48:52.276Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 日本の近代的探偵小説 ――特に江戸川乱歩氏に就て――.mobi",
+  "mtime": "2024-12-03T17:48:48.335Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 華やかな罪過.mobi",
+  "mtime": "2024-12-03T17:48:44.503Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 「華やかな罪過」作者として.mobi",
+  "mtime": "2024-12-03T17:48:40.447Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 秘密.mobi",
+  "mtime": "2024-12-03T17:48:36.598Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 二つの文学論.mobi",
+  "mtime": "2024-12-03T17:48:32.624Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 二人の盲人.mobi",
+  "mtime": "2024-12-03T17:48:28.856Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 文芸は進化するか、その他.mobi",
+  "mtime": "2024-12-03T17:48:24.780Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 祭の夜.mobi",
+  "mtime": "2024-12-03T17:48:20.984Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 乱歩氏の諸作.mobi",
+  "mtime": "2024-12-03T17:48:16.981Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 私はかうして死んだ！.mobi",
+  "mtime": "2024-12-03T17:48:13.147Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 私の要求する探偵小説.mobi",
+  "mtime": "2024-12-03T17:48:09.233Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] アパートの殺人.mobi",
+  "mtime": "2024-12-03T17:48:05.372Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] ウイツテ伯回想記その他.mobi",
+  "mtime": "2024-12-03T17:48:01.330Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] オパール色の手紙 ――ある女の日記――.mobi",
+  "mtime": "2024-12-03T17:47:57.384Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] クローズアップ.mobi",
+  "mtime": "2024-12-03T17:47:53.421Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] ヂユパンの癖とヴァンスの癖.mobi",
+  "mtime": "2024-12-03T17:47:49.677Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] ブリユンチエールの言葉について.mobi",
+  "mtime": "2024-12-03T17:47:45.758Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] ホオムズの探偵法.mobi",
+  "mtime": "2024-12-03T17:47:41.939Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] ポウの本質.mobi",
+  "mtime": "2024-12-03T17:47:38.055Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] ルヴエルの『夜鳥』.mobi",
+  "mtime": "2024-12-03T17:47:34.216Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] ヴアン・ダインの作風.mobi",
+  "mtime": "2024-12-03T17:47:30.326Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 少年探偵　呉田博士と与一.mobi",
+  "mtime": "2024-12-03T17:47:26.393Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 四月号の創作三つ.mobi",
+  "mtime": "2024-12-03T17:47:22.503Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 雑文一束.mobi",
+  "mtime": "2024-12-03T17:47:18.646Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 作家としての小酒井博士.mobi",
+  "mtime": "2024-12-03T17:47:14.746Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 今年印象に残れる作品.mobi",
+  "mtime": "2024-12-03T17:47:10.916Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 小酒井不木氏.mobi",
+  "mtime": "2024-12-03T17:47:07.061Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 甲賀三郎『琥珀のパイプ』序.mobi",
+  "mtime": "2024-12-03T17:47:03.169Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 黒岩涙香のこと.mobi",
+  "mtime": "2024-12-03T17:46:57.745Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 現下文壇と探偵小説.mobi",
+  "mtime": "2024-12-03T17:46:53.974Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 探偵戯曲　仮面の男.mobi",
+  "mtime": "2024-12-03T17:46:50.172Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 江戸川乱歩.mobi",
+  "mtime": "2024-12-03T17:46:46.149Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 「陰獣」その他.mobi",
+  "mtime": "2024-12-03T17:46:42.406Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 伊豆の国にて.mobi",
+  "mtime": "2024-12-03T17:46:38.381Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 或る探訪記者の話.mobi",
+  "mtime": "2024-12-03T17:46:34.527Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 悪魔の聖壇.mobi",
+  "mtime": "2024-12-03T17:46:30.627Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 愛読作家についての断片.mobi",
+  "mtime": "2024-12-03T17:46:26.692Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 犠牲者.mobi",
+  "mtime": "2024-12-03T17:46:22.843Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 予審調書.mobi",
+  "mtime": "2024-12-03T17:46:19.096Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 諸家の芸術価値理論の批判.mobi",
+  "mtime": "2024-12-03T17:46:15.364Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 政治的価値と芸術的価値 マルクス主義文学理論の再吟味.mobi",
+  "mtime": "2024-12-03T17:46:11.608Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 頭と足.mobi",
+  "mtime": "2024-12-03T17:46:07.949Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] エミイル・ゾラの文学方法論.mobi",
+  "mtime": "2024-12-03T17:46:04.207Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 文学方法論.mobi",
+  "mtime": "2024-12-03T17:46:00.506Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 文学の本質について（二）.mobi",
+  "mtime": "2024-12-03T17:45:56.725Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 文学の本質について（一）.mobi",
+  "mtime": "2024-12-03T17:45:52.697Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 人造人間.mobi",
+  "mtime": "2024-12-03T17:45:48.997Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 山吹町の殺人.mobi",
+  "mtime": "2024-12-03T17:45:45.222Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 中西氏に答う.mobi",
+  "mtime": "2024-12-03T17:45:41.369Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 文藝運動と勞働運動.mobi",
+  "mtime": "2024-12-03T17:45:33.814Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 唯物史觀と文學.mobi",
+  "mtime": "2024-12-03T17:45:29.906Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 商品としての近代小説.mobi",
+  "mtime": "2024-12-03T17:45:25.941Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[平林初之輔] 政治的價値と藝術的價値　マルクス主義文學理論の再吟味.mobi",
+  "mtime": "2024-12-03T17:45:22.266Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[吉江喬松] 海潮の響.mobi",
+  "mtime": "2024-12-03T17:45:14.177Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[吉江喬松] 氷島の漁夫 「氷島の漁夫」について.mobi",
+  "mtime": "2024-12-03T17:45:10.454Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[吉江喬松] 山岳美觀.mobi",
+  "mtime": "2024-12-03T17:45:06.049Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[吉江喬松] 木曾御嶽の両面.mobi",
+  "mtime": "2024-12-03T17:44:50.933Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[吉江喬松] 伊良湖の旅.mobi",
+  "mtime": "2024-12-03T17:44:47.058Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[吉江喬松] 霧の旅.mobi",
+  "mtime": "2024-12-03T17:44:43.222Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[吉江孤雁] 夢.mobi",
+  "mtime": "2024-12-03T17:44:39.142Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[吉江喬松] 五月雨.mobi",
+  "mtime": "2024-12-03T17:44:35.407Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[里村欣三] 放浪の宿.mobi",
+  "mtime": "2024-12-03T17:44:31.689Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[里村欣三] シベリヤに近く.mobi",
+  "mtime": "2024-12-03T17:44:26.739Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[里村欣三] 苦力頭の表情.mobi",
+  "mtime": "2024-12-03T17:44:22.883Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] ハイデッゲル教授の想い出.mobi",
+  "mtime": "2024-12-03T17:44:18.952Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 西田先生のことども.mobi",
+  "mtime": "2024-12-03T17:44:15.218Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 書物の倫理.mobi",
+  "mtime": "2024-12-03T17:44:11.374Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 軽蔑された飜訳.mobi",
+  "mtime": "2024-12-03T17:44:07.670Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 如何に読書すべきか.mobi",
+  "mtime": "2024-12-03T17:44:03.948Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 日記と自叙伝.mobi",
+  "mtime": "2024-12-03T17:44:00.098Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 唯物史観と現代の意識.mobi",
+  "mtime": "2024-12-03T17:43:56.249Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 認識論.mobi",
+  "mtime": "2024-12-03T17:43:50.303Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 辞書の客観性.mobi",
+  "mtime": "2024-12-03T17:43:46.281Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 論理と直觀.mobi",
+  "mtime": "2024-12-03T17:43:42.538Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 親鸞.mobi",
+  "mtime": "2024-12-03T17:43:38.883Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 哲學はやさしくできないか.mobi",
+  "mtime": "2024-12-03T17:43:33.311Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 哲學はどう學んでゆくか.mobi",
+  "mtime": "2024-12-03T17:43:29.598Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 人生論ノート.mobi",
+  "mtime": "2024-12-03T17:43:25.573Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 歴史哲學.mobi",
+  "mtime": "2024-12-03T17:43:20.672Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] マルクス主義と唯物論.mobi",
+  "mtime": "2024-12-03T17:43:15.188Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] ゲーテに於ける自然と歴史.mobi",
+  "mtime": "2024-12-03T17:43:11.211Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 私の果樹園.mobi",
+  "mtime": "2024-12-03T17:43:07.118Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] わが青春.mobi",
+  "mtime": "2024-12-03T17:43:03.357Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 読書遍歴.mobi",
+  "mtime": "2024-12-03T17:42:59.613Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 生存理由としての哲学 ――哲学界に与うる書――.mobi",
+  "mtime": "2024-12-03T17:42:55.684Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 政治の論理と人間の論理.mobi",
+  "mtime": "2024-12-03T17:42:51.940Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 自己を中心に.mobi",
+  "mtime": "2024-12-03T17:42:48.160Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 思索者の日記.mobi",
+  "mtime": "2024-12-03T17:42:44.375Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 危機における理論的意識.mobi",
+  "mtime": "2024-12-03T17:42:40.620Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 科学批判の課題.mobi",
+  "mtime": "2024-12-03T17:42:36.907Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 解釈学と修辞学.mobi",
+  "mtime": "2024-12-03T17:42:32.997Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 哲学入門.mobi",
+  "mtime": "2024-12-03T17:42:29.150Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 消息一通 一九二四年一月一日　マールブルク.mobi",
+  "mtime": "2024-12-03T17:42:24.544Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[三木清] 語られざる哲学.mobi",
+  "mtime": "2024-12-03T17:42:15.351Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[直木三十五] 春夫偏見.mobi",
+  "mtime": "2024-12-03T17:42:11.267Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[直木三十五] 大岡越前の独立.mobi",
+  "mtime": "2024-12-03T17:42:07.531Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[直木三十五] 新訂雲母阪.mobi",
+  "mtime": "2024-12-03T17:42:03.424Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[直木三十五] ロボットとベッドの重量.mobi",
+  "mtime": "2024-12-03T17:41:59.616Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[直木三十五] 南国太平記.mobi",
+  "mtime": "2024-12-03T17:41:55.611Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[直木三十五] 近藤勇と科学.mobi",
+  "mtime": "2024-12-03T17:41:39.454Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[直木三十五] 貧乏一期、二期、三期 わが落魄の記.mobi",
+  "mtime": "2024-12-03T17:41:35.511Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[直木三十五] 大阪を歩く.mobi",
+  "mtime": "2024-12-03T17:41:31.751Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[直木三十五] 長谷川時雨が卅歳若かつたら.mobi",
+  "mtime": "2024-12-03T17:41:27.491Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[直木三十五] 著者小傳.mobi",
+  "mtime": "2024-12-03T17:41:23.683Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[直木三十五] 死までを語る.mobi",
+  "mtime": "2024-12-03T17:41:19.910Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[直木三十五] 大衆文芸作法.mobi",
+  "mtime": "2024-12-03T17:41:15.581Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[直木三十五] 寛永武道鑑.mobi",
+  "mtime": "2024-12-03T17:41:10.959Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[直木三十五] 寺坂吉右衛門の逃亡.mobi",
+  "mtime": "2024-12-03T17:41:07.127Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[直木三十五] 三人の相馬大作.mobi",
+  "mtime": "2024-12-03T17:41:03.289Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[直木三十五] 傾城買虎之巻.mobi",
+  "mtime": "2024-12-03T17:40:58.875Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[直木三十五] 相馬の仇討.mobi",
+  "mtime": "2024-12-03T17:40:55.031Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[直木三十五] 巌流島.mobi",
+  "mtime": "2024-12-03T17:40:51.038Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[直木三十五] 鍵屋の辻.mobi",
+  "mtime": "2024-12-03T17:40:47.298Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] 一夜のうれい.mobi",
+  "mtime": "2024-12-03T17:40:43.455Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] 日光山の奧.mobi",
+  "mtime": "2024-12-03T17:40:39.808Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] 秋の岐蘇路.mobi",
+  "mtime": "2024-12-03T17:40:35.466Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] 丘の上の家 抄.mobi",
+  "mtime": "2024-12-03T17:40:31.472Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] 日本橋附近.mobi",
+  "mtime": "2024-12-03T17:40:27.815Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 草みち 序.mobi",
+  "mtime": "2024-12-03T17:40:24.033Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 「椿」序.mobi",
+  "mtime": "2024-12-03T17:40:20.361Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 「毒と薬」序.mobi",
+  "mtime": "2024-12-03T17:40:16.735Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] 父の墓.mobi",
+  "mtime": "2024-12-03T17:40:13.067Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] 耶馬渓の一夜.mobi",
+  "mtime": "2024-12-03T17:40:08.899Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 山のホテル.mobi",
+  "mtime": "2024-12-03T17:40:05.185Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 町.mobi",
+  "mtime": "2024-12-03T17:40:01.500Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 北京の一夜.mobi",
+  "mtime": "2024-12-03T17:39:57.585Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 晩秋の頃.mobi",
+  "mtime": "2024-12-03T17:39:53.789Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 春雨にぬれた旅.mobi",
+  "mtime": "2024-12-03T17:39:50.092Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 春.mobi",
+  "mtime": "2024-12-03T17:39:46.262Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 談片.mobi",
+  "mtime": "2024-12-03T17:39:42.638Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 紅葉山人訪問記.mobi",
+  "mtime": "2024-12-03T17:39:38.964Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 草津から伊香保まで.mobi",
+  "mtime": "2024-12-03T17:39:35.136Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 女の温泉.mobi",
+  "mtime": "2024-12-03T17:39:31.353Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 隠岐がよひの船.mobi",
+  "mtime": "2024-12-03T17:39:27.547Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 行つて見たいところ.mobi",
+  "mtime": "2024-12-03T17:39:23.821Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] あちこちの渓谷.mobi",
+  "mtime": "2024-12-03T17:39:20.053Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] ペチヨリンとゲザ.mobi",
+  "mtime": "2024-12-03T17:39:16.310Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] スケツチ.mobi",
+  "mtime": "2024-12-03T17:39:12.487Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] エンジンの響.mobi",
+  "mtime": "2024-12-03T17:39:08.707Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] レイモンドの『農民』.mobi",
+  "mtime": "2024-12-03T17:39:04.934Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] モウタアの輪.mobi",
+  "mtime": "2024-12-03T17:39:01.199Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 私の考へてゐる事.mobi",
+  "mtime": "2024-12-03T17:38:57.428Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 私と外国文学.mobi",
+  "mtime": "2024-12-03T17:38:53.642Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 正宗君について.mobi",
+  "mtime": "2024-12-03T17:38:49.891Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] アンナ、パブロオナ.mobi",
+  "mtime": "2024-12-03T17:38:46.241Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] アカシヤの花.mobi",
+  "mtime": "2024-12-03T17:38:42.468Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 路傍の小草.mobi",
+  "mtime": "2024-12-03T17:38:38.617Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 浴室.mobi",
+  "mtime": "2024-12-03T17:38:34.924Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 百合子.mobi",
+  "mtime": "2024-12-03T17:38:31.118Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 明治文学の概観.mobi",
+  "mtime": "2024-12-03T17:38:27.296Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 自からを信ぜよ.mobi",
+  "mtime": "2024-12-03T17:38:23.605Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 文壇一夕話.mobi",
+  "mtime": "2024-12-03T17:38:19.862Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 船路.mobi",
+  "mtime": "2024-12-03T17:38:16.080Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 不思議な鳥.mobi",
+  "mtime": "2024-12-03T17:38:12.166Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 批評的精神を難ず.mobi",
+  "mtime": "2024-12-03T17:38:08.405Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 批評.mobi",
+  "mtime": "2024-12-03T17:38:04.629Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] ひとつのパラソル.mobi",
+  "mtime": "2024-12-03T17:38:00.846Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 花二三ヶ所.mobi",
+  "mtime": "2024-12-03T17:37:56.959Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 墓の上に墓.mobi",
+  "mtime": "2024-12-03T17:37:53.247Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 野の花を.mobi",
+  "mtime": "2024-12-03T17:37:49.480Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 半日の閑話.mobi",
+  "mtime": "2024-12-03T17:37:45.728Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 花束.mobi",
+  "mtime": "2024-12-03T17:37:41.967Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 波の音.mobi",
+  "mtime": "2024-12-03T17:37:38.193Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 夏.mobi",
+  "mtime": "2024-12-03T17:37:34.465Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 動的芸術.mobi",
+  "mtime": "2024-12-03T17:37:30.654Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 時子.mobi",
+  "mtime": "2024-12-03T17:37:26.907Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 手品.mobi",
+  "mtime": "2024-12-03T17:37:23.103Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 通俗小説.mobi",
+  "mtime": "2024-12-03T17:37:19.356Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 中秋の頃.mobi",
+  "mtime": "2024-12-03T17:37:15.509Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 父親.mobi",
+  "mtime": "2024-12-03T17:37:11.771Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 知多の野間で.mobi",
+  "mtime": "2024-12-03T17:37:07.992Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 脱却の工夫.mobi",
+  "mtime": "2024-12-03T17:37:04.309Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 石窟.mobi",
+  "mtime": "2024-12-03T17:36:59.336Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 玉野川の渓谷.mobi",
+  "mtime": "2024-12-03T17:36:55.500Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 旅から帰つて.mobi",
+  "mtime": "2024-12-03T17:36:51.810Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 谷合の碧い空.mobi",
+  "mtime": "2024-12-03T17:36:48.136Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 卓上語.mobi",
+  "mtime": "2024-12-03T17:36:44.338Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 存在.mobi",
+  "mtime": "2024-12-03T17:36:40.641Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 早春.mobi",
+  "mtime": "2024-12-03T17:36:36.894Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 生滅の心理.mobi",
+  "mtime": "2024-12-03T17:36:33.171Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 須磨子の死.mobi",
+  "mtime": "2024-12-03T17:36:29.470Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 水源を思ふ.mobi",
+  "mtime": "2024-12-03T17:36:25.733Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 迅雷.mobi",
+  "mtime": "2024-12-03T17:36:22.002Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 樹木と空飛ぶ鳥.mobi",
+  "mtime": "2024-12-03T17:36:18.225Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 自他の融合.mobi",
+  "mtime": "2024-12-03T17:36:14.480Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 地震の時.mobi",
+  "mtime": "2024-12-03T17:36:10.793Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 心理の縦断と横断.mobi",
+  "mtime": "2024-12-03T17:36:07.071Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 心理の縦断.mobi",
+  "mtime": "2024-12-03T17:36:03.336Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 真剣の強味.mobi",
+  "mtime": "2024-12-03T17:35:59.530Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 初冬の記事.mobi",
+  "mtime": "2024-12-03T17:35:55.809Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 小説への二つの道.mobi",
+  "mtime": "2024-12-03T17:35:52.109Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 小説新論.mobi",
+  "mtime": "2024-12-03T17:35:48.372Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 社会と自己.mobi",
+  "mtime": "2024-12-03T17:35:44.416Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 社会劇と印象派.mobi",
+  "mtime": "2024-12-03T17:35:40.770Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 島の唄.mobi",
+  "mtime": "2024-12-03T17:35:37.011Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 島からの帰途.mobi",
+  "mtime": "2024-12-03T17:35:33.187Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 自然.mobi",
+  "mtime": "2024-12-03T17:35:29.583Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 静かな日.mobi",
+  "mtime": "2024-12-03T17:35:25.782Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 雑事.mobi",
+  "mtime": "2024-12-03T17:35:22.035Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 三月の創作.mobi",
+  "mtime": "2024-12-03T17:35:18.304Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 山間の旅舎.mobi",
+  "mtime": "2024-12-03T17:35:14.357Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 百日紅.mobi",
+  "mtime": "2024-12-03T17:35:10.646Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 作者の言葉.mobi",
+  "mtime": "2024-12-03T17:35:06.820Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 西鶴小論.mobi",
+  "mtime": "2024-12-03T17:35:03.077Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 孤独と法身.mobi",
+  "mtime": "2024-12-03T17:34:59.269Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 心の階段.mobi",
+  "mtime": "2024-12-03T17:34:55.297Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 心の絵.mobi",
+  "mtime": "2024-12-03T17:34:51.575Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 現代と旋廻軸.mobi",
+  "mtime": "2024-12-03T17:34:47.903Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 月明夜々.mobi",
+  "mtime": "2024-12-03T17:34:44.143Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 解脱非解脱.mobi",
+  "mtime": "2024-12-03T17:34:40.438Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 娟々細々.mobi",
+  "mtime": "2024-12-03T17:34:36.605Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 黒猫.mobi",
+  "mtime": "2024-12-03T17:34:32.955Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] くつは虫.mobi",
+  "mtime": "2024-12-03T17:34:25.491Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] くづれた土手.mobi",
+  "mtime": "2024-12-03T17:34:21.720Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 草みち.mobi",
+  "mtime": "2024-12-03T17:34:17.616Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 草道.mobi",
+  "mtime": "2024-12-03T17:34:13.763Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 閑談.mobi",
+  "mtime": "2024-12-03T17:34:10.073Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 間居.mobi",
+  "mtime": "2024-12-03T17:34:06.307Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 女と情と愛と.mobi",
+  "mtime": "2024-12-03T17:34:02.558Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 尾崎紅葉とその作品.mobi",
+  "mtime": "2024-12-03T17:33:58.858Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 大阪で.mobi",
+  "mtime": "2024-12-03T17:33:55.088Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 海をわたる.mobi",
+  "mtime": "2024-12-03T17:33:51.419Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 伊良湖岬.mobi",
+  "mtime": "2024-12-03T17:33:47.575Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 犬.mobi",
+  "mtime": "2024-12-03T17:33:43.811Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 田舎からの手紙.mobi",
+  "mtime": "2024-12-03T17:33:39.971Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 一室.mobi",
+  "mtime": "2024-12-03T17:33:35.883Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 一少女.mobi",
+  "mtime": "2024-12-03T17:33:32.145Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 磯清水.mobi",
+  "mtime": "2024-12-03T17:33:28.404Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] ある日の印旛沼.mobi",
+  "mtime": "2024-12-03T17:33:24.574Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] ある日.mobi",
+  "mtime": "2024-12-03T17:33:20.868Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] ある時に.mobi",
+  "mtime": "2024-12-03T17:33:17.033Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 或新年の小説評.mobi",
+  "mtime": "2024-12-03T17:33:13.328Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 雨の日に.mobi",
+  "mtime": "2024-12-03T17:33:09.599Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 新しい生.mobi",
+  "mtime": "2024-12-03T17:33:05.783Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] あさぢ沼.mobi",
+  "mtime": "2024-12-03T17:33:02.041Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 赤い鳥居.mobi",
+  "mtime": "2024-12-03T17:32:58.259Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 『水野仙子集』と其他.mobi",
+  "mtime": "2024-12-03T17:32:54.520Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 『蒲団』を書いた頃.mobi",
+  "mtime": "2024-12-03T17:32:50.766Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] J. K. Huys Mans の小説.mobi",
+  "mtime": "2024-12-03T17:32:47.041Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] バザンの小説.mobi",
+  "mtime": "2024-12-03T17:32:43.301Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 欲望と理想.mobi",
+  "mtime": "2024-12-03T17:32:39.600Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 本能.mobi",
+  "mtime": "2024-12-03T17:32:35.871Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 泡鳴氏の『耽溺』.mobi",
+  "mtime": "2024-12-03T17:32:32.167Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 踏査.mobi",
+  "mtime": "2024-12-03T17:32:28.481Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 人生の爲めの藝術.mobi",
+  "mtime": "2024-12-03T17:32:24.702Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 充實した文章.mobi",
+  "mtime": "2024-12-03T17:32:21.005Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 神經家の言.mobi",
+  "mtime": "2024-12-03T17:32:17.325Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 現實.mobi",
+  "mtime": "2024-12-03T17:32:13.591Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 一國の首都.mobi",
+  "mtime": "2024-12-03T17:32:09.897Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山録弥] 『マダム・ボワリーの故郷』.mobi",
+  "mtime": "2024-12-03T17:32:06.294Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] 子供と旅.mobi",
+  "mtime": "2024-12-03T17:32:02.408Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] 重右衛門の最後.mobi",
+  "mtime": "2024-12-03T17:31:58.666Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] 『田舎教師』について.mobi",
+  "mtime": "2024-12-03T17:31:53.295Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] 日光.mobi",
+  "mtime": "2024-12-03T17:31:49.448Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] 朝.mobi",
+  "mtime": "2024-12-03T17:31:45.601Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] ある僧の奇蹟.mobi",
+  "mtime": "2024-12-03T17:31:41.680Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] 歸國.mobi",
+  "mtime": "2024-12-03T17:31:37.077Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] トコヨゴヨミ.mobi",
+  "mtime": "2024-12-03T17:31:33.262Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] 新茶のかおり.mobi",
+  "mtime": "2024-12-03T17:31:29.418Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] 道綱の母.mobi",
+  "mtime": "2024-12-03T17:31:25.615Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] 蒲団.mobi",
+  "mtime": "2024-12-03T17:31:20.067Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] 田舎教師.mobi",
+  "mtime": "2024-12-03T17:31:14.605Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] 少女病.mobi",
+  "mtime": "2024-12-03T17:31:06.154Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] ネギ一束.mobi",
+  "mtime": "2024-12-03T17:30:58.349Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[田山花袋] 一兵卒.mobi",
+  "mtime": "2024-12-03T17:30:54.589Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 桜さく島 見知らぬ世界.mobi",
+  "mtime": "2024-12-03T17:30:46.866Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 桜さく島 春のかはたれ.mobi",
+  "mtime": "2024-12-03T17:30:42.452Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 春.mobi",
+  "mtime": "2024-12-03T17:30:37.594Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] はしがき.mobi",
+  "mtime": "2024-12-03T17:30:31.403Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 少年・春.mobi",
+  "mtime": "2024-12-03T17:30:27.741Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 夜.mobi",
+  "mtime": "2024-12-03T17:30:23.859Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 街の子.mobi",
+  "mtime": "2024-12-03T17:30:20.062Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 博多人形.mobi",
+  "mtime": "2024-12-03T17:30:16.371Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 人形物語.mobi",
+  "mtime": "2024-12-03T17:30:12.291Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 朝.mobi",
+  "mtime": "2024-12-03T17:30:08.611Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] おさなき燈台守.mobi",
+  "mtime": "2024-12-03T17:30:04.876Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 最初の悲哀.mobi",
+  "mtime": "2024-12-03T17:30:01.053Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 風.mobi",
+  "mtime": "2024-12-03T17:29:57.322Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 玩具の汽缶車.mobi",
+  "mtime": "2024-12-03T17:29:53.596Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 大きな手.mobi",
+  "mtime": "2024-12-03T17:29:49.876Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 大きな蝙蝠傘.mobi",
+  "mtime": "2024-12-03T17:29:46.052Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 日輪草 日輪草は何故枯れたか.mobi",
+  "mtime": "2024-12-03T17:29:42.362Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 誰が・何時・何処で・何をした.mobi",
+  "mtime": "2024-12-03T17:29:38.689Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] たどんの與太さん.mobi",
+  "mtime": "2024-12-03T17:29:34.936Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] クリスマスの贈物.mobi",
+  "mtime": "2024-12-03T17:29:31.157Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 都の眼.mobi",
+  "mtime": "2024-12-03T17:29:27.416Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 先生の顔.mobi",
+  "mtime": "2024-12-03T17:29:23.695Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] コドモノスケッチ帖 動物園にて.mobi",
+  "mtime": "2024-12-03T17:29:18.984Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 秘密.mobi",
+  "mtime": "2024-12-03T17:28:58.334Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] ある眼.mobi",
+  "mtime": "2024-12-03T17:28:54.659Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] 砂がき.mobi",
+  "mtime": "2024-12-03T17:28:50.986Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[竹久夢二] どんたく 絵入り小唄集.mobi",
+  "mtime": "2024-12-03T17:28:44.949Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[ニコライ・ゴーゴリ][ニコライ・ゴーゴリ　Nikolai Vasilievitch Gogoli] ディカーニカ近郷夜話　後篇 呪禁のかかつた土地（×××寺の役僧から聞いた実話）.mobi",
+  "mtime": "2024-12-03T17:28:37.360Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[ニコライ・ゴーゴリ][ニコライ・ゴーゴリ　Nikolai Vasilievitch Gogoli] ディカーニカ近郷夜話　後篇 イワン・フョードロヸッチ・シュポーニカとその叔母.mobi",
+  "mtime": "2024-12-03T17:28:33.061Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[ニコライ・ゴーゴリ][ニコライ・ゴーゴリ　Nikolai Vasilievitch Gogoli] ディカーニカ近郷夜話　後篇 怖ろしき復讐.mobi",
+  "mtime": "2024-12-03T17:28:27.505Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[ニコライ・ゴーゴリ][ニコライ・ゴーゴリ　Nikolai Vasilievitch Gogoli] ディカーニカ近郷夜話　後篇 降誕祭の前夜.mobi",
+  "mtime": "2024-12-03T17:28:22.701Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[ニコライ・ゴーゴリ][ニコライ・ゴーゴリ　Nikolai Vasilievitch Gogoli] ディカーニカ近郷夜話　後篇 はしがき.mobi",
+  "mtime": "2024-12-03T17:28:16.932Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[ニコライ・ゴーゴリ][ニコライ・ゴーゴリ　Nikolai Vasilievitch Gogoli] ディカーニカ近郷夜話　前篇 紛失した国書（×××寺の役僧が語つた実話）.mobi",
+  "mtime": "2024-12-03T17:28:13.181Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[ニコライ・ゴーゴリ][ニコライ・ゴーゴリ　Nikolai Vasilievitch Gogoli] ディカーニカ近郷夜話　前篇 五月の夜（または水死女）.mobi",
+  "mtime": "2024-12-03T17:28:09.012Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[ニコライ・ゴーゴリ][ニコライ・ゴーゴリ　Nikolai Vasilievitch Gogoli] ディカーニカ近郷夜話　前篇 イワン・クパーラの前夜（×××寺の役僧が話した事実譚）.mobi",
+  "mtime": "2024-12-03T17:28:04.290Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[ニコライ・ゴーゴリ][ニコライ・ゴーゴリ　Nikolai Vasilievitch Gogoli] ディカーニカ近郷夜話　前篇 ソロチンツイの定期市.mobi",
+  "mtime": "2024-12-03T17:28:00.070Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[ニコライ・ゴーゴリ][ニコライ・ゴーゴリ　Nikolai Vasilievitch Gogoli] ディカーニカ近郷夜話　前篇 はしがき.mobi",
+  "mtime": "2024-12-03T17:27:54.360Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[ニコライ・ゴーゴリ][ニコライ・ゴーゴリ　Nikolai Vasilievitch Gogoli] 狂人日記 ZAPISKI SUMASHEDSHAWO.mobi",
+  "mtime": "2024-12-03T17:27:50.658Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[ニコライ・ゴーゴリ][ニコライ・ゴーゴリ　Nikolai Vasilievitch Gogolj（Николай　Васильевич　Гоголь）] 死せる魂 MYORTVUIE DUSHI（МЕРТВЫЕ　ДУШИ）.mobi",
+  "mtime": "2024-12-03T17:27:46.291Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[ニコライ・ゴーゴリ] 鼻.mobi",
+  "mtime": "2024-12-03T17:27:40.297Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[ニコライ・ゴーゴリ] 外套.mobi",
+  "mtime": "2024-12-03T17:27:36.039Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[鴨長明] 方丈記.mobi",
+  "mtime": "2024-12-03T17:27:25.807Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[鴨長明] 現代語訳　方丈記.mobi",
+  "mtime": "2024-12-03T17:27:21.914Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[尾崎放哉] 尾崎放哉選句集.mobi",
+  "mtime": "2024-12-03T17:27:17.951Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[尾崎放哉] 夜汽車.mobi",
+  "mtime": "2024-12-03T17:27:13.877Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[尾崎放哉] 海.mobi",
+  "mtime": "2024-12-03T17:27:10.125Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[尾崎放哉] 石.mobi",
+  "mtime": "2024-12-03T17:27:06.484Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[尾崎放哉] 入庵雑記.mobi",
+  "mtime": "2024-12-03T17:27:02.768Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[尾崎放哉] 北朗来庵.mobi",
+  "mtime": "2024-12-03T17:26:57.355Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[尾崎放哉] 俺の記.mobi",
+  "mtime": "2024-12-03T17:26:53.666Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大手拓次] 蛇の花嫁.mobi",
+  "mtime": "2024-12-03T17:26:49.698Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大手拓次] 「香水の表情」に就いて ――漫談的無駄話――.mobi",
+  "mtime": "2024-12-03T17:26:45.818Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[大手拓次] 藍色の蟇.mobi",
+  "mtime": "2024-12-03T17:26:41.836Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[武田麟太郎] 釜ヶ崎.mobi",
+  "mtime": "2024-12-03T17:26:36.726Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[武田麟太郎] 一の酉.mobi",
+  "mtime": "2024-12-03T17:26:32.920Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[武田麟太郎] 現代詩.mobi",
+  "mtime": "2024-12-03T17:26:29.153Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[武田麟太郎] 大凶の籤.mobi",
+  "mtime": "2024-12-03T17:26:25.343Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[武田麟太郎] 「君死にたまふことなかれ」.mobi",
+  "mtime": "2024-12-03T17:26:21.582Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[武田麟太郎] 反逆の呂律.mobi",
+  "mtime": "2024-12-03T17:26:17.798Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[武田麟太郎] 落語家たち.mobi",
+  "mtime": "2024-12-03T17:26:14.046Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[武田麟太郎] 日本三文オペラ.mobi",
+  "mtime": "2024-12-03T17:26:10.312Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] ゼーロン.mobi",
+  "mtime": "2024-12-03T17:26:06.412Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 眼醒時計の憤慨.mobi",
+  "mtime": "2024-12-03T17:26:02.577Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 四郎と口笛.mobi",
+  "mtime": "2024-12-03T17:25:58.716Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 地球儀.mobi",
+  "mtime": "2024-12-03T17:25:55.036Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 熱海へ.mobi",
+  "mtime": "2024-12-03T17:25:51.302Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 美智子と歯痛.mobi",
+  "mtime": "2024-12-03T17:25:47.558Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 周一と空気銃とハーモニカ.mobi",
+  "mtime": "2024-12-03T17:25:43.810Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] お父さんのお寝坊.mobi",
+  "mtime": "2024-12-03T17:25:40.031Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 眠い一日.mobi",
+  "mtime": "2024-12-03T17:25:36.294Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 妄想患者.mobi",
+  "mtime": "2024-12-03T17:25:32.308Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 鞭撻.mobi",
+  "mtime": "2024-12-03T17:25:28.277Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 蛍.mobi",
+  "mtime": "2024-12-03T17:25:24.627Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 清一の写生旅行.mobi",
+  "mtime": "2024-12-03T17:25:20.952Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 心配な写真.mobi",
+  "mtime": "2024-12-03T17:25:17.302Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 池のまはり.mobi",
+  "mtime": "2024-12-03T17:25:13.639Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 香水の虹.mobi",
+  "mtime": "2024-12-03T17:25:09.900Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 砂浜.mobi",
+  "mtime": "2024-12-03T17:25:06.176Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 晩秋.mobi",
+  "mtime": "2024-12-03T17:25:02.346Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 痴想.mobi",
+  "mtime": "2024-12-03T17:24:58.641Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 坂道の孤独参昧.mobi",
+  "mtime": "2024-12-03T17:24:54.847Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 疳の虫.mobi",
+  "mtime": "2024-12-03T17:24:51.037Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 美智子と日曜日の朝の話.mobi",
+  "mtime": "2024-12-03T17:24:47.319Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 公園へ行く道.mobi",
+  "mtime": "2024-12-03T17:24:43.563Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 愚かな朝の話.mobi",
+  "mtime": "2024-12-03T17:24:39.795Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 白明.mobi",
+  "mtime": "2024-12-03T17:24:35.940Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 失題.mobi",
+  "mtime": "2024-12-03T17:24:32.051Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 悦べる木の葉.mobi",
+  "mtime": "2024-12-03T17:24:28.322Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 不思議な船.mobi",
+  "mtime": "2024-12-03T17:24:24.633Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 青白き公園.mobi",
+  "mtime": "2024-12-03T17:24:20.866Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 闘戦勝仏.mobi",
+  "mtime": "2024-12-03T17:24:16.848Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 雛菊と雲雀と少年の話.mobi",
+  "mtime": "2024-12-03T17:24:13.030Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 蚊.mobi",
+  "mtime": "2024-12-03T17:24:09.297Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 凸面鏡.mobi",
+  "mtime": "2024-12-03T17:24:05.589Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 首相の思出.mobi",
+  "mtime": "2024-12-03T17:24:01.893Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 若い作家と蠅.mobi",
+  "mtime": "2024-12-03T17:23:58.147Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 初夏.mobi",
+  "mtime": "2024-12-03T17:23:54.513Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 親孝行.mobi",
+  "mtime": "2024-12-03T17:23:50.841Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 朝.mobi",
+  "mtime": "2024-12-03T17:23:47.065Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] I Am Not A Poet, But I Am A Poet．.mobi",
+  "mtime": "2024-12-03T17:23:43.338Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 辞書と新聞紙.mobi",
+  "mtime": "2024-12-03T17:23:39.595Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] ランプの明滅.mobi",
+  "mtime": "2024-12-03T17:23:35.846Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 泣き笑ひ.mobi",
+  "mtime": "2024-12-03T17:23:32.174Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 喜びと悲しみの熱涙.mobi",
+  "mtime": "2024-12-03T17:23:28.494Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 嘆きの孔雀.mobi",
+  "mtime": "2024-12-03T17:23:24.806Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] やぶ入の前夜.mobi",
+  "mtime": "2024-12-03T17:23:20.917Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 駒鳥の胸.mobi",
+  "mtime": "2024-12-03T17:23:17.179Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 爪.mobi",
+  "mtime": "2024-12-03T17:23:13.434Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 蘭丸の絵.mobi",
+  "mtime": "2024-12-03T17:23:09.630Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 月下のマラソン.mobi",
+  "mtime": "2024-12-03T17:23:05.924Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 悲しき項羽.mobi",
+  "mtime": "2024-12-03T17:23:02.179Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 秋雨の絶間.mobi",
+  "mtime": "2024-12-03T17:22:58.419Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 『ユリイカ』挿話.mobi",
+  "mtime": "2024-12-03T17:22:54.636Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] ペルリ行.mobi",
+  "mtime": "2024-12-03T17:22:50.629Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 或るハイカーの記.mobi",
+  "mtime": "2024-12-03T17:22:46.851Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 青春のころわが愛せし作品と主人公.mobi",
+  "mtime": "2024-12-03T17:22:42.987Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] ライス・ワッフルの友.mobi",
+  "mtime": "2024-12-03T17:22:39.314Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 自烈亭.mobi",
+  "mtime": "2024-12-03T17:22:35.629Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 処女作の新春.mobi",
+  "mtime": "2024-12-03T17:22:31.966Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 昭和十年度に於いて最も印象に残つたもの ――創作・演劇・音楽・絵画・映画その他――.mobi",
+  "mtime": "2024-12-03T17:22:28.300Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 今年の文壇で.mobi",
+  "mtime": "2024-12-03T17:22:24.560Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 山峡の凧.mobi",
+  "mtime": "2024-12-03T17:22:20.889Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 〔作者の言分〕 （「淡雪」の作者）.mobi",
+  "mtime": "2024-12-03T17:22:17.219Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 断酒片.mobi",
+  "mtime": "2024-12-03T17:22:13.507Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 気狂ひ師匠.mobi",
+  "mtime": "2024-12-03T17:22:09.837Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 十年ひと昔.mobi",
+  "mtime": "2024-12-03T17:22:06.173Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 附記（夜見の巻）.mobi",
+  "mtime": "2024-12-03T17:22:02.468Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] わが生活より.mobi",
+  "mtime": "2024-12-03T17:21:58.780Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 浪曼的時評.mobi",
+  "mtime": "2024-12-03T17:21:55.044Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 初めて逢つた文士と当時の思ひ出.mobi",
+  "mtime": "2024-12-03T17:21:51.375Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 緑の軍港.mobi",
+  "mtime": "2024-12-03T17:21:47.671Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 浅原六朗抄.mobi",
+  "mtime": "2024-12-03T17:21:44.002Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 文学的自叙伝.mobi",
+  "mtime": "2024-12-03T17:21:40.253Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 坂口安吾君の『黒谷村』を読む.mobi",
+  "mtime": "2024-12-03T17:21:36.452Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 心悸亢進が回復す.mobi",
+  "mtime": "2024-12-03T17:21:32.752Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] ユリイカ・独言.mobi",
+  "mtime": "2024-12-03T17:21:29.016Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 湖の夢.mobi",
+  "mtime": "2024-12-03T17:21:25.154Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 書斎を棄てゝ.mobi",
+  "mtime": "2024-12-03T17:21:21.374Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 〔無題〕.mobi",
+  "mtime": "2024-12-03T17:21:17.606Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 月評.mobi",
+  "mtime": "2024-12-03T17:21:13.966Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 半島の果にて.mobi",
+  "mtime": "2024-12-03T17:21:10.201Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 春.mobi",
+  "mtime": "2024-12-03T17:21:06.482Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 痩身記.mobi",
+  "mtime": "2024-12-03T17:21:02.641Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 喧嘩咄.mobi",
+  "mtime": "2024-12-03T17:20:58.766Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 城ヶ島の春.mobi",
+  "mtime": "2024-12-03T17:20:55.052Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 好日の記.mobi",
+  "mtime": "2024-12-03T17:20:51.266Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 浪曼的月評.mobi",
+  "mtime": "2024-12-03T17:20:47.571Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 岬の春霞.mobi",
+  "mtime": "2024-12-03T17:20:43.508Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 交遊記.mobi",
+  "mtime": "2024-12-03T17:20:39.872Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 読んだ本.mobi",
+  "mtime": "2024-12-03T17:20:36.194Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] はがき通信.mobi",
+  "mtime": "2024-12-03T17:20:32.507Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] わが最も愛する作中人物.mobi",
+  "mtime": "2024-12-03T17:20:28.771Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 最近注目した長篇・短篇小説に就て.mobi",
+  "mtime": "2024-12-03T17:20:25.082Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 「樫の芽生え」を読みて.mobi",
+  "mtime": "2024-12-03T17:20:21.427Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 久保田万太郎.mobi",
+  "mtime": "2024-12-03T17:20:17.684Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] サフランの花.mobi",
+  "mtime": "2024-12-03T17:20:13.803Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 冬日抄.mobi",
+  "mtime": "2024-12-03T17:20:09.817Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 「尾花」を読みて （久保田万太郎・作）.mobi",
+  "mtime": "2024-12-03T17:20:06.102Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 僕の酒.mobi",
+  "mtime": "2024-12-03T17:20:02.356Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 今年の文壇を回顧する.mobi",
+  "mtime": "2024-12-03T17:19:58.601Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 私が占ひに観て貰つた時 消えぬホクロ.mobi",
+  "mtime": "2024-12-03T17:19:54.862Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] その村を憶ひて.mobi",
+  "mtime": "2024-12-03T17:19:51.096Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 水車小屋の日誌.mobi",
+  "mtime": "2024-12-03T17:19:47.317Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 〔婦人手紙範例文〕.mobi",
+  "mtime": "2024-12-03T17:19:43.561Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 魚籃坂にて.mobi",
+  "mtime": "2024-12-03T17:19:39.741Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 「学生警鐘」と風.mobi",
+  "mtime": "2024-12-03T17:19:35.841Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 私の崇拝する偉人.mobi",
+  "mtime": "2024-12-03T17:19:32.100Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 「三田文学」と巌谷夫人.mobi",
+  "mtime": "2024-12-03T17:19:28.323Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 五月六日.mobi",
+  "mtime": "2024-12-03T17:19:24.542Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 春の手紙.mobi",
+  "mtime": "2024-12-03T17:19:20.787Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 写真に添えて （都の友へ送つた手紙）.mobi",
+  "mtime": "2024-12-03T17:19:17.100Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 嘆きの谷で拾つた懐疑の花びら.mobi",
+  "mtime": "2024-12-03T17:19:13.383Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] ひとりごと.mobi",
+  "mtime": "2024-12-03T17:19:09.679Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 私の万年筆.mobi",
+  "mtime": "2024-12-03T17:19:05.879Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 文学とは何ぞや.mobi",
+  "mtime": "2024-12-03T17:19:02.064Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 大音寺君！.mobi",
+  "mtime": "2024-12-03T17:18:58.191Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 手紙.mobi",
+  "mtime": "2024-12-03T17:18:54.521Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 山の見える窓にて.mobi",
+  "mtime": "2024-12-03T17:18:50.809Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 三田に来て.mobi",
+  "mtime": "2024-12-03T17:18:47.055Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 一九三二年に計劃する.mobi",
+  "mtime": "2024-12-03T17:18:43.370Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 満里子のこと.mobi",
+  "mtime": "2024-12-03T17:18:39.458Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 南風譜・梗概.mobi",
+  "mtime": "2024-12-03T17:18:35.709Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 真夏の夜の夢.mobi",
+  "mtime": "2024-12-03T17:18:32.020Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 卓上演説.mobi",
+  "mtime": "2024-12-03T17:18:28.221Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] なつかしき挿話.mobi",
+  "mtime": "2024-12-03T17:18:24.514Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 驚いた話.mobi",
+  "mtime": "2024-12-03T17:18:20.763Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 西部劇通信.mobi",
+  "mtime": "2024-12-03T17:18:17.048Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 彼に就いての挿話.mobi",
+  "mtime": "2024-12-03T17:18:13.312Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 今年発表した一ばん好きな自作について.mobi",
+  "mtime": "2024-12-03T17:18:09.635Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 昭和五年に発表せる創作・評論に就て 「吊籠と月光と」その他.mobi",
+  "mtime": "2024-12-03T17:18:05.849Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 喜劇考 （吾が、アウエルバツハの一節）.mobi",
+  "mtime": "2024-12-03T17:18:02.134Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 推賞寸言.mobi",
+  "mtime": "2024-12-03T17:17:58.341Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 〔モダン紳士十誡〕.mobi",
+  "mtime": "2024-12-03T17:17:54.562Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 〔小林秀雄氏への公開状〕.mobi",
+  "mtime": "2024-12-03T17:17:50.834Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 舞踏学校見物.mobi",
+  "mtime": "2024-12-03T17:17:47.202Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 附「歌へる日まで」.mobi",
+  "mtime": "2024-12-03T17:17:43.553Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 新興芸術派に就いての雑談.mobi",
+  "mtime": "2024-12-03T17:17:39.708Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 読書と生活.mobi",
+  "mtime": "2024-12-03T17:17:35.941Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 初夏通信.mobi",
+  "mtime": "2024-12-03T17:17:32.200Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 途上日記.mobi",
+  "mtime": "2024-12-03T17:17:28.369Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 淪落の女の日記.mobi",
+  "mtime": "2024-12-03T17:17:24.631Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 僕の運動.mobi",
+  "mtime": "2024-12-03T17:17:20.971Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 川蒸気は昔のまゝ.mobi",
+  "mtime": "2024-12-03T17:17:17.234Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 朝居の話.mobi",
+  "mtime": "2024-12-03T17:17:13.456Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 一九三〇年型.mobi",
+  "mtime": "2024-12-03T17:17:09.763Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 来年は何をするか ――一九三〇年に対する私の希望・抱負・計画――.mobi",
+  "mtime": "2024-12-03T17:17:06.052Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 昭和四年に発表せる創作・評論に就て 「山彦の街」に就いて.mobi",
+  "mtime": "2024-12-03T17:17:02.421Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 娘とドリアン.mobi",
+  "mtime": "2024-12-03T17:16:58.164Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 文芸雑誌の過去・現在・未来に就いて 同人雑誌的要素.mobi",
+  "mtime": "2024-12-03T17:16:54.322Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 文壇落書帳 六月二十八日.mobi",
+  "mtime": "2024-12-03T17:16:50.415Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 捜語.mobi",
+  "mtime": "2024-12-03T17:16:46.475Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] エハガキの激賞文.mobi",
+  "mtime": "2024-12-03T17:16:42.684Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 花束一つ.mobi",
+  "mtime": "2024-12-03T17:16:38.985Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] Hasty Pudding.mobi",
+  "mtime": "2024-12-03T17:16:35.359Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 回答.mobi",
+  "mtime": "2024-12-03T17:16:30.536Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 私の一日.mobi",
+  "mtime": "2024-12-03T17:16:26.853Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 推奨する新人.mobi",
+  "mtime": "2024-12-03T17:16:23.153Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 会話一片.mobi",
+  "mtime": "2024-12-03T17:16:19.397Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 秋が深い頃だ.mobi",
+  "mtime": "2024-12-03T17:16:15.494Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 東中野にて.mobi",
+  "mtime": "2024-12-03T17:16:11.816Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 珠玉の如き.mobi",
+  "mtime": "2024-12-03T17:16:08.041Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 断想的に.mobi",
+  "mtime": "2024-12-03T17:16:04.408Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 小田原の夏.mobi",
+  "mtime": "2024-12-03T17:16:00.746Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 私の一日 軽い酔.mobi",
+  "mtime": "2024-12-03T17:15:57.055Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 今年発表の作品.mobi",
+  "mtime": "2024-12-03T17:15:53.324Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 日記より.mobi",
+  "mtime": "2024-12-03T17:15:49.665Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] どうしたら私は憐れな彼女を悸さずに済せるだらう.mobi",
+  "mtime": "2024-12-03T17:15:45.959Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 五月のはじめ.mobi",
+  "mtime": "2024-12-03T17:15:42.335Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 晩春日記.mobi",
+  "mtime": "2024-12-03T17:15:38.647Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 趣味に関して.mobi",
+  "mtime": "2024-12-03T17:15:34.929Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 雑談抄.mobi",
+  "mtime": "2024-12-03T17:15:31.206Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 消息抄（近頃書いた或る私の手紙から。）.mobi",
+  "mtime": "2024-12-03T17:15:27.526Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 大正十五年の文壇及び劇団に就て語る.mobi",
+  "mtime": "2024-12-03T17:15:23.863Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 私が本年発表した創作に就いて 八篇の力作.mobi",
+  "mtime": "2024-12-03T17:15:20.185Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] あやふやなこと.mobi",
+  "mtime": "2024-12-03T17:15:16.325Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 吾家の随筆.mobi",
+  "mtime": "2024-12-03T17:15:12.470Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 貧しき文学的経験（文壇へ出るまで）.mobi",
+  "mtime": "2024-12-03T17:15:08.747Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 余話（秘められた箱）.mobi",
+  "mtime": "2024-12-03T17:15:04.984Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] Ｓ・Ｉ生へ.mobi",
+  "mtime": "2024-12-03T17:15:01.232Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 予が本年発表せる創作に就いて 沢山書いた.mobi",
+  "mtime": "2024-12-03T17:14:57.569Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 余の倅に就いて.mobi",
+  "mtime": "2024-12-03T17:14:53.801Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 松竹座を見て（延若のこと）.mobi",
+  "mtime": "2024-12-03T17:14:50.063Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 思ひ出した事（松竹座）.mobi",
+  "mtime": "2024-12-03T17:14:46.403Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 足袋のこと.mobi",
+  "mtime": "2024-12-03T17:14:42.592Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 祖母の教訓.mobi",
+  "mtime": "2024-12-03T17:14:38.929Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 自己紹介.mobi",
+  "mtime": "2024-12-03T17:14:35.230Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 私の本年の希望と計画.mobi",
+  "mtime": "2024-12-03T17:14:31.534Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 予の恋愛観.mobi",
+  "mtime": "2024-12-03T17:14:27.868Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 文壇諸家一月五日の日記.mobi",
+  "mtime": "2024-12-03T17:14:24.179Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 私の変態心理.mobi",
+  "mtime": "2024-12-03T17:14:20.560Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 十二年文壇に対する要求 結局は「自分の道」.mobi",
+  "mtime": "2024-12-03T17:14:16.809Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 海浜日誌 六月創作評.mobi",
+  "mtime": "2024-12-03T17:14:09.516Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] その日のこと〔『少年』〕.mobi",
+  "mtime": "2024-12-03T17:14:05.751Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] その日のこと〔『少女』〕.mobi",
+  "mtime": "2024-12-03T17:14:02.116Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] みじめな夜.mobi",
+  "mtime": "2024-12-03T17:13:58.340Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 〔同腹異腹〕.mobi",
+  "mtime": "2024-12-03T17:13:54.682Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 〔同人雑記〕.mobi",
+  "mtime": "2024-12-03T17:13:50.993Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 〔編輯雑記〕.mobi",
+  "mtime": "2024-12-03T17:13:47.334Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 〔編輯余話〕.mobi",
+  "mtime": "2024-12-03T17:13:43.685Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 文學的自叙傳.mobi",
+  "mtime": "2024-12-03T17:13:35.965Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 「或る日の運動」の続き.mobi",
+  "mtime": "2024-12-03T17:13:31.777Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 「悪」の同意語.mobi",
+  "mtime": "2024-12-03T17:13:28.092Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 明るく・暗く.mobi",
+  "mtime": "2024-12-03T17:13:23.981Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 秋・二日の話.mobi",
+  "mtime": "2024-12-03T17:13:20.042Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 秋晴れの日.mobi",
+  "mtime": "2024-12-03T17:13:16.340Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 悪筆.mobi",
+  "mtime": "2024-12-03T17:13:12.530Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 熱い風.mobi",
+  "mtime": "2024-12-03T17:13:08.740Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 或る五月の朝の話.mobi",
+  "mtime": "2024-12-03T17:13:04.850Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 或る日の運動.mobi",
+  "mtime": "2024-12-03T17:13:00.861Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 鸚鵡の思ひ出.mobi",
+  "mtime": "2024-12-03T17:12:57.003Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 小川の流れ.mobi",
+  "mtime": "2024-12-03T17:12:53.316Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] お蝶の訪れ.mobi",
+  "mtime": "2024-12-03T17:12:49.423Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 海棠の家.mobi",
+  "mtime": "2024-12-03T17:12:45.761Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 鏡地獄.mobi",
+  "mtime": "2024-12-03T17:12:41.995Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 蔭ひなた.mobi",
+  "mtime": "2024-12-03T17:12:37.682Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 環魚洞風景.mobi",
+  "mtime": "2024-12-03T17:12:33.942Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 極夜の記.mobi",
+  "mtime": "2024-12-03T17:12:29.892Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 競馬の日.mobi",
+  "mtime": "2024-12-03T17:12:26.031Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 再婚.mobi",
+  "mtime": "2024-12-03T17:12:22.257Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 西瓜喰ふ人.mobi",
+  "mtime": "2024-12-03T17:12:18.602Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 蝉.mobi",
+  "mtime": "2024-12-03T17:12:14.849Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 父の百ヶ日前後.mobi",
+  "mtime": "2024-12-03T17:12:11.030Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 鶴がゐた家.mobi",
+  "mtime": "2024-12-03T17:12:07.018Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 毒気.mobi",
+  "mtime": "2024-12-03T17:12:03.152Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 渚.mobi",
+  "mtime": "2024-12-03T17:11:59.200Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 夏ちかきころ.mobi",
+  "mtime": "2024-12-03T17:11:55.418Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 晩春の健康.mobi",
+  "mtime": "2024-12-03T17:11:51.588Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 陽に酔つた風景.mobi",
+  "mtime": "2024-12-03T17:11:47.927Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 冬の風鈴.mobi",
+  "mtime": "2024-12-03T17:11:44.172Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 舞踏会余話.mobi",
+  "mtime": "2024-12-03T17:11:40.393Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 貧しき日録.mobi",
+  "mtime": "2024-12-03T17:11:36.660Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 円卓子での話.mobi",
+  "mtime": "2024-12-03T17:11:32.855Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 昔の歌留多.mobi",
+  "mtime": "2024-12-03T17:11:29.027Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 籔のほとり.mobi",
+  "mtime": "2024-12-03T17:11:25.365Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 山彦の街.mobi",
+  "mtime": "2024-12-03T17:11:21.577Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 山を越えて.mobi",
+  "mtime": "2024-12-03T17:11:17.760Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 雪景色.mobi",
+  "mtime": "2024-12-03T17:11:13.943Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] Ｆ村での春.mobi",
+  "mtime": "2024-12-03T17:11:10.187Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] スプリングコート.mobi",
+  "mtime": "2024-12-03T17:11:06.264Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] ラガド大学参観記 （その一挿話）.mobi",
+  "mtime": "2024-12-03T17:11:02.557Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] ダニューヴの花嫁.mobi",
+  "mtime": "2024-12-03T17:10:59.079Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] ダイアナの馬.mobi",
+  "mtime": "2024-12-03T17:10:55.347Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] タンタレスの春.mobi",
+  "mtime": "2024-12-03T17:10:51.818Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] ゾイラス.mobi",
+  "mtime": "2024-12-03T17:10:48.123Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] サクラの花びら.mobi",
+  "mtime": "2024-12-03T17:10:44.408Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] Ｒ漁場と都の酒場で.mobi",
+  "mtime": "2024-12-03T17:10:40.842Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 露路の友.mobi",
+  "mtime": "2024-12-03T17:10:37.279Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 裸虫抄.mobi",
+  "mtime": "2024-12-03T17:10:33.528Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 夜の奇蹟.mobi",
+  "mtime": "2024-12-03T17:10:30.004Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 夜見の巻 「吾が昆虫採集記」の一節.mobi",
+  "mtime": "2024-12-03T17:10:26.207Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 山男と男装の美女 ミツキイのジヨンニイ.mobi",
+  "mtime": "2024-12-03T17:10:22.521Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 武者窓日記.mobi",
+  "mtime": "2024-12-03T17:10:18.695Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] まぼろし.mobi",
+  "mtime": "2024-12-03T17:10:14.854Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 真夏の朝のひとゝき.mobi",
+  "mtime": "2024-12-03T17:10:11.028Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 街角.mobi",
+  "mtime": "2024-12-03T17:10:07.144Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 変装綺譚.mobi",
+  "mtime": "2024-12-03T17:10:03.733Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 船の中の鼠.mobi",
+  "mtime": "2024-12-03T17:10:00.260Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 風流旅行.mobi",
+  "mtime": "2024-12-03T17:09:56.741Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 風媒結婚.mobi",
+  "mtime": "2024-12-03T17:09:52.980Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 剥製.mobi",
+  "mtime": "2024-12-03T17:09:49.304Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 沼辺より.mobi",
+  "mtime": "2024-12-03T17:09:44.975Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 日本橋.mobi",
+  "mtime": "2024-12-03T17:09:41.127Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 南風譜.mobi",
+  "mtime": "2024-12-03T17:09:37.395Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 天狗洞食客記.mobi",
+  "mtime": "2024-12-03T17:09:33.031Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 早春のひところ.mobi",
+  "mtime": "2024-12-03T17:09:29.232Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 泉岳寺附近.mobi",
+  "mtime": "2024-12-03T17:09:25.522Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 女優.mobi",
+  "mtime": "2024-12-03T17:09:22.099Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 心象風景（続篇）.mobi",
+  "mtime": "2024-12-03T17:09:18.359Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 酒盗人.mobi",
+  "mtime": "2024-12-03T17:09:14.361Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 木枯の吹くころ.mobi",
+  "mtime": "2024-12-03T17:09:10.869Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 奇友往来 （引越しをする男）.mobi",
+  "mtime": "2024-12-03T17:09:07.325Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 鬼涙村.mobi",
+  "mtime": "2024-12-03T17:09:03.580Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 鵞鳥の家.mobi",
+  "mtime": "2024-12-03T17:08:59.577Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 女に臆病な男.mobi",
+  "mtime": "2024-12-03T17:08:56.091Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 鬼の門.mobi",
+  "mtime": "2024-12-03T17:08:52.315Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 歌へる日まで.mobi",
+  "mtime": "2024-12-03T17:08:48.484Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 淡雪.mobi",
+  "mtime": "2024-12-03T17:08:44.616Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 茜蜻蛉.mobi",
+  "mtime": "2024-12-03T17:08:40.858Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] ベツコウ蜂.mobi",
+  "mtime": "2024-12-03T17:08:37.391Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] フアウスト.mobi",
+  "mtime": "2024-12-03T17:08:33.680Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] パンアテナイア祭の夢.mobi",
+  "mtime": "2024-12-03T17:08:29.765Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] サロメと体操 ヘツペル先生との挿話.mobi",
+  "mtime": "2024-12-03T17:08:26.002Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 老猾抄.mobi",
+  "mtime": "2024-12-03T17:08:22.312Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] るい.mobi",
+  "mtime": "2024-12-03T17:08:18.890Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 幽霊の出る宮殿.mobi",
+  "mtime": "2024-12-03T17:08:15.185Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 冬物語.mobi",
+  "mtime": "2024-12-03T17:08:11.498Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 二日間のこと.mobi",
+  "mtime": "2024-12-03T17:08:07.826Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 病状.mobi",
+  "mtime": "2024-12-03T17:08:04.334Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 馬車の歌.mobi",
+  "mtime": "2024-12-03T17:08:00.599Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 肉桂樹.mobi",
+  "mtime": "2024-12-03T17:07:57.100Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 月あかり.mobi",
+  "mtime": "2024-12-03T17:07:53.328Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 塚越の話.mobi",
+  "mtime": "2024-12-03T17:07:49.599Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 痴酔記.mobi",
+  "mtime": "2024-12-03T17:07:46.139Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 滝のある村.mobi",
+  "mtime": "2024-12-03T17:07:42.675Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 素書.mobi",
+  "mtime": "2024-12-03T17:07:38.977Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 心象風景.mobi",
+  "mtime": "2024-12-03T17:07:35.251Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 祝福された星の歌 An episode from the forest.mobi",
+  "mtime": "2024-12-03T17:07:31.482Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 山峡の村にて.mobi",
+  "mtime": "2024-12-03T17:07:27.682Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 凩日記.mobi",
+  "mtime": "2024-12-03T17:07:24.279Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 好色夢.mobi",
+  "mtime": "2024-12-03T17:07:20.533Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 繰舟で往く家.mobi",
+  "mtime": "2024-12-03T17:07:16.872Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 疑惑の城.mobi",
+  "mtime": "2024-12-03T17:07:13.156Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 川を遡りて.mobi",
+  "mtime": "2024-12-03T17:07:09.523Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 海路.mobi",
+  "mtime": "2024-12-03T17:07:05.787Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 階段.mobi",
+  "mtime": "2024-12-03T17:07:02.144Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 鸚鵡のゐる部屋.mobi",
+  "mtime": "2024-12-03T17:06:58.288Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] ランプの便り.mobi",
+  "mtime": "2024-12-03T17:06:54.578Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] ブロンズまで.mobi",
+  "mtime": "2024-12-03T17:06:50.926Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] ファティアの花鬘.mobi",
+  "mtime": "2024-12-03T17:06:47.503Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] ピエル・フオン訪問記.mobi",
+  "mtime": "2024-12-03T17:06:43.905Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] ビルヂングと月.mobi",
+  "mtime": "2024-12-03T17:06:40.494Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] サンニー・サイド・ハウス.mobi",
+  "mtime": "2024-12-03T17:06:36.810Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] ガール・シヤイ挿話.mobi",
+  "mtime": "2024-12-03T17:06:33.002Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 鎧の挿話.mobi",
+  "mtime": "2024-12-03T17:06:29.501Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 山を降る一隊.mobi",
+  "mtime": "2024-12-03T17:06:26.092Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 寄生木と縄梯子.mobi",
+  "mtime": "2024-12-03T17:06:22.336Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 馬上の春.mobi",
+  "mtime": "2024-12-03T17:06:18.654Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 波の戯れ.mobi",
+  "mtime": "2024-12-03T17:06:15.179Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 東京駅にて感想.mobi",
+  "mtime": "2024-12-03T17:06:11.485Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 断唱.mobi",
+  "mtime": "2024-12-03T17:06:07.747Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 黄昏の堤.mobi",
+  "mtime": "2024-12-03T17:06:04.398Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 出発.mobi",
+  "mtime": "2024-12-03T17:06:00.732Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 交遊秘話.mobi",
+  "mtime": "2024-12-03T17:05:57.306Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] くもり日つゞき.mobi",
+  "mtime": "2024-12-03T17:05:53.597Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 街上スケツチ.mobi",
+  "mtime": "2024-12-03T17:05:49.858Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 駆ける朝.mobi",
+  "mtime": "2024-12-03T17:05:46.529Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 熱い砂の上.mobi",
+  "mtime": "2024-12-03T17:05:42.847Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] バラルダ物語.mobi",
+  "mtime": "2024-12-03T17:05:39.227Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] センチメンタル・ドライヴ.mobi",
+  "mtime": "2024-12-03T17:05:35.734Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 村のストア派.mobi",
+  "mtime": "2024-12-03T17:05:31.975Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 父を売る子.mobi",
+  "mtime": "2024-12-03T17:05:28.090Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 創作生活にて.mobi",
+  "mtime": "2024-12-03T17:05:24.283Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 鱗雲.mobi",
+  "mtime": "2024-12-03T17:05:16.739Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 熱海線私語.mobi",
+  "mtime": "2024-12-03T17:05:13.030Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 吊籠と月光と.mobi",
+  "mtime": "2024-12-03T17:05:09.331Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 「風博士」.mobi",
+  "mtime": "2024-12-03T17:05:05.558Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 余話 秘められた箱.mobi",
+  "mtime": "2024-12-03T17:05:02.168Z",
+  "type": "mobi"
+ },
+ {
+  "filename": "[牧野信一] 痴日.mobi",
+  "mtime": "2024-12-03T17:04:54.872Z",
+  "type": "mobi"
+ },
+ {
   "filename": "[西田幾多郎] 善の研究.mobi",
   "mtime": "2024-12-03T17:04:43.622Z",
   "type": "mobi"
