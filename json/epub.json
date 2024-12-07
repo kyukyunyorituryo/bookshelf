@@ -1,5 +1,2130 @@
 [
  {
+  "filename": "[水上滝太郎] 九月一日.epub",
+  "mtime": "2024-12-07T08:04:39.197Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上滝太郎] 果樹.epub",
+  "mtime": "2024-12-07T08:04:39.140Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上滝太郎] 遺産.epub",
+  "mtime": "2024-12-07T08:04:39.088Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上滝太郎] 大人の眼と子供の眼.epub",
+  "mtime": "2024-12-07T08:04:39.033Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上滝太郎] 大阪の宿.epub",
+  "mtime": "2024-12-07T08:04:38.990Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 遺稿 「遺稿」附記.epub",
+  "mtime": "2024-12-07T08:04:38.728Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 山を想ふ.epub",
+  "mtime": "2024-12-07T08:04:38.692Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 覺書.epub",
+  "mtime": "2024-12-07T08:04:38.647Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 貝殼追放 泉鏡花先生と里見弴さん.epub",
+  "mtime": "2024-12-07T08:04:38.607Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 貝殼追放 女人崇拜.epub",
+  "mtime": "2024-12-07T08:04:38.536Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 貝殼追放 本年發表せる創作に就いて　――「新潮」の質問に答ふ――.epub",
+  "mtime": "2024-12-07T08:04:38.494Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上滝太郎] 山の手の子.epub",
+  "mtime": "2024-12-07T08:04:38.456Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 貝殼追放 「末枯」の作者.epub",
+  "mtime": "2024-12-07T08:04:38.400Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 貝殼追放 先生の忠告.epub",
+  "mtime": "2024-12-07T08:04:38.333Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 貝殼追放 向不見の強味.epub",
+  "mtime": "2024-12-07T08:04:38.274Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 貝殼追放 購書美談.epub",
+  "mtime": "2024-12-07T08:04:38.202Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 貝殼追放 「海上日記」の序.epub",
+  "mtime": "2024-12-07T08:04:38.160Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 貝殼追放 「心づくし」の序.epub",
+  "mtime": "2024-12-07T08:04:38.120Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 貝殼追放 「その春の頃」の序.epub",
+  "mtime": "2024-12-07T08:04:38.082Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 貝殼追放 愚者の鼻息.epub",
+  "mtime": "2024-12-07T08:04:38.036Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 貝殼追放 「八千代集」を讀む.epub",
+  "mtime": "2024-12-07T08:04:37.990Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 貝殼追放 永井荷風先生の印象.epub",
+  "mtime": "2024-12-07T08:04:37.942Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 貝殼追放 「幻の繪馬」の作者.epub",
+  "mtime": "2024-12-07T08:04:37.905Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 貝殼追放 「文明一周年の辭」を讀みて.epub",
+  "mtime": "2024-12-07T08:04:37.867Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 貝殼追放 新聞記者を憎むの記.epub",
+  "mtime": "2024-12-07T08:04:37.828Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[水上瀧太郎] 貝殼追放 はしがき.epub",
+  "mtime": "2024-12-07T08:04:37.763Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[三富朽葉] メランコリア.epub",
+  "mtime": "2024-12-07T08:04:37.725Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[三富朽葉] ピアノ.epub",
+  "mtime": "2024-12-07T08:04:37.651Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[三富朽葉] 水のほとりに.epub",
+  "mtime": "2024-12-07T08:04:37.557Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[三富朽葉] 冬の歌.epub",
+  "mtime": "2024-12-07T08:04:37.518Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[三富朽葉] 深夜.epub",
+  "mtime": "2024-12-07T08:04:37.485Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[三角錫子] 七里ヶ浜の哀歌.epub",
+  "mtime": "2024-12-07T08:04:37.444Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[三澤勝衛] 自力更生より自然力更生へ.epub",
+  "mtime": "2024-12-07T08:04:37.408Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[三木竹二] 両座の「山門」評.epub",
+  "mtime": "2024-12-07T08:04:37.345Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[三木竹二] 明治座評 （明治二十九年四月）.epub",
+  "mtime": "2024-12-07T08:04:37.297Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[三木竹二] いがみの権太 （明治二十九年一月、明治座）.epub",
+  "mtime": "2024-12-07T08:04:37.255Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[吉本明光編] お蝶夫人 三浦環.epub",
+  "mtime": "2024-12-07T08:04:37.201Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[逸見猶吉] 逸見猶吉詩集.epub",
+  "mtime": "2024-12-07T08:04:37.006Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[逸見猶吉] 火を喰つた鴉.epub",
+  "mtime": "2024-12-07T08:04:36.910Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[福士幸次郎] 津軽地方特有の俚諺.epub",
+  "mtime": "2024-12-07T08:04:36.868Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[福士幸次郎] 展望.epub",
+  "mtime": "2024-12-07T08:04:36.824Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[福士幸次郎] 地方主義篇 （散文詩）.epub",
+  "mtime": "2024-12-07T08:04:36.762Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[福士幸次郎] 太陽の子.epub",
+  "mtime": "2024-12-07T08:04:36.702Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[福士孝次郎] 鸚鵡 （フランス）.epub",
+  "mtime": "2024-12-07T08:04:36.625Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[平田晋策] 昭和遊撃隊.epub",
+  "mtime": "2024-12-07T08:04:36.587Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[原口統三] 初期詩篇.epub",
+  "mtime": "2024-12-07T08:04:36.398Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[原口統三] 二十歳のエチュード.epub",
+  "mtime": "2024-12-07T08:04:36.359Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 紫式部 ――忙しき目覚めに.epub",
+  "mtime": "2024-12-07T08:04:36.222Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 古い暦 ――私と坪内先生.epub",
+  "mtime": "2024-12-07T08:04:36.184Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 鬼眼鏡と鉄屑ぶとり 続旧聞日本橋・その三.epub",
+  "mtime": "2024-12-07T08:04:36.149Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 鉄くそぶとり 続旧聞日本橋・その二.epub",
+  "mtime": "2024-12-07T08:04:36.079Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 大門通り界隈一束 続旧聞日本橋・その一.epub",
+  "mtime": "2024-12-07T08:04:36.037Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 議事堂炎上.epub",
+  "mtime": "2024-12-07T08:04:35.998Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 西川小りん.epub",
+  "mtime": "2024-12-07T08:04:35.958Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 明治座今昔.epub",
+  "mtime": "2024-12-07T08:04:35.900Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 神田附木店.epub",
+  "mtime": "2024-12-07T08:04:35.855Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 牢屋の原.epub",
+  "mtime": "2024-12-07T08:04:35.810Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 最初の外国保険詐欺.epub",
+  "mtime": "2024-12-07T08:04:35.767Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 流れた唾き.epub",
+  "mtime": "2024-12-07T08:04:35.730Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 西洋の唐茄子.epub",
+  "mtime": "2024-12-07T08:04:35.684Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] お墓のすげかえ.epub",
+  "mtime": "2024-12-07T08:04:35.636Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] チンコッきり.epub",
+  "mtime": "2024-12-07T08:04:35.592Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 朝散太夫の末裔.epub",
+  "mtime": "2024-12-07T08:04:35.542Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] マダム貞奴.epub",
+  "mtime": "2024-12-07T08:04:35.498Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 私の顏.epub",
+  "mtime": "2024-12-07T08:04:35.421Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 吾が愛誦句.epub",
+  "mtime": "2024-12-07T08:04:35.387Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 裸女の畫.epub",
+  "mtime": "2024-12-07T08:04:35.350Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 四人の兵隊.epub",
+  "mtime": "2024-12-07T08:04:35.304Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 桃.epub",
+  "mtime": "2024-12-07T08:04:35.265Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] むぐらの吐息.epub",
+  "mtime": "2024-12-07T08:04:35.227Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 水.epub",
+  "mtime": "2024-12-07T08:04:35.187Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 北京の生活.epub",
+  "mtime": "2024-12-07T08:04:35.148Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 凡愚姐御考.epub",
+  "mtime": "2024-12-07T08:04:35.097Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 春.epub",
+  "mtime": "2024-12-07T08:04:35.042Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 花火と大川端.epub",
+  "mtime": "2024-12-07T08:04:34.987Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 初かつを.epub",
+  "mtime": "2024-12-07T08:04:34.937Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 日本橋あたり.epub",
+  "mtime": "2024-12-07T08:04:34.899Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 菜の花 ――春の新七草の賦のその一ツ――.epub",
+  "mtime": "2024-12-07T08:04:34.841Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 夏の夜.epub",
+  "mtime": "2024-12-07T08:04:34.806Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 夏の女.epub",
+  "mtime": "2024-12-07T08:04:34.758Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 東京に生れて.epub",
+  "mtime": "2024-12-07T08:04:34.719Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 佃のわたし.epub",
+  "mtime": "2024-12-07T08:04:34.678Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 煎藥.epub",
+  "mtime": "2024-12-07T08:04:34.642Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 住居.epub",
+  "mtime": "2024-12-07T08:04:34.598Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 春宵戲語.epub",
+  "mtime": "2024-12-07T08:04:34.558Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 下町娘.epub",
+  "mtime": "2024-12-07T08:04:34.503Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] こんな二人.epub",
+  "mtime": "2024-12-07T08:04:34.464Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 桑摘み.epub",
+  "mtime": "2024-12-07T08:04:34.421Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] きもの.epub",
+  "mtime": "2024-12-07T08:04:34.373Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 河風.epub",
+  "mtime": "2024-12-07T08:04:34.337Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 傘.epub",
+  "mtime": "2024-12-07T08:04:34.303Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 鏡二題.epub",
+  "mtime": "2024-12-07T08:04:34.264Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] おとづれ.epub",
+  "mtime": "2024-12-07T08:04:34.228Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] お灸.epub",
+  "mtime": "2024-12-07T08:04:34.189Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 大川ばた.epub",
+  "mtime": "2024-12-07T08:04:34.147Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 家.epub",
+  "mtime": "2024-12-07T08:04:34.108Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] あるとき.epub",
+  "mtime": "2024-12-07T08:04:34.071Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 尼たちへの消息 ――よく生きよとの――.epub",
+  "mtime": "2024-12-07T08:04:34.024Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 「郭子儀」異變.epub",
+  "mtime": "2024-12-07T08:04:33.976Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 人魂火.epub",
+  "mtime": "2024-12-07T08:04:33.934Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 糸繰沼.epub",
+  "mtime": "2024-12-07T08:04:33.899Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] モルガンお雪.epub",
+  "mtime": "2024-12-07T08:04:33.865Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 柳原燁子（白蓮）.epub",
+  "mtime": "2024-12-07T08:04:33.803Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 芳川鎌子.epub",
+  "mtime": "2024-12-07T08:04:33.732Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 松井須磨子.epub",
+  "mtime": "2024-12-07T08:04:33.675Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 平塚明子（らいてう）.epub",
+  "mtime": "2024-12-07T08:04:33.614Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 豊竹呂昇.epub",
+  "mtime": "2024-12-07T08:04:33.553Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 田沢稲船.epub",
+  "mtime": "2024-12-07T08:04:33.504Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 竹本綾之助.epub",
+  "mtime": "2024-12-07T08:04:33.389Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 朱絃舎浜子.epub",
+  "mtime": "2024-12-07T08:04:33.340Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 九条武子.epub",
+  "mtime": "2024-12-07T08:04:33.257Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 大橋須磨子.epub",
+  "mtime": "2024-12-07T08:04:33.130Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 大塚楠緒子.epub",
+  "mtime": "2024-12-07T08:04:33.089Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 遠藤（岩野）清子.epub",
+  "mtime": "2024-12-07T08:04:33.047Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 江木欣々女史.epub",
+  "mtime": "2024-12-07T08:04:32.979Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 一世お鯉.epub",
+  "mtime": "2024-12-07T08:04:32.930Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 市川九女八.epub",
+  "mtime": "2024-12-07T08:04:32.861Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 水色情緒.epub",
+  "mtime": "2024-12-07T08:04:32.813Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 八歳の時の憤激.epub",
+  "mtime": "2024-12-07T08:04:32.768Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] うづみ火.epub",
+  "mtime": "2024-12-07T08:04:32.733Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 勝川花菊の一生.epub",
+  "mtime": "2024-12-07T08:04:32.666Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 木魚の配偶.epub",
+  "mtime": "2024-12-07T08:04:32.622Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 木魚の顔.epub",
+  "mtime": "2024-12-07T08:04:32.571Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] テンコツさん一家.epub",
+  "mtime": "2024-12-07T08:04:32.525Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 大丸呉服店.epub",
+  "mtime": "2024-12-07T08:04:32.479Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 古屋島七兵衛.epub",
+  "mtime": "2024-12-07T08:04:32.423Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 源泉小学校.epub",
+  "mtime": "2024-12-07T08:04:32.380Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 旧聞日本橋 蕎麦屋の利久.epub",
+  "mtime": "2024-12-07T08:04:32.334Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 旧聞日本橋 町の構成.epub",
+  "mtime": "2024-12-07T08:04:32.236Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 明治大正美女追憶.epub",
+  "mtime": "2024-12-07T08:04:32.176Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 明治美人伝.epub",
+  "mtime": "2024-12-07T08:04:32.135Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 三十五氏.epub",
+  "mtime": "2024-12-07T08:04:32.075Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 樋口一葉.epub",
+  "mtime": "2024-12-07T08:04:32.037Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[長谷川時雨] 渡りきらぬ橋.epub",
+  "mtime": "2024-12-07T08:04:31.967Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[萩原恭次郎] 日比谷のベンチで.epub",
+  "mtime": "2024-12-07T08:04:31.903Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[萩原恭次郎] 離れてゆく秋.epub",
+  "mtime": "2024-12-07T08:04:31.866Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[萩原恭次郎] 装甲弾機.epub",
+  "mtime": "2024-12-07T08:04:31.829Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[萩原恭次郎] 愛は終了され.epub",
+  "mtime": "2024-12-07T08:04:31.795Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[萩原恭次郎] 純情小曲集 跋.epub",
+  "mtime": "2024-12-07T08:04:31.760Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[芳賀矢一] 鎌倉.epub",
+  "mtime": "2024-12-07T08:04:31.723Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[芳賀矢一] 奉悼歌.epub",
+  "mtime": "2024-12-07T08:04:31.687Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] 教育の最大目的.epub",
+  "mtime": "2024-12-07T08:04:31.649Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] 「死」の問題に対して.epub",
+  "mtime": "2024-12-07T08:04:31.614Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] ソクラテス.epub",
+  "mtime": "2024-12-07T08:04:31.574Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] 民族優勢説の危険.epub",
+  "mtime": "2024-12-07T08:04:31.535Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] 自由の真髄.epub",
+  "mtime": "2024-12-07T08:04:31.498Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] 教育家の教育.epub",
+  "mtime": "2024-12-07T08:04:31.458Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] デモクラシーの要素.epub",
+  "mtime": "2024-12-07T08:04:31.416Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] イエスキリストの友誼.epub",
+  "mtime": "2024-12-07T08:04:31.368Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] 東西相触れて.epub",
+  "mtime": "2024-12-07T08:04:31.319Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] 女子教育に就て.epub",
+  "mtime": "2024-12-07T08:04:31.281Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] 国際聯盟とは如何なものか.epub",
+  "mtime": "2024-12-07T08:04:31.240Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] 人格を認知せざる国民.epub",
+  "mtime": "2024-12-07T08:04:31.193Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] 人格の養成.epub",
+  "mtime": "2024-12-07T08:04:31.153Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] 今世風の教育.epub",
+  "mtime": "2024-12-07T08:04:31.108Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] 教育の目的.epub",
+  "mtime": "2024-12-07T08:04:31.071Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] 我が教育の欠陥.epub",
+  "mtime": "2024-12-07T08:04:31.012Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] 平民道.epub",
+  "mtime": "2024-12-07T08:04:30.978Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] 武士道の山.epub",
+  "mtime": "2024-12-07T08:04:30.937Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] 真の愛国心.epub",
+  "mtime": "2024-12-07T08:04:30.904Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稻造] 教育の目的.epub",
+  "mtime": "2024-12-07T08:04:30.865Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[新渡戸稲造] 自警録.epub",
+  "mtime": "2024-12-07T08:04:30.792Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[成島柳北] 祭活字子文.epub",
+  "mtime": "2024-12-07T08:04:30.511Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[成島柳北] 祭舌文.epub",
+  "mtime": "2024-12-07T08:04:30.472Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[成島柳北] 阿房山賦.epub",
+  "mtime": "2024-12-07T08:04:30.436Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[成島柳北] 他山の石.epub",
+  "mtime": "2024-12-07T08:04:30.395Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[濹上漁史] 土用干ノ記.epub",
+  "mtime": "2024-12-07T08:04:30.358Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[濹上漁史] 青塚ノ説.epub",
+  "mtime": "2024-12-07T08:04:30.313Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[濹上漁史] 好古小言.epub",
+  "mtime": "2024-12-07T08:04:30.270Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[濹上漁史] 忙ノ説.epub",
+  "mtime": "2024-12-07T08:04:30.232Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[中村憲吉] 頼杏坪先生.epub",
+  "mtime": "2024-12-07T08:04:30.198Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[中村憲吉] 三次の鵜飼.epub",
+  "mtime": "2024-12-07T08:04:30.156Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[中村憲吉] 備後より.epub",
+  "mtime": "2024-12-07T08:04:30.116Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[中戸川吉二] イボタの虫.epub",
+  "mtime": "2024-12-07T08:04:30.079Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[中沢臨川] 愛は、力は土より.epub",
+  "mtime": "2024-12-07T08:04:30.028Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[内藤鳴雪] 鳴雪句集.epub",
+  "mtime": "2024-12-07T08:04:29.985Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[内藤鳴雪] 鳴雪自叙伝.epub",
+  "mtime": "2024-12-07T08:04:29.900Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] ランボオへ.epub",
+  "mtime": "2024-12-07T08:04:29.641Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 四行詩.epub",
+  "mtime": "2024-12-07T08:04:29.600Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 夜の讃歌.epub",
+  "mtime": "2024-12-07T08:04:29.528Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] ゆふべみた夢（Etude）.epub",
+  "mtime": "2024-12-07T08:04:29.489Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 無題　京都 富倉次郎に.epub",
+  "mtime": "2024-12-07T08:04:29.452Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 無題.epub",
+  "mtime": "2024-12-07T08:04:29.415Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 俯瞰景.epub",
+  "mtime": "2024-12-07T08:04:29.271Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 晩春小曲.epub",
+  "mtime": "2024-12-07T08:04:29.233Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 恥の歌.epub",
+  "mtime": "2024-12-07T08:04:29.196Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 橋の上の自画像.epub",
+  "mtime": "2024-12-07T08:04:29.160Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 癲狂院外景.epub",
+  "mtime": "2024-12-07T08:04:29.126Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 手.epub",
+  "mtime": "2024-12-07T08:04:29.089Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 鳥獣剥製所 一報告書.epub",
+  "mtime": "2024-12-07T08:04:29.054Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 忠告.epub",
+  "mtime": "2024-12-07T08:04:29.012Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 断片.epub",
+  "mtime": "2024-12-07T08:04:28.976Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 大脳は厨房である.epub",
+  "mtime": "2024-12-07T08:04:28.938Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 煙草の歌.epub",
+  "mtime": "2024-12-07T08:04:28.901Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 即興.epub",
+  "mtime": "2024-12-07T08:04:28.867Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 熱情的なフーガ.epub",
+  "mtime": "2024-12-07T08:04:28.830Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 深夜の道士.epub",
+  "mtime": "2024-12-07T08:04:28.795Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 焦燥.epub",
+  "mtime": "2024-12-07T08:04:28.759Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 頌歌.epub",
+  "mtime": "2024-12-07T08:04:28.725Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 原始林の縁辺に於ける探険者 une ode.epub",
+  "mtime": "2024-12-07T08:04:28.690Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 警戒 Ｃ・Ｍに.epub",
+  "mtime": "2024-12-07T08:04:28.651Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 画家の午後.epub",
+  "mtime": "2024-12-07T08:04:28.617Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 影絵.epub",
+  "mtime": "2024-12-07T08:04:28.581Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 横臥合掌.epub",
+  "mtime": "2024-12-07T08:04:28.548Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 美しき敵.epub",
+  "mtime": "2024-12-07T08:04:28.513Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 遺産分配書.epub",
+  "mtime": "2024-12-07T08:04:28.477Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] 秋の悲歎.epub",
+  "mtime": "2024-12-07T08:04:28.441Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] AU RIMBAUD.epub",
+  "mtime": "2024-12-07T08:04:28.405Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] PANTOMIME.epub",
+  "mtime": "2024-12-07T08:04:28.370Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富永太郎] COLLOQUE MOQUEUR Depuis que Maria ma quitte pour aller dans une autre etoile ―― Mallarme.epub",
+  "mtime": "2024-12-07T08:04:28.335Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[富田木歩] 小さな旅.epub",
+  "mtime": "2024-12-07T08:04:28.301Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[戸川秋骨] 翻訳製造株式会社.epub",
+  "mtime": "2024-12-07T08:04:28.265Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[戸川秋骨] 道學先生の旅.epub",
+  "mtime": "2024-12-07T08:04:28.226Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[塚原蓼洲] 兵馬倥偬の人.epub",
+  "mtime": "2024-12-07T08:04:28.190Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[田村俊子] 木乃伊の口紅.epub",
+  "mtime": "2024-12-07T08:04:28.104Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[田中正造] 公益に有害の鑛業を停止せざる儀に付質問書.epub",
+  "mtime": "2024-12-07T08:04:28.021Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[田中正造] 亡國に至るを知らざれば之れ即ち亡國の儀に付質問.epub",
+  "mtime": "2024-12-07T08:04:27.965Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[田中正造] 土地兼併の罪惡.epub",
+  "mtime": "2024-12-07T08:04:27.928Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[田中正造] 非常歎願書.epub",
+  "mtime": "2024-12-07T08:04:27.810Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[田中正造] 直訴状.epub",
+  "mtime": "2024-12-07T08:04:27.735Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[竹内勝太郎] 人形芝居に関するノオト.epub",
+  "mtime": "2024-12-07T08:04:27.678Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[竹内勝太郎] 淡路人形座訪問 （其の現状と由來）.epub",
+  "mtime": "2024-12-07T08:04:27.636Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[田口卯吉] 将来の日本 序.epub",
+  "mtime": "2024-12-07T08:04:27.558Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[滝廉太郎] 「四季」緒言.epub",
+  "mtime": "2024-12-07T08:04:27.522Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[千家元麿] 自分は見た.epub",
+  "mtime": "2024-12-07T08:04:27.487Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[杉村楚人冠] 検疫と荷物検査.epub",
+  "mtime": "2024-12-07T08:04:27.355Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[杉田久女] 万葉の手古奈とうなひ処女.epub",
+  "mtime": "2024-12-07T08:04:27.301Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[杉田久女] 瓢作り.epub",
+  "mtime": "2024-12-07T08:04:27.238Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[杉田久女] 梟啼く.epub",
+  "mtime": "2024-12-07T08:04:27.162Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[杉田久女] 女流俳句を味読す.epub",
+  "mtime": "2024-12-07T08:04:27.088Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[杉田久女] 桜花を詠める句 （古今女流俳句の比較）.epub",
+  "mtime": "2024-12-07T08:04:27.045Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[杉田久女] 英彦山に登る.epub",
+  "mtime": "2024-12-07T08:04:27.002Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[杉田久女] 大正女流俳句の近代的特色.epub",
+  "mtime": "2024-12-07T08:04:26.965Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[杉田久女] 朱欒の花のさく頃.epub",
+  "mtime": "2024-12-07T08:04:26.906Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[白鳥庫吉] 倭女王卑彌呼考.epub",
+  "mtime": "2024-12-07T08:04:26.863Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[白鳥庫吉] 『尚書』の高等批評 特に堯舜禹に就いて.epub",
+  "mtime": "2024-12-07T08:04:26.719Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[十一谷義三郎] 静物.epub",
+  "mtime": "2024-12-07T08:04:26.676Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[十一谷義三郎] ジエィン・エア 解説.epub",
+  "mtime": "2024-12-07T08:04:26.629Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[十一谷義三郎] 青草.epub",
+  "mtime": "2024-12-07T08:04:26.591Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[島村抱月] 現代の文脈.epub",
+  "mtime": "2024-12-07T08:04:26.511Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[島村抱月] 今の寫生文.epub",
+  "mtime": "2024-12-07T08:04:26.476Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[島村抱月] 『人形の家』解説.epub",
+  "mtime": "2024-12-07T08:04:26.411Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[島村抱月] 序に代えて人生観上の自然主義を論ず.epub",
+  "mtime": "2024-12-07T08:04:26.357Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[島田清次郎] 二人の男.epub",
+  "mtime": "2024-12-07T08:04:26.317Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[島田清次郎] 地上 地に潜むもの.epub",
+  "mtime": "2024-12-07T08:04:26.262Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[島田清次郎] 若芽.epub",
+  "mtime": "2024-12-07T08:04:26.031Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[芝不器男] 不器男句集.epub",
+  "mtime": "2024-12-07T08:04:25.992Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[志賀重昂] 琉球に学ぶべきもの.epub",
+  "mtime": "2024-12-07T08:04:25.951Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[佐藤惣之助] 季節の馬車.epub",
+  "mtime": "2024-12-07T08:04:25.911Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[佐藤惣之助] 日本の釣技.epub",
+  "mtime": "2024-12-07T08:04:25.846Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[佐藤惣之助] 夏と魚.epub",
+  "mtime": "2024-12-07T08:04:25.793Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[佐藤惣之助] 釣れない時 君は何を考へるか.epub",
+  "mtime": "2024-12-07T08:04:25.748Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[佐藤惣之助] 釣心魚心.epub",
+  "mtime": "2024-12-07T08:04:25.712Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[佐藤惣之助] 魚美人.epub",
+  "mtime": "2024-12-07T08:04:25.677Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[佐藤惣之助] 荒磯の興味.epub",
+  "mtime": "2024-12-07T08:04:25.639Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[佐藤紅緑] 少年連盟.epub",
+  "mtime": "2024-12-07T08:04:25.602Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[佐藤紅緑] ああ玉杯に花うけて.epub",
+  "mtime": "2024-12-07T08:04:25.407Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[斎藤緑雨] 油地獄.epub",
+  "mtime": "2024-12-07T08:04:25.151Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[斎藤緑雨] もゝはがき.epub",
+  "mtime": "2024-12-07T08:04:25.013Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[斎藤緑雨] かくれんぼ.epub",
+  "mtime": "2024-12-07T08:04:24.959Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[斎藤緑雨] 青眼白頭.epub",
+  "mtime": "2024-12-07T08:04:24.914Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[齋藤秀三郎] 熟語本位英和中辞典 Y.epub",
+  "mtime": "2024-12-07T08:04:24.873Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[児玉花外] 菜の花物語.epub",
+  "mtime": "2024-12-07T08:04:24.657Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[桑木厳翼] 春水と三馬.epub",
+  "mtime": "2024-12-07T08:04:24.618Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[桑木嚴翼] 哲學と哲學史.epub",
+  "mtime": "2024-12-07T08:04:24.575Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[桑木厳翼] 『全輯百間隨筆』内容見本「推薦文」.epub",
+  "mtime": "2024-12-07T08:04:24.526Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[久保良英] 教育心理に關する現下の問題二三.epub",
+  "mtime": "2024-12-07T08:04:24.488Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[桐生悠々] 正義の国と人生.epub",
+  "mtime": "2024-12-07T08:04:24.448Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[桐生悠々] 関東防空大演習を嗤う.epub",
+  "mtime": "2024-12-07T08:04:24.411Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[桐生悠々] 煎じ詰めれば.epub",
+  "mtime": "2024-12-07T08:04:24.374Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[桐生悠々] 科学的新聞記者.epub",
+  "mtime": "2024-12-07T08:04:24.336Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[桐生悠々] 言いたい事と言わねばならない事と.epub",
+  "mtime": "2024-12-07T08:04:24.299Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[木下利玄] 山陰の風景 ――歌になるところ――.epub",
+  "mtime": "2024-12-07T08:04:24.261Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[木下利玄] 山遊び.epub",
+  "mtime": "2024-12-07T08:04:24.224Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[木下尚江] 鉄窓の歌.epub",
+  "mtime": "2024-12-07T08:04:24.187Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[木下尚江] 大野人.epub",
+  "mtime": "2024-12-07T08:04:23.801Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[木下尚江] 自由の使徒・島田三郎.epub",
+  "mtime": "2024-12-07T08:04:23.757Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[木下尚江] 幸徳秋水と僕 ――反逆児の悩みを語る――.epub",
+  "mtime": "2024-12-07T08:04:23.695Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[木下尚江] 臨終の田中正造.epub",
+  "mtime": "2024-12-07T08:04:23.651Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[木下尚江] 雪中の日光より.epub",
+  "mtime": "2024-12-07T08:04:23.569Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[木下尚江] 佐野だより.epub",
+  "mtime": "2024-12-07T08:04:23.534Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[木下尚江] 政治の破産者・田中正造.epub",
+  "mtime": "2024-12-07T08:04:23.498Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[木下尚江] 鉱毒飛沫.epub",
+  "mtime": "2024-12-07T08:04:23.431Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[木下尚江] 火の柱.epub",
+  "mtime": "2024-12-07T08:04:23.392Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[菊池幽芳] 雲仙岳.epub",
+  "mtime": "2024-12-07T08:04:23.156Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[河東碧梧桐] 登山は冒険なり.epub",
+  "mtime": "2024-12-07T08:04:23.081Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[河東碧梧桐] 南予枇杷行.epub",
+  "mtime": "2024-12-07T08:04:23.045Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[川上眉山] 書記官.epub",
+  "mtime": "2024-12-07T08:04:23.009Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[河合栄治郎] 二・二六事件に就て.epub",
+  "mtime": "2024-12-07T08:04:22.952Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[片上伸] 人間の本性.epub",
+  "mtime": "2024-12-07T08:04:22.919Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[片上伸] ドストイェフスキーに就いて.epub",
+  "mtime": "2024-12-07T08:04:22.882Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[片上伸] 生みの力.epub",
+  "mtime": "2024-12-07T08:04:22.848Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[片岡鉄兵] 菜の花月夜.epub",
+  "mtime": "2024-12-07T08:04:22.807Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[片岡鉄兵] 今度こそ.epub",
+  "mtime": "2024-12-07T08:04:22.761Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[小柳司気太] 韓非子解題.epub",
+  "mtime": "2024-12-07T08:04:22.523Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[乙骨三郎] 総説　西洋音楽史の時代.epub",
+  "mtime": "2024-12-07T08:04:22.484Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[小山内薫] 芝、麻布.epub",
+  "mtime": "2024-12-07T08:04:22.449Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[小山内薫] 反古.epub",
+  "mtime": "2024-12-07T08:04:22.410Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[小山内薫] 女の膝.epub",
+  "mtime": "2024-12-07T08:04:22.370Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[小山内薫] 因果.epub",
+  "mtime": "2024-12-07T08:04:22.335Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[小山内薫] 今戸狐.epub",
+  "mtime": "2024-12-07T08:04:22.303Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[小山内薫] 梅龍の話.epub",
+  "mtime": "2024-12-07T08:04:22.271Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[小山内薫] 梨の実.epub",
+  "mtime": "2024-12-07T08:04:22.234Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[小川正子] 隨筆　藪柑子 跋.epub",
+  "mtime": "2024-12-07T08:04:22.199Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[岡倉由三郎] 茶の本 はしがき.epub",
+  "mtime": "2024-12-07T08:04:22.164Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[大槻文彦] ことばのうみのおくがき.epub",
+  "mtime": "2024-12-07T08:04:22.129Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[大塚楠緒子] お百度詣.epub",
+  "mtime": "2024-12-07T08:04:22.078Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[江見水蔭] 探檢實記　地中の秘密 疑問の加瀬貝塚.epub",
+  "mtime": "2024-12-07T08:04:22.042Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[江見水蔭] 探檢實記　地中の秘密 馬籠と根方.epub",
+  "mtime": "2024-12-07T08:04:21.992Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[江見水蔭] 探檢實記　地中の秘密 嶺の千鳥窪.epub",
+  "mtime": "2024-12-07T08:04:21.944Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[江見水蔭] 探檢實記　地中の秘密 深大寺の打石斧.epub",
+  "mtime": "2024-12-07T08:04:21.893Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[江見水蔭] 探檢實記　地中の秘密 權現臺の懷古.epub",
+  "mtime": "2024-12-07T08:04:21.854Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[江見水蔭] 探檢實記　地中の秘密 蠻勇の力.epub",
+  "mtime": "2024-12-07T08:04:21.792Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[江見水蔭] 探檢實記　地中の秘密 大森貝塚の發掘.epub",
+  "mtime": "2024-12-07T08:04:21.749Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[江見水蔭] 硯友社と文士劇.epub",
+  "mtime": "2024-12-07T08:04:21.704Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[江見水蔭] 丹那山の怪.epub",
+  "mtime": "2024-12-07T08:04:21.667Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[江見水蔭] 怪異暗闇祭.epub",
+  "mtime": "2024-12-07T08:04:21.627Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[江見水蔭] 備前天一坊.epub",
+  "mtime": "2024-12-07T08:04:21.580Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[江見水蔭] 悪因縁の怨.epub",
+  "mtime": "2024-12-07T08:04:21.532Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[江見水蔭] 壁の眼の怪.epub",
+  "mtime": "2024-12-07T08:04:21.484Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[江見水蔭] 怪異黒姫おろし.epub",
+  "mtime": "2024-12-07T08:04:21.443Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[江見水蔭] 死剣と生縄.epub",
+  "mtime": "2024-12-07T08:04:21.392Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[江見水蔭] 月世界跋渉記.epub",
+  "mtime": "2024-12-07T08:04:21.329Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[江見水蔭] 探檢實記　地中の秘密 お穴樣の探檢.epub",
+  "mtime": "2024-12-07T08:04:21.291Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[江見水蔭] 探檢實記　地中の秘密 末吉の貝塚.epub",
+  "mtime": "2024-12-07T08:04:21.222Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[上田萬年] 芳賀君を悼みて.epub",
+  "mtime": "2024-12-07T08:04:21.178Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊良子清白] 孔雀船.epub",
+  "mtime": "2024-12-07T08:04:21.143Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[井上哲次郎] 「西周哲學著作集」序.epub",
+  "mtime": "2024-12-07T08:04:21.047Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[井上哲次郎] 明治哲学界の回顧 結論――自分の立場.epub",
+  "mtime": "2024-12-07T08:04:21.009Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[井上哲次郎] 明治哲学界の回顧 序論.epub",
+  "mtime": "2024-12-07T08:04:20.966Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] サニンの態度.epub",
+  "mtime": "2024-12-07T08:04:20.922Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 妾の会つた男の人々（野依秀一、中村弧月印象録）.epub",
+  "mtime": "2024-12-07T08:04:20.887Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] ウォーレン夫人とその娘.epub",
+  "mtime": "2024-12-07T08:04:20.849Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 妾の会つた男の人人.epub",
+  "mtime": "2024-12-07T08:04:20.781Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 私が現在の立場.epub",
+  "mtime": "2024-12-07T08:04:20.744Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] らいてう氏の『処女の真価値』を読みて.epub",
+  "mtime": "2024-12-07T08:04:20.707Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] らいてう氏に.epub",
+  "mtime": "2024-12-07T08:04:20.666Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 嫁泥棒譚.epub",
+  "mtime": "2024-12-07T08:04:20.624Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 編輯だより（一九一五年九月号）.epub",
+  "mtime": "2024-12-07T08:04:20.576Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 編輯室より（一九一四年一月号）.epub",
+  "mtime": "2024-12-07T08:04:20.542Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 編輯室より（一九一六年一月号）.epub",
+  "mtime": "2024-12-07T08:04:20.497Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 編輯室より（一九一六年二月号）.epub",
+  "mtime": "2024-12-07T08:04:20.462Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 編輯室より（一九一四年一二月号）.epub",
+  "mtime": "2024-12-07T08:04:20.425Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 編輯室より（一九一四年一一月号）.epub",
+  "mtime": "2024-12-07T08:04:20.389Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 編輯室より （一九一四年三月号）.epub",
+  "mtime": "2024-12-07T08:04:20.355Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 編輯室より（一九一三年六月号）.epub",
+  "mtime": "2024-12-07T08:04:20.323Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 編輯室より（一九一三年七月号）.epub",
+  "mtime": "2024-12-07T08:04:20.279Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 編輯室より（一九一五年六月号）.epub",
+  "mtime": "2024-12-07T08:04:20.246Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 編輯室より（一九一五年二月号）.epub",
+  "mtime": "2024-12-07T08:04:20.212Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 編輯室より（一九一五年七月号）.epub",
+  "mtime": "2024-12-07T08:04:20.179Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 編輯室より（一九一五年四月号）.epub",
+  "mtime": "2024-12-07T08:04:20.139Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 編輯室より（一九一五年三月号）.epub",
+  "mtime": "2024-12-07T08:04:20.103Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 編輯室より（一九一五年五月号）.epub",
+  "mtime": "2024-12-07T08:04:20.068Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 編輯室より（一九一五年一月号）.epub",
+  "mtime": "2024-12-07T08:04:20.034Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 福岡の女.epub",
+  "mtime": "2024-12-07T08:04:19.999Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 夫婦喧嘩の功過と責任の所在（アンケート回答）.epub",
+  "mtime": "2024-12-07T08:04:19.964Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 平塚明子論.epub",
+  "mtime": "2024-12-07T08:04:19.929Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 人間と云ふ意識.epub",
+  "mtime": "2024-12-07T08:04:19.869Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 中村孤月様へ.epub",
+  "mtime": "2024-12-07T08:04:19.809Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 読者諸氏に.epub",
+  "mtime": "2024-12-07T08:04:19.753Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 貞操に就いての雑感.epub",
+  "mtime": "2024-12-07T08:04:19.703Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 男性に対する主張と要求.epub",
+  "mtime": "2024-12-07T08:04:19.655Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 「現代と婦人の生活」序に代へて.epub",
+  "mtime": "2024-12-07T08:04:19.598Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 女教員の縊死 （三面記事評論）.epub",
+  "mtime": "2024-12-07T08:04:19.560Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 新刊紹介 〔伝説の時代〕.epub",
+  "mtime": "2024-12-07T08:04:19.522Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　武部ツタ宛 （一九一七年八月一三日）.epub",
+  "mtime": "2024-12-07T08:04:19.487Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　武部ツタ宛 （一九一七年一〇月一日）.epub",
+  "mtime": "2024-12-07T08:04:19.453Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　木村荘太宛 （一九一三年六月二四日）.epub",
+  "mtime": "2024-12-07T08:04:19.418Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　蒲原房枝宛 （一九一五年頃）.epub",
+  "mtime": "2024-12-07T08:04:19.380Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　大杉栄宛 （一九一六年六月六日）.epub",
+  "mtime": "2024-12-07T08:04:19.345Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　大杉栄宛 （一九一六年六月二二日）.epub",
+  "mtime": "2024-12-07T08:04:19.308Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　大杉栄宛 （一九一六年六月一日）.epub",
+  "mtime": "2024-12-07T08:04:19.274Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　大杉栄宛 （一九一六年七月一五日　二信）.epub",
+  "mtime": "2024-12-07T08:04:19.238Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　大杉栄宛 （一九一六年七月一五日　一信）.epub",
+  "mtime": "2024-12-07T08:04:19.204Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　大杉栄宛 （一九一六年四月三〇日　二信）.epub",
+  "mtime": "2024-12-07T08:04:19.170Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　大杉栄宛 （一九一六年四月三〇日　一信）.epub",
+  "mtime": "2024-12-07T08:04:19.136Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　大杉栄宛 （一九一六年五月三日）.epub",
+  "mtime": "2024-12-07T08:04:19.102Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　大杉栄宛 （一九一六年五月二日）.epub",
+  "mtime": "2024-12-07T08:04:19.066Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　大杉栄宛 （一九一六年五月二七日）.epub",
+  "mtime": "2024-12-07T08:04:19.031Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　大杉栄宛 （一九一六年五月七日　二信）.epub",
+  "mtime": "2024-12-07T08:04:18.994Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　大杉栄宛 （一九一六年五月七日　一信）.epub",
+  "mtime": "2024-12-07T08:04:18.956Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　大杉栄宛 （一九一六年五月三〇日）.epub",
+  "mtime": "2024-12-07T08:04:18.912Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　大杉栄宛 （一九一六年五月三一日）.epub",
+  "mtime": "2024-12-07T08:04:18.875Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　大杉栄宛 （一九一六年五月九日　二信）.epub",
+  "mtime": "2024-12-07T08:04:18.839Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　大杉栄宛 （一九一六年五月九日　一信）.epub",
+  "mtime": "2024-12-07T08:04:18.802Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　大杉栄宛 （一九一六年五月一日）.epub",
+  "mtime": "2024-12-07T08:04:18.769Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 消息.epub",
+  "mtime": "2024-12-07T08:04:18.736Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 書簡　山田邦子宛 （一九一五年七月一一日）.epub",
+  "mtime": "2024-12-07T08:04:18.700Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 私信 ――野上彌生様へ.epub",
+  "mtime": "2024-12-07T08:04:18.662Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 最近の感想.epub",
+  "mtime": "2024-12-07T08:04:18.620Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 九州より ――生田花世氏に.epub",
+  "mtime": "2024-12-07T08:04:18.582Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 寄贈書籍.epub",
+  "mtime": "2024-12-07T08:04:18.540Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 寄贈雑誌.epub",
+  "mtime": "2024-12-07T08:04:18.502Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 感想の断片.epub",
+  "mtime": "2024-12-07T08:04:18.468Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 女絵師毒絵具を仰ぐ （三面記事評論）.epub",
+  "mtime": "2024-12-07T08:04:18.425Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] Ｓ先生に.epub",
+  "mtime": "2024-12-07T08:04:18.388Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 岩野清子氏の『双棲と寡居』について.epub",
+  "mtime": "2024-12-07T08:04:18.347Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 従妹に.epub",
+  "mtime": "2024-12-07T08:04:18.304Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 新らしき婦人の男性観.epub",
+  "mtime": "2024-12-07T08:04:18.247Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 青山菊栄様へ.epub",
+  "mtime": "2024-12-07T08:04:18.211Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 『婦人解放の悲劇』に就て.epub",
+  "mtime": "2024-12-07T08:04:18.166Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 『青鞜』を引き継ぐに就いて.epub",
+  "mtime": "2024-12-07T08:04:18.121Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 背負ひ切れぬ重荷.epub",
+  "mtime": "2024-12-07T08:04:18.073Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 嘘言と云ふことに就いての追想.epub",
+  "mtime": "2024-12-07T08:04:18.029Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 寄贈書籍紹介.epub",
+  "mtime": "2024-12-07T08:04:17.981Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 内気な娘とお転婆娘.epub",
+  "mtime": "2024-12-07T08:04:17.943Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 新らしき女の道.epub",
+  "mtime": "2024-12-07T08:04:17.900Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 「別居」について.epub",
+  "mtime": "2024-12-07T08:04:17.864Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 監獄挿話　面会人控所.epub",
+  "mtime": "2024-12-07T08:04:17.825Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 惑ひ.epub",
+  "mtime": "2024-12-07T08:04:17.763Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 火つけ彦七.epub",
+  "mtime": "2024-12-07T08:04:17.659Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 東の渚.epub",
+  "mtime": "2024-12-07T08:04:17.606Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 白痴の母.epub",
+  "mtime": "2024-12-07T08:04:17.560Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 日記より.epub",
+  "mtime": "2024-12-07T08:04:17.518Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 乞食の名誉.epub",
+  "mtime": "2024-12-07T08:04:17.477Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 遺書の一部より.epub",
+  "mtime": "2024-12-07T08:04:17.424Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] ある女の裁判.epub",
+  "mtime": "2024-12-07T08:04:17.387Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 「婦人解放の悲劇」自序.epub",
+  "mtime": "2024-12-07T08:04:17.340Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 成長が生んだ私の恋愛破綻.epub",
+  "mtime": "2024-12-07T08:04:17.300Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] わがまま.epub",
+  "mtime": "2024-12-07T08:04:17.257Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 出奔.epub",
+  "mtime": "2024-12-07T08:04:17.216Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] ある男の堕落.epub",
+  "mtime": "2024-12-07T08:04:17.173Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[伊藤野枝] 転機.epub",
+  "mtime": "2024-12-07T08:04:17.120Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[市島春城] 出版の今昔.epub",
+  "mtime": "2024-12-07T08:04:17.046Z",
+  "type": "epub"
+ },
+ {
+  "filename": "[市島春城] 読書八境.epub",
+  "mtime": "2024-12-07T08:04:16.990Z",
+  "type": "epub"
+ },
+ {
   "filename": "[岡本綺堂編訳] 世界怪談名作集 序／目次.epub",
   "mtime": "2024-12-05T13:46:49.734Z",
   "type": "epub"
