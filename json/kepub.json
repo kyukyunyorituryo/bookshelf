@@ -1,5 +1,5080 @@
 [
  {
+  "filename": "[芥川龍之介] わが家の古玩.kepub.epub",
+  "mtime": "2024-12-07T17:08:59.807Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[清澤洌] 暗黒日記.kepub.epub",
+  "mtime": "2024-12-07T16:12:36.830Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 坂本龍馬手記 イロハ丸航海日記.kepub.epub",
+  "mtime": "2024-12-07T16:12:36.627Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 船中八策 慶応三年六月十五日.kepub.epub",
+  "mtime": "2024-12-07T16:12:36.459Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 和歌二.kepub.epub",
+  "mtime": "2024-12-07T16:12:36.391Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 和歌三.kepub.epub",
+  "mtime": "2024-12-07T16:12:36.301Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 和歌一 龍馬より姉乙女子へ示せる和歌.kepub.epub",
+  "mtime": "2024-12-07T16:12:36.213Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 俚謡二.kepub.epub",
+  "mtime": "2024-12-07T16:12:36.135Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 俚謡一.kepub.epub",
+  "mtime": "2024-12-07T16:12:35.926Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 坂本龍馬手帳摘要.kepub.epub",
+  "mtime": "2024-12-07T16:12:35.862Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 続　手紙 順助あて（推定、慶応三年十一月十日）.kepub.epub",
+  "mtime": "2024-12-07T16:12:35.528Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 続　手紙 高松太郎あて（推定、慶応三年七月二十五日）.kepub.epub",
+  "mtime": "2024-12-07T16:12:35.441Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 続　手紙 三吉慎蔵あて（推定、慶応三年春、二十二日）.kepub.epub",
+  "mtime": "2024-12-07T16:12:35.341Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 新政府綱領八策 慶応三年十一月.kepub.epub",
+  "mtime": "2024-12-07T16:12:35.238Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 新官制擬定書 慶応三年十月十六日.kepub.epub",
+  "mtime": "2024-12-07T16:12:35.162Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 続　手紙 伊藤助太夫あて（年月未詳、四日。推定、慶応三年三月）.kepub.epub",
+  "mtime": "2024-12-07T16:12:35.095Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 続　手紙 伊藤助太夫あて（推定、慶応三年二月頃、十六日）.kepub.epub",
+  "mtime": "2024-12-07T16:12:35.031Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 続　手紙 伊藤助太夫あて（推定、慶応三年春頃、二日）.kepub.epub",
+  "mtime": "2024-12-07T16:12:34.952Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 続　手紙 森玄道、伊藤助太夫あて（推定、慶応二年八月十六日）.kepub.epub",
+  "mtime": "2024-12-07T16:12:34.882Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 続　手紙 坂本春猪あて（推定、慶応二年秋、二十四日）.kepub.epub",
+  "mtime": "2024-12-07T16:12:34.781Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 続　手紙 坂本乙女あてか（推定、慶応二年夏頃）.kepub.epub",
+  "mtime": "2024-12-07T16:12:34.658Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 続　手紙 宛先き、年月日、未詳（推定、慶応二年五月下旬、お龍あて）.kepub.epub",
+  "mtime": "2024-12-07T16:12:34.484Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 続　手紙 宛先き、年月日、未詳（推定、慶応二年春）.kepub.epub",
+  "mtime": "2024-12-07T16:12:34.383Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 続　手紙 幕閣要人あてか（推定、慶応二年三月）.kepub.epub",
+  "mtime": "2024-12-07T16:12:34.287Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 続　手紙 宛先き、年月日、未詳（推定、慶応元年秋、坂本乙女あて）.kepub.epub",
+  "mtime": "2024-12-07T16:12:34.167Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 続　手紙 宛先き、年月日、未詳（推定、慶応元年夏、坂本乙女あて）.kepub.epub",
+  "mtime": "2024-12-07T16:12:34.100Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 続　手紙 池内蔵太あて（推定、慶応元年夏、二十二日）.kepub.epub",
+  "mtime": "2024-12-07T16:12:33.968Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 続　手紙 宛先き、年未詳（推定、元治元年九月十五日、勝海舟あて）.kepub.epub",
+  "mtime": "2024-12-07T16:12:33.870Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 続　手紙 坂本乙女、春猪あて（推定、文久三年秋頃）.kepub.epub",
+  "mtime": "2024-12-07T16:12:33.802Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 続　手紙 清井権二郎あて（推定、安政年間、五月二十五日）.kepub.epub",
+  "mtime": "2024-12-07T16:12:33.632Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年十一月十四日　坂本清次郎あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:33.568Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年十一月十三日（推定）陸奥宗光あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:33.497Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年十一月十一日　林謙三あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:33.431Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年十一月十日　林謙三あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:33.347Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年十一月七日　陸奥宗光あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:33.240Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年十月二十四日　岡本健三郎あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:33.096Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年十月二十二日　陸奥宗光あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:33.031Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年十月十八日　望月清平あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:32.948Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年十月中旬　後藤象二郎あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:32.676Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年十月十三日　後藤象二郎あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:32.553Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年十月十日頃　後藤象二郎あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:32.436Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年十月九日　坂本権平あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:32.315Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年九月二十七日　本山只一郎あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:32.248Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年九月二十四日　渡辺弥久馬あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:32.167Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年九月二十日　木戸孝允あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:32.058Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年九月十八日　佐々木高行あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:31.939Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年九月十三日　陸奥宗光あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:31.867Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年九月十日　長崎奉行あて差出の草案.kepub.epub",
+  "mtime": "2024-12-07T16:12:31.762Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年九月十日　佐々木高行あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:31.671Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年九月六日　佐々木高行あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:31.528Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年九月五日　安岡金馬あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:31.442Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年九月初旬　佐々木高行あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:31.375Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年八月下旬　佐々木高行あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:31.035Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年八月二十六日　佐々木高行あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:30.881Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年八月二十五日　佐々木高行あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:30.803Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年八月二十四日　佐々木高行あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:30.731Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年八月二十三日　岡内俊太郎あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:30.666Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年八月二十一日　岡内俊太郎あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:30.609Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年八月十九日　岡内俊太郎あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:30.532Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年八月十六日　陸奥宗光あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:30.460Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年八月十四日　三吉慎蔵あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:30.377Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年八月八日　坂本権平あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:30.281Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年八月五日　長岡謙吉あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:30.151Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年八月五日　寺田屋お登勢あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:30.064Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年六月二十四日　望月清平あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:29.972Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年六月二十四日　乙女、おやべあて.kepub.epub",
+  "mtime": "2024-12-07T16:12:29.899Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年六月二十四日　坂本権平あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:29.130Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年六月十日　木戸孝允あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:29.013Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年五月二十九日　小谷耕蔵、渡辺剛八あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:28.912Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年五月二十八日　伊藤助太夫あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:28.829Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年五月二十八日　お龍あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:28.593Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年五月二十七日　高柳楠之助あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:28.303Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年五月中下旬頃　高柳楠之助あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:28.223Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年五月二十七日　伊藤助太夫あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:28.139Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年五月十七日　三吉慎蔵あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:28.069Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年五月中旬　寺田屋伊助あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:27.973Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年五月十一日　秋山某あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:27.827Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年五月八日　三吉慎蔵あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:27.738Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年五月七日　伊藤助太夫あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:27.668Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年五月五日　三吉慎蔵あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:27.491Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年四月二十八日　菅野覚兵衛、高松太郎あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:27.393Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年四月二十七日　寺田屋お登勢あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:27.233Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年四月初旬　坂本乙女あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:27.129Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年四月七日　坂本乙女あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:26.975Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年四月六日　伊藤助太夫あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:26.871Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年三月二十四日　坂本春猪あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:26.794Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年三月二十日　三吉慎蔵あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:26.677Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年三月六日　印藤肇あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:26.557Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年二月二十二日　三吉慎蔵あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:26.280Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年二月十六日　三吉慎蔵あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:26.147Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年二月十四日　河田左久馬あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:26.022Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年二月十三日　寺田屋お登勢あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:25.945Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年一月二十二日　坂本乙女あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:25.745Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年一月二十日　姪春猪あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:25.678Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年一月十七日　伊藤助太夫あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:25.490Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年一月十四日　木戸孝允あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:25.426Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応三年一月三日　木戸孝允あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:25.345Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年十二月二十日　伊藤助太夫あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:25.224Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年十二月十五日　木戸孝允あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:25.071Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年十二月四日　坂本乙女あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:24.932Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年十二月四日　坂本権平あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:24.529Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年十二月四日　坂本権平、一同あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:24.463Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年十一月二十日　寺田屋お登勢あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:24.112Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年十一月十六日　溝渕広之丞あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:24.020Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年十一月　溝淵広之丞あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:23.950Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年十月五日　吉井友実あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:23.851Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年九月十八日か　渡辺昇あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:23.780Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年八月十六日　三吉慎蔵あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:23.713Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年八月十三日　森玄道、伊藤助太夫あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:23.582Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年七月二十八日　三吉慎蔵あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:23.407Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年七月二十七日　木戸孝允あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:23.307Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年七月四日　木戸孝允あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:23.150Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年六月十六日　品川省吾あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:23.078Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年三月八日　高松太郎あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:23.021Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年二月六日　木戸孝允あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:22.901Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年二月五日　木戸孝允あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:22.755Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年二月三日　印藤肇あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:22.691Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年一月二十日　池内蔵太家族あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:22.612Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応二年一月三日　久保松太郎あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:22.330Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応元年十二月二十九日　印藤肇あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:22.251Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応元年十二月十四日　岩下佐次右衛門、吉井友実あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:22.143Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応元年十二月三日　印藤肇あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:21.988Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応元年十月十二日　印藤肇あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:21.918Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応元年十月三日　池内蔵太あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:21.812Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応元年九月か　坂本乙女あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:21.647Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応元年九月九日　池内蔵太家族あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:21.438Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応元年九月九日　坂本乙女、おやべあて.kepub.epub",
+  "mtime": "2024-12-07T16:12:21.053Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応元年九月七日　坂本権平、乙女、おやべあて.kepub.epub",
+  "mtime": "2024-12-07T16:12:20.189Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 慶応元年閏五月五日　渋谷彦介あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:19.942Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 元治元年六月二十八日　坂本乙女あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:19.874Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 文久三年八月十九日　川原塚茂太郎あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:19.673Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 文久三年八月十四日か　坂本乙女あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:19.243Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 文久三年七月八日か　村田巳三郎あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:19.183Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 文久三年六月二十九日　坂本乙女あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:18.939Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 文久三年六月十六日　池内蔵太の母あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:18.192Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 文久三年五月十七日　坂本乙女あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:18.002Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 文久三年三月二十日　坂本乙女あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:17.828Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 文久元年十月十四日　田中良助あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:17.610Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 文久元年九月十三日　平井かほあて.kepub.epub",
+  "mtime": "2024-12-07T16:12:17.407Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 安政五年十一月十九日　住谷信順、大胡資敬あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:17.338Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 安政五年七月頃　坂本乙女あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:17.131Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 安政三年九月二十九日　相良屋源之助あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:17.053Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 手紙 嘉永六年九月二十三日　父坂本八平直足あて.kepub.epub",
+  "mtime": "2024-12-07T16:12:16.983Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本龍馬] 海援隊約規.kepub.epub",
+  "mtime": "2024-12-07T16:12:16.905Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[坂本竜馬] 船中八策.kepub.epub",
+  "mtime": "2024-12-07T16:12:16.701Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[レオニード・ニコラエヴィッチ・アンドレーエフ] 世界怪談名作集 ラザルス.kepub.epub",
+  "mtime": "2024-12-07T16:12:16.630Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[レオニイド・アンドレイエフ　Leonid Andrejew] 犬.kepub.epub",
+  "mtime": "2024-12-07T16:12:16.539Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[改訳について] レ・ミゼラブル LES MISERABLES.kepub.epub",
+  "mtime": "2024-12-07T16:12:16.473Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[序] レ・ミゼラブル LES MISERABLES.kepub.epub",
+  "mtime": "2024-12-07T16:12:16.403Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 随筆評論集「文学以前」後記.kepub.epub",
+  "mtime": "2024-12-07T16:12:16.333Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 随筆評論集「情意の干満」後記.kepub.epub",
+  "mtime": "2024-12-07T16:12:16.266Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 随筆評論集「書かれざる作品」後記.kepub.epub",
+  "mtime": "2024-12-07T16:12:16.203Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 小説集「山吹の花」後記.kepub.epub",
+  "mtime": "2024-12-07T16:12:16.136Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 小説集「白塔の歌」後記.kepub.epub",
+  "mtime": "2024-12-07T16:12:16.069Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 小説集「白蛾」後記.kepub.epub",
+  "mtime": "2024-12-07T16:12:16.002Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 小説集「聖女人像」後記.kepub.epub",
+  "mtime": "2024-12-07T16:12:15.927Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 小説集「秦の憂愁」後記.kepub.epub",
+  "mtime": "2024-12-07T16:12:15.841Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 小説集「白い朝」後記.kepub.epub",
+  "mtime": "2024-12-07T16:12:15.777Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 小説・評論集「文学母胎」後記.kepub.epub",
+  "mtime": "2024-12-07T16:12:15.712Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 湖水と彼等.kepub.epub",
+  "mtime": "2024-12-07T16:12:15.646Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] ばかな汽車.kepub.epub",
+  "mtime": "2024-12-07T16:12:15.565Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 人形使い.kepub.epub",
+  "mtime": "2024-12-07T16:12:15.504Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 強い賢い王様の話.kepub.epub",
+  "mtime": "2024-12-07T16:12:15.424Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 風ばか.kepub.epub",
+  "mtime": "2024-12-07T16:12:15.355Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 活人形.kepub.epub",
+  "mtime": "2024-12-07T16:12:15.292Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 魔法探し.kepub.epub",
+  "mtime": "2024-12-07T16:12:15.218Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 北極のアムンセン.kepub.epub",
+  "mtime": "2024-12-07T16:12:15.148Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] アフリカのスタンレー.kepub.epub",
+  "mtime": "2024-12-07T16:12:15.065Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 椎の木.kepub.epub",
+  "mtime": "2024-12-07T16:12:14.959Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 市郎の店.kepub.epub",
+  "mtime": "2024-12-07T16:12:14.885Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] ふしぎな池.kepub.epub",
+  "mtime": "2024-12-07T16:12:14.820Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 太一の靴は世界一.kepub.epub",
+  "mtime": "2024-12-07T16:12:14.740Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] シロ・クロ物語.kepub.epub",
+  "mtime": "2024-12-07T16:12:14.675Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] スミトラ物語.kepub.epub",
+  "mtime": "2024-12-07T16:12:14.588Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] エミリアンの旅.kepub.epub",
+  "mtime": "2024-12-07T16:12:14.492Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 木曾の一平.kepub.epub",
+  "mtime": "2024-12-07T16:12:14.397Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 鬼カゲさま.kepub.epub",
+  "mtime": "2024-12-07T16:12:14.326Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 金の猫の鬼.kepub.epub",
+  "mtime": "2024-12-07T16:12:14.260Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 悪魔の宝.kepub.epub",
+  "mtime": "2024-12-07T16:12:14.193Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 犬の八公.kepub.epub",
+  "mtime": "2024-12-07T16:12:14.124Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] シャボン玉.kepub.epub",
+  "mtime": "2024-12-07T16:12:14.053Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 蔵の二階.kepub.epub",
+  "mtime": "2024-12-07T16:12:13.984Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 山上湖.kepub.epub",
+  "mtime": "2024-12-07T16:12:13.895Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 猫捨坂.kepub.epub",
+  "mtime": "2024-12-07T16:12:13.810Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 小さき花にも.kepub.epub",
+  "mtime": "2024-12-07T16:12:13.726Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] ヘヤーピン一本.kepub.epub",
+  "mtime": "2024-12-07T16:12:13.640Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 自由人.kepub.epub",
+  "mtime": "2024-12-07T16:12:13.556Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 花ふぶき.kepub.epub",
+  "mtime": "2024-12-07T16:12:13.400Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 祭りの夜.kepub.epub",
+  "mtime": "2024-12-07T16:12:13.313Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 紫の壜.kepub.epub",
+  "mtime": "2024-12-07T16:12:13.219Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 土地に還る ――近代説話――.kepub.epub",
+  "mtime": "2024-12-07T16:12:13.114Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 聖女人像.kepub.epub",
+  "mtime": "2024-12-07T16:12:13.024Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 白木蓮.kepub.epub",
+  "mtime": "2024-12-07T16:12:12.935Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 朝やけ.kepub.epub",
+  "mtime": "2024-12-07T16:12:12.841Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 早春.kepub.epub",
+  "mtime": "2024-12-07T16:12:12.752Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 未亡人.kepub.epub",
+  "mtime": "2024-12-07T16:12:12.663Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 道標 ――近代説話――.kepub.epub",
+  "mtime": "2024-12-07T16:12:12.575Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 非情の愛.kepub.epub",
+  "mtime": "2024-12-07T16:12:12.491Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 水甕 ――近代説話――.kepub.epub",
+  "mtime": "2024-12-07T16:12:12.397Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 落雷のあと ――近代説話――.kepub.epub",
+  "mtime": "2024-12-07T16:12:12.312Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 白蛾 ――近代説話――.kepub.epub",
+  "mtime": "2024-12-07T16:12:12.227Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 白藤 ――近代説話――.kepub.epub",
+  "mtime": "2024-12-07T16:12:12.143Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 高尾ざんげ ――近代説話――.kepub.epub",
+  "mtime": "2024-12-07T16:12:12.055Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 波多野邸.kepub.epub",
+  "mtime": "2024-12-07T16:12:11.966Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 崖下の池 ――近代説話――.kepub.epub",
+  "mtime": "2024-12-07T16:12:11.819Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 旅だち ――近代説話――.kepub.epub",
+  "mtime": "2024-12-07T16:12:11.720Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 古木 ――近代説話――.kepub.epub",
+  "mtime": "2024-12-07T16:12:11.626Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 渡舟場 ――近代説話――.kepub.epub",
+  "mtime": "2024-12-07T16:12:11.534Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 沼のほとり ――近代説話――.kepub.epub",
+  "mtime": "2024-12-07T16:12:11.444Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 乾杯 ――近代説話――.kepub.epub",
+  "mtime": "2024-12-07T16:12:11.352Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 塩花.kepub.epub",
+  "mtime": "2024-12-07T16:12:11.259Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 秦の出発.kepub.epub",
+  "mtime": "2024-12-07T16:12:11.167Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 秦の憂愁.kepub.epub",
+  "mtime": "2024-12-07T16:12:11.071Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 変る.kepub.epub",
+  "mtime": "2024-12-07T16:12:10.985Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 白塔の歌 ――近代伝説――.kepub.epub",
+  "mtime": "2024-12-07T16:12:10.897Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 画舫 ――近代伝説――.kepub.epub",
+  "mtime": "2024-12-07T16:12:10.800Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 立札 ――近代伝説――.kepub.epub",
+  "mtime": "2024-12-07T16:12:10.718Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 碑文 ――近代伝説――.kepub.epub",
+  "mtime": "2024-12-07T16:12:10.635Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 三つの悲憤 ――近代伝説――.kepub.epub",
+  "mtime": "2024-12-07T16:12:10.513Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 椿の花の赤.kepub.epub",
+  "mtime": "2024-12-07T16:12:10.430Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 三つの嘘 ――近代伝説――.kepub.epub",
+  "mtime": "2024-12-07T16:12:10.349Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 鳶と柿と鶏.kepub.epub",
+  "mtime": "2024-12-07T16:12:10.267Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 在学理由.kepub.epub",
+  "mtime": "2024-12-07T16:12:10.192Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 浅間噴火口.kepub.epub",
+  "mtime": "2024-12-07T16:12:10.112Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 山吹の花.kepub.epub",
+  "mtime": "2024-12-07T16:12:10.020Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 窓にさす影.kepub.epub",
+  "mtime": "2024-12-07T16:12:09.940Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 囚われ人 ――寓話――.kepub.epub",
+  "mtime": "2024-12-07T16:12:09.854Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 擬体.kepub.epub",
+  "mtime": "2024-12-07T16:12:09.767Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 庶民生活.kepub.epub",
+  "mtime": "2024-12-07T16:12:09.685Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 絶縁体.kepub.epub",
+  "mtime": "2024-12-07T16:12:09.571Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 花子の陳述.kepub.epub",
+  "mtime": "2024-12-07T16:12:09.461Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] どぶろく幻想.kepub.epub",
+  "mtime": "2024-12-07T16:12:09.366Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 霊感.kepub.epub",
+  "mtime": "2024-12-07T16:12:09.279Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] ものの影.kepub.epub",
+  "mtime": "2024-12-07T16:12:09.185Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 広場のベンチ.kepub.epub",
+  "mtime": "2024-12-07T16:12:09.094Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 死因の疑問.kepub.epub",
+  "mtime": "2024-12-07T16:12:09.006Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 怒りの虫.kepub.epub",
+  "mtime": "2024-12-07T16:12:08.911Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 春盲.kepub.epub",
+  "mtime": "2024-12-07T16:12:08.823Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 無法者.kepub.epub",
+  "mtime": "2024-12-07T16:12:08.731Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 母親.kepub.epub",
+  "mtime": "2024-12-07T16:12:08.613Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 化生のもの.kepub.epub",
+  "mtime": "2024-12-07T16:12:08.477Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 女心の強ければ.kepub.epub",
+  "mtime": "2024-12-07T16:12:08.382Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 蛸の如きもの.kepub.epub",
+  "mtime": "2024-12-07T16:12:08.244Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 好人物.kepub.epub",
+  "mtime": "2024-12-07T16:12:08.155Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 田園の幻.kepub.epub",
+  "mtime": "2024-12-07T16:12:08.077Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 孤独者の愛.kepub.epub",
+  "mtime": "2024-12-07T16:12:07.985Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 復讐.kepub.epub",
+  "mtime": "2024-12-07T16:12:07.897Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 新妻の手記.kepub.epub",
+  "mtime": "2024-12-07T16:12:07.807Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 悲しい誤解.kepub.epub",
+  "mtime": "2024-12-07T16:12:07.716Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 牛乳と馬.kepub.epub",
+  "mtime": "2024-12-07T16:12:07.621Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 或る作家の厄日.kepub.epub",
+  "mtime": "2024-12-07T16:12:07.490Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 失われた半身.kepub.epub",
+  "mtime": "2024-12-07T16:12:07.407Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 男ぎらい.kepub.epub",
+  "mtime": "2024-12-07T16:12:07.310Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 程よい人.kepub.epub",
+  "mtime": "2024-12-07T16:12:07.209Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 一つの愛情.kepub.epub",
+  "mtime": "2024-12-07T16:12:07.125Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 憑きもの.kepub.epub",
+  "mtime": "2024-12-07T16:12:07.035Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 雷神の珠.kepub.epub",
+  "mtime": "2024-12-07T16:12:06.939Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 夢の卵.kepub.epub",
+  "mtime": "2024-12-07T16:12:06.862Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 山の別荘の少年.kepub.epub",
+  "mtime": "2024-12-07T16:12:06.782Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 街の少年.kepub.epub",
+  "mtime": "2024-12-07T16:12:06.709Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 彗星の話.kepub.epub",
+  "mtime": "2024-12-07T16:12:06.632Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 不思議な帽子.kepub.epub",
+  "mtime": "2024-12-07T16:12:06.568Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] ひでり狐.kepub.epub",
+  "mtime": "2024-12-07T16:12:06.499Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 長彦と丸彦.kepub.epub",
+  "mtime": "2024-12-07T16:12:06.430Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 天狗笑.kepub.epub",
+  "mtime": "2024-12-07T16:12:06.360Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 泥坊.kepub.epub",
+  "mtime": "2024-12-07T16:12:06.278Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 天狗の鼻.kepub.epub",
+  "mtime": "2024-12-07T16:12:06.201Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 天下一の馬.kepub.epub",
+  "mtime": "2024-12-07T16:12:06.134Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 手品師.kepub.epub",
+  "mtime": "2024-12-07T16:12:06.067Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 狸のお祭り.kepub.epub",
+  "mtime": "2024-12-07T16:12:06.006Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 正覚坊.kepub.epub",
+  "mtime": "2024-12-07T16:12:05.939Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] コーカサスの禿鷹.kepub.epub",
+  "mtime": "2024-12-07T16:12:05.866Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 銀の笛と金の毛皮.kepub.epub",
+  "mtime": "2024-12-07T16:12:05.796Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 金の目銀の目.kepub.epub",
+  "mtime": "2024-12-07T16:12:05.715Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] キンショキショキ.kepub.epub",
+  "mtime": "2024-12-07T16:12:05.611Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 影法師.kepub.epub",
+  "mtime": "2024-12-07T16:12:05.546Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] お山の爺さん.kepub.epub",
+  "mtime": "2024-12-07T16:12:05.475Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] お月様の唄.kepub.epub",
+  "mtime": "2024-12-07T16:12:05.404Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 死刑囚最後の日解説.kepub.epub",
+  "mtime": "2024-12-07T16:12:05.327Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] ジャン・クリストフ 改訳について.kepub.epub",
+  "mtime": "2024-12-07T16:12:05.262Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] ジャン・クリストフ 後記.kepub.epub",
+  "mtime": "2024-12-07T16:12:05.192Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[序] ジャン・クリストフ JEAN CHRISTOPHE.kepub.epub",
+  "mtime": "2024-12-07T16:12:05.120Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 私の信条.kepub.epub",
+  "mtime": "2024-12-07T16:12:05.053Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 狸石 ――寓話――.kepub.epub",
+  "mtime": "2024-12-07T16:12:04.978Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 「草野心平詩集」解説.kepub.epub",
+  "mtime": "2024-12-07T16:12:04.915Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] ヒロシマの声.kepub.epub",
+  "mtime": "2024-12-07T16:12:04.847Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] ジャングル頭.kepub.epub",
+  "mtime": "2024-12-07T16:12:04.782Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] ピンカンウーリの阿媽.kepub.epub",
+  "mtime": "2024-12-07T16:12:04.717Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 猫先生の弁.kepub.epub",
+  "mtime": "2024-12-07T16:12:04.624Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 太宰治との一日.kepub.epub",
+  "mtime": "2024-12-07T16:12:04.554Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 或る夜の武田麟太郎.kepub.epub",
+  "mtime": "2024-12-07T16:12:04.484Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 三木清を憶う.kepub.epub",
+  "mtime": "2024-12-07T16:12:04.406Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 新たな世界主義.kepub.epub",
+  "mtime": "2024-12-07T16:12:04.334Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 今日の条件.kepub.epub",
+  "mtime": "2024-12-07T16:12:04.262Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 文学に於ける構想力.kepub.epub",
+  "mtime": "2024-12-07T16:12:04.189Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 文学精神は言う.kepub.epub",
+  "mtime": "2024-12-07T16:12:04.123Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 或る日の対話.kepub.epub",
+  "mtime": "2024-12-07T16:12:04.058Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 楊先生.kepub.epub",
+  "mtime": "2024-12-07T16:12:03.986Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 怪異に嫌わる.kepub.epub",
+  "mtime": "2024-12-07T16:12:03.913Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 竜宮.kepub.epub",
+  "mtime": "2024-12-07T16:12:03.846Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 上海の渋面.kepub.epub",
+  "mtime": "2024-12-07T16:12:03.778Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 中支生活者.kepub.epub",
+  "mtime": "2024-12-07T16:12:03.708Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 北支点描.kepub.epub",
+  "mtime": "2024-12-07T16:12:03.643Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 北京・青島・村落.kepub.epub",
+  "mtime": "2024-12-07T16:12:03.577Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 台湾の姿態.kepub.epub",
+  "mtime": "2024-12-07T16:12:03.482Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] オランウータン.kepub.epub",
+  "mtime": "2024-12-07T16:12:03.415Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 文学以前.kepub.epub",
+  "mtime": "2024-12-07T16:12:03.348Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 高千穂に思う.kepub.epub",
+  "mtime": "2024-12-07T16:12:03.266Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 神話と青春との復活.kepub.epub",
+  "mtime": "2024-12-07T16:12:03.193Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 幻の園.kepub.epub",
+  "mtime": "2024-12-07T16:12:03.126Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 夢の図.kepub.epub",
+  "mtime": "2024-12-07T16:12:03.058Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 風俗時評.kepub.epub",
+  "mtime": "2024-12-07T16:12:02.989Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 作家的思想.kepub.epub",
+  "mtime": "2024-12-07T16:12:02.920Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 文学への実感について.kepub.epub",
+  "mtime": "2024-12-07T16:12:02.855Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 新時代の「童話」.kepub.epub",
+  "mtime": "2024-12-07T16:12:02.791Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 砂漠の情熱.kepub.epub",
+  "mtime": "2024-12-07T16:12:02.718Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 風景.kepub.epub",
+  "mtime": "2024-12-07T16:12:02.658Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 十一谷義三郎を語る.kepub.epub",
+  "mtime": "2024-12-07T16:12:02.592Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 「紋章」の「私」.kepub.epub",
+  "mtime": "2024-12-07T16:12:02.508Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 長篇小説私見.kepub.epub",
+  "mtime": "2024-12-07T16:12:02.432Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 少年文学私見.kepub.epub",
+  "mtime": "2024-12-07T16:12:02.373Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] ふざけた読書.kepub.epub",
+  "mtime": "2024-12-07T16:12:02.310Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 失策記.kepub.epub",
+  "mtime": "2024-12-07T16:12:02.247Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 幻覚記.kepub.epub",
+  "mtime": "2024-12-07T16:12:02.182Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 女人禁制.kepub.epub",
+  "mtime": "2024-12-07T16:12:02.112Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 録音集.kepub.epub",
+  "mtime": "2024-12-07T16:12:02.050Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 守宮.kepub.epub",
+  "mtime": "2024-12-07T16:12:01.988Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 猫性.kepub.epub",
+  "mtime": "2024-12-07T16:12:01.927Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 形態について.kepub.epub",
+  "mtime": "2024-12-07T16:12:01.865Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 必要以上のもの.kepub.epub",
+  "mtime": "2024-12-07T16:12:01.797Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 待つ者.kepub.epub",
+  "mtime": "2024-12-07T16:12:01.726Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 明日.kepub.epub",
+  "mtime": "2024-12-07T16:12:01.663Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 故郷.kepub.epub",
+  "mtime": "2024-12-07T16:12:01.602Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 自由主義私見 ――学芸自由同盟に関連して――.kepub.epub",
+  "mtime": "2024-12-07T16:12:01.532Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 文学の曇天.kepub.epub",
+  "mtime": "2024-12-07T16:12:01.463Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 性格批判の問題.kepub.epub",
+  "mtime": "2024-12-07T16:12:01.333Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 性格を求む.kepub.epub",
+  "mtime": "2024-12-07T16:12:01.268Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 意欲の窒息.kepub.epub",
+  "mtime": "2024-12-07T16:12:01.191Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 異邦人の意欲.kepub.epub",
+  "mtime": "2024-12-07T16:12:01.118Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 傍人の言.kepub.epub",
+  "mtime": "2024-12-07T16:12:01.055Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 交遊断片.kepub.epub",
+  "mtime": "2024-12-07T16:12:00.985Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 父と子供たち.kepub.epub",
+  "mtime": "2024-12-07T16:12:00.921Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 父母に対する私情.kepub.epub",
+  "mtime": "2024-12-07T16:12:00.857Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 書かれざる作品.kepub.epub",
+  "mtime": "2024-12-07T16:12:00.792Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 情意の干満.kepub.epub",
+  "mtime": "2024-12-07T16:12:00.724Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄著] 球体派.kepub.epub",
+  "mtime": "2024-12-07T16:12:00.646Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] エスキス.kepub.epub",
+  "mtime": "2024-12-07T16:12:00.577Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 地水火風空.kepub.epub",
+  "mtime": "2024-12-07T16:12:00.513Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 川端柳.kepub.epub",
+  "mtime": "2024-12-07T16:12:00.447Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 表現論随筆.kepub.epub",
+  "mtime": "2024-12-07T16:12:00.381Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 初秋海浜記.kepub.epub",
+  "mtime": "2024-12-07T16:12:00.313Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 鯉.kepub.epub",
+  "mtime": "2024-12-07T16:12:00.245Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 蜘蛛.kepub.epub",
+  "mtime": "2024-12-07T16:12:00.180Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 猫.kepub.epub",
+  "mtime": "2024-12-07T16:12:00.116Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 舞踏病.kepub.epub",
+  "mtime": "2024-12-07T16:12:00.053Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 愉快な話.kepub.epub",
+  "mtime": "2024-12-07T16:11:59.977Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 話の屑籠.kepub.epub",
+  "mtime": "2024-12-07T16:11:59.914Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 奇怪な話.kepub.epub",
+  "mtime": "2024-12-07T16:11:59.842Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 「沈黙」の話.kepub.epub",
+  "mtime": "2024-12-07T16:11:59.766Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 条件反射.kepub.epub",
+  "mtime": "2024-12-07T16:11:59.691Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 夢.kepub.epub",
+  "mtime": "2024-12-07T16:11:59.631Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 美醜.kepub.epub",
+  "mtime": "2024-12-07T16:11:59.559Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 樹を愛する心.kepub.epub",
+  "mtime": "2024-12-07T16:11:59.490Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 「自然」.kepub.epub",
+  "mtime": "2024-12-07T16:11:59.423Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 同感.kepub.epub",
+  "mtime": "2024-12-07T16:11:59.357Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 鴨猟.kepub.epub",
+  "mtime": "2024-12-07T16:11:59.292Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 逢魔の刻.kepub.epub",
+  "mtime": "2024-12-07T16:11:59.220Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 霊気.kepub.epub",
+  "mtime": "2024-12-07T16:11:59.152Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] ナポレオンの遺書.kepub.epub",
+  "mtime": "2024-12-07T16:11:59.087Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 帰京記.kepub.epub",
+  "mtime": "2024-12-07T16:11:59.019Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 現代小説展望.kepub.epub",
+  "mtime": "2024-12-07T16:11:58.951Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 戯曲を書く私の心持.kepub.epub",
+  "mtime": "2024-12-07T16:11:58.851Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 病室の幻影.kepub.epub",
+  "mtime": "2024-12-07T16:11:58.782Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 作者の住む世界.kepub.epub",
+  "mtime": "2024-12-07T16:11:58.691Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 野に声なし.kepub.epub",
+  "mtime": "2024-12-07T16:11:58.625Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 舞台のイメージ.kepub.epub",
+  "mtime": "2024-12-07T16:11:58.546Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 月評をして.kepub.epub",
+  "mtime": "2024-12-07T16:11:58.458Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] ヒューメーンということに就て.kepub.epub",
+  "mtime": "2024-12-07T16:11:58.364Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 小説の内容論.kepub.epub",
+  "mtime": "2024-12-07T16:11:58.281Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] バラック居住者への言葉.kepub.epub",
+  "mtime": "2024-12-07T16:11:58.210Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 都会に於ける中流婦人の生活.kepub.epub",
+  "mtime": "2024-12-07T16:11:58.138Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 生活について ――地方の青年へ――.kepub.epub",
+  "mtime": "2024-12-07T16:11:58.069Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 偶像に就ての雑感.kepub.epub",
+  "mtime": "2024-12-07T16:11:57.994Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 旅人の言.kepub.epub",
+  "mtime": "2024-12-07T16:11:57.856Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 蓮.kepub.epub",
+  "mtime": "2024-12-07T16:11:57.786Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 轢死人.kepub.epub",
+  "mtime": "2024-12-07T16:11:57.709Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 金魚.kepub.epub",
+  "mtime": "2024-12-07T16:11:57.634Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 影.kepub.epub",
+  "mtime": "2024-12-07T16:11:57.561Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 秋の幻.kepub.epub",
+  "mtime": "2024-12-07T16:11:57.490Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 湯元の秋.kepub.epub",
+  "mtime": "2024-12-07T16:11:57.407Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 秋の気魄.kepub.epub",
+  "mtime": "2024-12-07T16:11:57.331Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 真夏の幻影.kepub.epub",
+  "mtime": "2024-12-07T16:11:57.264Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 蝦蟇.kepub.epub",
+  "mtime": "2024-12-07T16:11:57.194Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 春の幻.kepub.epub",
+  "mtime": "2024-12-07T16:11:57.123Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 梅花の気品.kepub.epub",
+  "mtime": "2024-12-07T16:11:57.055Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 真夜中から黎明まで.kepub.epub",
+  "mtime": "2024-12-07T16:11:56.981Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 大自然を讃う.kepub.epub",
+  "mtime": "2024-12-07T16:11:56.913Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 最近の菊池寛氏.kepub.epub",
+  "mtime": "2024-12-07T16:11:56.847Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 作品の倫理的批評.kepub.epub",
+  "mtime": "2024-12-07T16:11:56.777Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 白い朝 ――「正夫の童話」――.kepub.epub",
+  "mtime": "2024-12-07T16:11:56.695Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 霧の中 ――「正夫の世界」――.kepub.epub",
+  "mtime": "2024-12-07T16:11:56.603Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 女と帽子 ――「小悪魔の記録」――.kepub.epub",
+  "mtime": "2024-12-07T16:11:56.504Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 潮風 ――「小悪魔の記録」――.kepub.epub",
+  "mtime": "2024-12-07T16:11:56.411Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 坂田の場合 ――「小悪魔の記録」――.kepub.epub",
+  "mtime": "2024-12-07T16:11:56.317Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 南さんの恋人 ――「小悪魔の記録」――.kepub.epub",
+  "mtime": "2024-12-07T16:11:56.226Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 食慾.kepub.epub",
+  "mtime": "2024-12-07T16:11:56.125Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 肉体.kepub.epub",
+  "mtime": "2024-12-07T16:11:56.033Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 別れの辞.kepub.epub",
+  "mtime": "2024-12-07T16:11:55.932Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 父の形見.kepub.epub",
+  "mtime": "2024-12-07T16:11:55.835Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 道化役.kepub.epub",
+  "mtime": "2024-12-07T16:11:55.755Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 死ね！.kepub.epub",
+  "mtime": "2024-12-07T16:11:55.657Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 常識.kepub.epub",
+  "mtime": "2024-12-07T16:11:55.461Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 千代次の驚き.kepub.epub",
+  "mtime": "2024-12-07T16:11:55.362Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 死の前後.kepub.epub",
+  "mtime": "2024-12-07T16:11:55.271Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 田舎者.kepub.epub",
+  "mtime": "2024-12-07T16:11:55.173Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 立枯れ.kepub.epub",
+  "mtime": "2024-12-07T16:11:55.087Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 慾.kepub.epub",
+  "mtime": "2024-12-07T16:11:54.994Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 女客一週間.kepub.epub",
+  "mtime": "2024-12-07T16:11:54.876Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 傷痕の背景.kepub.epub",
+  "mtime": "2024-12-07T16:11:54.779Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 操守.kepub.epub",
+  "mtime": "2024-12-07T16:11:54.686Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 溺るるもの.kepub.epub",
+  "mtime": "2024-12-07T16:11:54.587Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 春.kepub.epub",
+  "mtime": "2024-12-07T16:11:54.496Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 裸木.kepub.epub",
+  "mtime": "2024-12-07T16:11:54.418Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 黒点 ――或る青年の「回想記」の一節――.kepub.epub",
+  "mtime": "2024-12-07T16:11:54.333Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 不肖の兄.kepub.epub",
+  "mtime": "2024-12-07T16:11:54.222Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 古井戸.kepub.epub",
+  "mtime": "2024-12-07T16:11:54.129Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 阿亀.kepub.epub",
+  "mtime": "2024-12-07T16:11:54.029Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 二等車に乗る男.kepub.epub",
+  "mtime": "2024-12-07T16:11:53.953Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 足.kepub.epub",
+  "mtime": "2024-12-07T16:11:53.866Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 丘の上.kepub.epub",
+  "mtime": "2024-12-07T16:11:53.784Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 或る素描.kepub.epub",
+  "mtime": "2024-12-07T16:11:53.680Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 公孫樹.kepub.epub",
+  "mtime": "2024-12-07T16:11:53.584Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 童貞.kepub.epub",
+  "mtime": "2024-12-07T16:11:53.497Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 狐火.kepub.epub",
+  "mtime": "2024-12-07T16:11:53.414Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 香奠.kepub.epub",
+  "mtime": "2024-12-07T16:11:53.332Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 叔父.kepub.epub",
+  "mtime": "2024-12-07T16:11:53.226Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 道連.kepub.epub",
+  "mtime": "2024-12-07T16:11:53.132Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 好意.kepub.epub",
+  "mtime": "2024-12-07T16:11:53.037Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 月かげ.kepub.epub",
+  "mtime": "2024-12-07T16:11:52.949Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 人間繁栄.kepub.epub",
+  "mtime": "2024-12-07T16:11:52.862Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 同胞.kepub.epub",
+  "mtime": "2024-12-07T16:11:52.768Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 林檎.kepub.epub",
+  "mtime": "2024-12-07T16:11:52.673Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 土地.kepub.epub",
+  "mtime": "2024-12-07T16:11:52.582Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 都会の幽気.kepub.epub",
+  "mtime": "2024-12-07T16:11:52.348Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 人の国.kepub.epub",
+  "mtime": "2024-12-07T16:11:52.266Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 或る男の手記.kepub.epub",
+  "mtime": "2024-12-07T16:11:52.176Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 電車停留場.kepub.epub",
+  "mtime": "2024-12-07T16:11:52.045Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 変な男.kepub.epub",
+  "mtime": "2024-12-07T16:11:51.952Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 白日夢.kepub.epub",
+  "mtime": "2024-12-07T16:11:51.832Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 悪夢.kepub.epub",
+  "mtime": "2024-12-07T16:11:51.750Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 小説中の女.kepub.epub",
+  "mtime": "2024-12-07T16:11:51.659Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 神棚.kepub.epub",
+  "mtime": "2024-12-07T16:11:51.562Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 野ざらし.kepub.epub",
+  "mtime": "2024-12-07T16:11:51.448Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 幻の彼方.kepub.epub",
+  "mtime": "2024-12-07T16:11:51.251Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 白血球.kepub.epub",
+  "mtime": "2024-12-07T16:11:51.105Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 特殊部落の犯罪.kepub.epub",
+  "mtime": "2024-12-07T16:11:50.980Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 反抗.kepub.epub",
+  "mtime": "2024-12-07T16:11:50.901Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 月明.kepub.epub",
+  "mtime": "2024-12-07T16:11:50.659Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 未来の天才.kepub.epub",
+  "mtime": "2024-12-07T16:11:50.568Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 子を奪う.kepub.epub",
+  "mtime": "2024-12-07T16:11:50.479Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 理想の女.kepub.epub",
+  "mtime": "2024-12-07T16:11:50.356Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 或る女の手記.kepub.epub",
+  "mtime": "2024-12-07T16:11:50.232Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 二つの途.kepub.epub",
+  "mtime": "2024-12-07T16:11:50.123Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 愚かな一日.kepub.epub",
+  "mtime": "2024-12-07T16:11:49.975Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 群集.kepub.epub",
+  "mtime": "2024-12-07T16:11:49.890Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 楠の話.kepub.epub",
+  "mtime": "2024-12-07T16:11:49.816Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 微笑.kepub.epub",
+  "mtime": "2024-12-07T16:11:49.726Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 蘇生.kepub.epub",
+  "mtime": "2024-12-07T16:11:49.613Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 掠奪せられたる男.kepub.epub",
+  "mtime": "2024-12-07T16:11:49.492Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 生と死との記録.kepub.epub",
+  "mtime": "2024-12-07T16:11:49.389Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 田原氏の犯罪.kepub.epub",
+  "mtime": "2024-12-07T16:11:49.295Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 生あらば.kepub.epub",
+  "mtime": "2024-12-07T16:11:49.183Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 運命のままに.kepub.epub",
+  "mtime": "2024-12-07T16:11:49.077Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 少年の死.kepub.epub",
+  "mtime": "2024-12-07T16:11:48.968Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 過渡人.kepub.epub",
+  "mtime": "2024-12-07T16:11:48.877Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 球突場の一隅.kepub.epub",
+  "mtime": "2024-12-07T16:11:48.739Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 囚われ.kepub.epub",
+  "mtime": "2024-12-07T16:11:48.649Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 恩人.kepub.epub",
+  "mtime": "2024-12-07T16:11:48.557Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[豊島与志雄] 蠱惑 ――冬夜、瞑目して坐せるある青年の独白――.kepub.epub",
+  "mtime": "2024-12-07T16:11:48.438Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[ホーソーン　Nathaniel Hawthorne] 世界怪談名作集 ラッパチーニの娘　アウペパンの作から.kepub.epub",
+  "mtime": "2024-12-07T16:11:48.322Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[ナサニエル・ホーソン　Nathaniel Hawthorne] ワンダ・ブック――少年・少女のために―― A WONDER BOOK FOR BOYS AND GIRLS.kepub.epub",
+  "mtime": "2024-12-07T16:11:47.284Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[田澤稲舟] 五大堂.kepub.epub",
+  "mtime": "2024-12-07T16:11:47.020Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[ギィ・ドゥ・モオパッサン　Guy de Maupassant] 狂人日記.kepub.epub",
+  "mtime": "2024-12-07T16:11:46.933Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[モオパッサン] 親ごころ.kepub.epub",
+  "mtime": "2024-12-07T16:11:46.795Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[モオパッサン] 寡婦.kepub.epub",
+  "mtime": "2024-12-07T16:11:46.680Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[モオパッサン] 初雪.kepub.epub",
+  "mtime": "2024-12-07T16:11:46.565Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[モオパッサン] ある自殺者の手記.kepub.epub",
+  "mtime": "2024-12-07T16:11:46.471Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[モオパッサン] 墓.kepub.epub",
+  "mtime": "2024-12-07T16:11:46.337Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[モオパッサン] 狂女.kepub.epub",
+  "mtime": "2024-12-07T16:11:46.261Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[辻潤訳] 頸飾り ――モウパンサン――.kepub.epub",
+  "mtime": "2024-12-07T16:11:46.156Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[モウパンサン] 頸飾り.kepub.epub",
+  "mtime": "2024-12-07T16:11:46.082Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[モーパッサン　Guy De Maupassant] 糸くず LA FICELLE.kepub.epub",
+  "mtime": "2024-12-07T16:11:46.020Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[モーパッサン　Guy De Maupassant] 世界怪談名作集 幽霊.kepub.epub",
+  "mtime": "2024-12-07T16:11:45.957Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[橋本五郎] 撞球室の七人.kepub.epub",
+  "mtime": "2024-12-07T16:11:22.867Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[橋本五郎] 殺人迷路 （連作探偵小説第六回）.kepub.epub",
+  "mtime": "2024-12-07T16:11:22.830Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[橋本五郎] 小曲.kepub.epub",
+  "mtime": "2024-12-07T16:11:22.781Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[橋本五郎] 自殺を買う話.kepub.epub",
+  "mtime": "2024-12-07T15:32:50.769Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[橋本五郎] 地図にない街.kepub.epub",
+  "mtime": "2024-12-07T15:32:50.716Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[加福均三] 希臘及び羅馬と香料.kepub.epub",
+  "mtime": "2024-12-07T15:32:50.650Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[スティーヴンスン] 若い僧侶の話.kepub.epub",
+  "mtime": "2024-12-07T15:32:50.600Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[スティーヴンスン] 帽子箱の話.kepub.epub",
+  "mtime": "2024-12-07T15:32:50.522Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[ロバート・ルイス・スティーヴンソン] 醫師と旅行鞄の話.kepub.epub",
+  "mtime": "2024-12-07T15:32:50.366Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[スチーブンスン] 僕の国.kepub.epub",
+  "mtime": "2024-12-07T15:32:50.256Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[スチーブンスン] 積木の町.kepub.epub",
+  "mtime": "2024-12-07T15:32:50.207Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[スチーブンスン] 誰か.kepub.epub",
+  "mtime": "2024-12-07T15:32:50.158Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[スチーブンスン] ゐろりの中の街.kepub.epub",
+  "mtime": "2024-12-07T15:32:50.110Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[スティーブンソン　Stevenson Robert Louis] 宝島 宝島.kepub.epub",
+  "mtime": "2024-12-07T15:32:50.061Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[スティーヴンスン　Stevenson Robert Louis] ジーキル博士とハイド氏の怪事件 THE STRANGE CASE OF DR. JEKYLL AND MR. HYDE.kepub.epub",
+  "mtime": "2024-12-07T15:32:48.581Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 台風.kepub.epub",
+  "mtime": "2024-12-07T15:32:48.446Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 産褥の記.kepub.epub",
+  "mtime": "2024-12-07T15:32:48.396Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 私の生ひ立ち.kepub.epub",
+  "mtime": "2024-12-07T15:32:48.344Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 高きへ憧れる心.kepub.epub",
+  "mtime": "2024-12-07T15:32:48.164Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] そぞろごと.kepub.epub",
+  "mtime": "2024-12-07T15:32:48.113Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 既成宗教の外.kepub.epub",
+  "mtime": "2024-12-07T15:32:48.062Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] みだれ髪.kepub.epub",
+  "mtime": "2024-12-07T15:32:48.012Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 初島紀行.kepub.epub",
+  "mtime": "2024-12-07T15:32:47.695Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 月夜.kepub.epub",
+  "mtime": "2024-12-07T15:32:47.645Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 巴里の獨立祭.kepub.epub",
+  "mtime": "2024-12-07T15:32:47.592Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 巴里の旅窓より.kepub.epub",
+  "mtime": "2024-12-07T15:32:47.540Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 巴里まで.kepub.epub",
+  "mtime": "2024-12-07T15:32:47.485Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 貞操は道徳以上に尊貴である.kepub.epub",
+  "mtime": "2024-12-07T15:32:47.430Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 紅梅.kepub.epub",
+  "mtime": "2024-12-07T15:32:47.379Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 巴里にて.kepub.epub",
+  "mtime": "2024-12-07T15:32:47.330Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 姑と嫁に就て（再び）.kepub.epub",
+  "mtime": "2024-12-07T15:32:47.278Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 文化学院の設立について.kepub.epub",
+  "mtime": "2024-12-07T15:32:47.226Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 新婦人協会の請願運動.kepub.epub",
+  "mtime": "2024-12-07T15:32:47.174Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 婦人指導者への抗議.kepub.epub",
+  "mtime": "2024-12-07T15:32:47.123Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 階級闘争の彼方へ.kepub.epub",
+  "mtime": "2024-12-07T15:32:47.059Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 非人道的な講和条件.kepub.epub",
+  "mtime": "2024-12-07T15:32:46.951Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 教育の民主主義化を要求す.kepub.epub",
+  "mtime": "2024-12-07T15:32:46.845Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 婦人改造の基礎的考察.kepub.epub",
+  "mtime": "2024-12-07T15:32:46.740Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 婦人も参政権を要求す.kepub.epub",
+  "mtime": "2024-12-07T15:32:46.685Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 激動の中を行く.kepub.epub",
+  "mtime": "2024-12-07T15:32:46.632Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 食糧騒動について.kepub.epub",
+  "mtime": "2024-12-07T15:32:46.578Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 選挙に対する婦人の希望.kepub.epub",
+  "mtime": "2024-12-07T15:32:46.471Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 私娼の撲滅について.kepub.epub",
+  "mtime": "2024-12-07T15:32:46.420Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 婦人改造と高等教育.kepub.epub",
+  "mtime": "2024-12-07T15:32:46.367Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 鏡心灯語　抄.kepub.epub",
+  "mtime": "2024-12-07T15:32:46.313Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 女子の独立自営.kepub.epub",
+  "mtime": "2024-12-07T15:32:46.252Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 婦人と思想.kepub.epub",
+  "mtime": "2024-12-07T15:32:46.137Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] ひらきぶみ.kepub.epub",
+  "mtime": "2024-12-07T15:32:46.029Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 何故の出兵か.kepub.epub",
+  "mtime": "2024-12-07T15:32:45.898Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 「女らしさ」とは何か.kepub.epub",
+  "mtime": "2024-12-07T15:32:45.847Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 平塚・山川・山田三女史に答う.kepub.epub",
+  "mtime": "2024-12-07T15:32:45.795Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 平塚さんと私の論争.kepub.epub",
+  "mtime": "2024-12-07T15:32:45.735Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 三面一体の生活へ.kepub.epub",
+  "mtime": "2024-12-07T15:32:45.679Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 母性偏重を排す.kepub.epub",
+  "mtime": "2024-12-07T15:32:45.622Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 姑と嫁について.kepub.epub",
+  "mtime": "2024-12-07T15:32:45.571Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 私の貞操観.kepub.epub",
+  "mtime": "2024-12-07T15:32:45.516Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 離婚について.kepub.epub",
+  "mtime": "2024-12-07T15:32:45.457Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 産屋物語.kepub.epub",
+  "mtime": "2024-12-07T15:32:45.406Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 註釈與謝野寛全集.kepub.epub",
+  "mtime": "2024-12-07T15:32:45.356Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 遺書.kepub.epub",
+  "mtime": "2024-12-07T15:32:45.290Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 晶子詩篇全集拾遺.kepub.epub",
+  "mtime": "2024-12-07T15:32:45.215Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 晶子詩篇全集.kepub.epub",
+  "mtime": "2024-12-07T15:32:45.006Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 女が来て.kepub.epub",
+  "mtime": "2024-12-07T15:32:44.299Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 戸の外まで.kepub.epub",
+  "mtime": "2024-12-07T15:32:44.245Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 午後.kepub.epub",
+  "mtime": "2024-12-07T15:32:44.192Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 帰つてから.kepub.epub",
+  "mtime": "2024-12-07T15:32:44.136Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 六日間 （日記）.kepub.epub",
+  "mtime": "2024-12-07T15:32:44.054Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 日記のうち.kepub.epub",
+  "mtime": "2024-12-07T15:32:44.004Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 御門主.kepub.epub",
+  "mtime": "2024-12-07T15:32:43.953Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 住吉祭.kepub.epub",
+  "mtime": "2024-12-07T15:32:43.898Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 月二夜.kepub.epub",
+  "mtime": "2024-12-07T15:32:43.842Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 隣の家.kepub.epub",
+  "mtime": "2024-12-07T15:32:43.791Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 夢の影響.kepub.epub",
+  "mtime": "2024-12-07T15:32:43.743Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[與謝野晶子] 舞姫.kepub.epub",
+  "mtime": "2024-12-07T15:32:43.695Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[与謝野晶子] 『新新訳源氏物語』あとがき.kepub.epub",
+  "mtime": "2024-12-07T15:32:43.520Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[オシップ・ディモフ　Ossip Dymoff] 襟.kepub.epub",
+  "mtime": "2024-12-07T15:32:43.471Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[モルナール・フェレンツ　Molnar Ferenc] 最終の午後.kepub.epub",
+  "mtime": "2024-12-07T15:32:43.422Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[モルナール・フェレンツ　Molnar Ferenc] 辻馬車.kepub.epub",
+  "mtime": "2024-12-07T15:32:43.368Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[モルナール・フェレンツ　Molnar Ferenc] 破落戸の昇天.kepub.epub",
+  "mtime": "2024-12-07T15:32:43.297Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[マルセル・プレヴォー　Marcel Prevost] 田舎.kepub.epub",
+  "mtime": "2024-12-07T15:32:43.246Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[フレデリック・ブウテ　Frederic Boutet] 橋の下.kepub.epub",
+  "mtime": "2024-12-07T15:32:43.188Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 水の三日.kepub.epub",
+  "mtime": "2024-12-07T15:32:43.138Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 蜜柑.kepub.epub",
+  "mtime": "2024-12-07T15:32:43.086Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] MENSURA ZOILI.kepub.epub",
+  "mtime": "2024-12-07T15:32:43.032Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 松江印象記.kepub.epub",
+  "mtime": "2024-12-07T15:32:42.982Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 魔術.kepub.epub",
+  "mtime": "2024-12-07T15:32:42.933Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] LOS CAPRICHOS.kepub.epub",
+  "mtime": "2024-12-07T15:32:42.876Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 「鏡花全集」目録開口.kepub.epub",
+  "mtime": "2024-12-07T15:32:42.826Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 蜘蛛の糸.kepub.epub",
+  "mtime": "2024-12-07T15:32:42.778Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 首が落ちた話.kepub.epub",
+  "mtime": "2024-12-07T15:32:42.732Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 好色.kepub.epub",
+  "mtime": "2024-12-07T15:32:42.678Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 校正後に.kepub.epub",
+  "mtime": "2024-12-07T15:32:42.626Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 黄粱夢.kepub.epub",
+  "mtime": "2024-12-07T15:32:42.574Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 湖南の扇.kepub.epub",
+  "mtime": "2024-12-07T15:32:42.526Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 二人小町.kepub.epub",
+  "mtime": "2024-12-07T15:32:42.469Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 黒衣聖母.kepub.epub",
+  "mtime": "2024-12-07T15:32:42.411Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 子供の病気 ――一游亭に――.kepub.epub",
+  "mtime": "2024-12-07T15:32:42.356Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 孤独地獄.kepub.epub",
+  "mtime": "2024-12-07T15:32:42.302Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 古千屋.kepub.epub",
+  "mtime": "2024-12-07T15:32:42.251Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 木曾義仲論（東京府立第三中学校学友会誌）.kepub.epub",
+  "mtime": "2024-12-07T15:32:42.201Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 煙管.kepub.epub",
+  "mtime": "2024-12-07T15:32:42.118Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] きりしとほろ上人伝.kepub.epub",
+  "mtime": "2024-12-07T15:32:42.064Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 金将軍.kepub.epub",
+  "mtime": "2024-12-07T15:32:42.001Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 奇怪な再会.kepub.epub",
+  "mtime": "2024-12-07T15:32:41.949Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 奇遇.kepub.epub",
+  "mtime": "2024-12-07T15:32:41.871Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 袈裟と盛遠.kepub.epub",
+  "mtime": "2024-12-07T15:32:41.814Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 片恋.kepub.epub",
+  "mtime": "2024-12-07T15:32:41.759Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 或敵打の話.kepub.epub",
+  "mtime": "2024-12-07T15:32:41.704Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 枯野抄.kepub.epub",
+  "mtime": "2024-12-07T15:32:41.643Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 彼　第二.kepub.epub",
+  "mtime": "2024-12-07T15:32:41.588Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 彼.kepub.epub",
+  "mtime": "2024-12-07T15:32:41.537Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 河童 どうか Kappa と発音してください。.kepub.epub",
+  "mtime": "2024-12-07T15:32:41.484Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 神神の微笑.kepub.epub",
+  "mtime": "2024-12-07T15:32:41.386Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 開化の良人.kepub.epub",
+  "mtime": "2024-12-07T15:32:41.329Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 開化の殺人.kepub.epub",
+  "mtime": "2024-12-07T15:32:41.262Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 貝殼.kepub.epub",
+  "mtime": "2024-12-07T15:32:41.208Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 影.kepub.epub",
+  "mtime": "2024-12-07T15:32:41.153Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] じゅりあの・吉助.kepub.epub",
+  "mtime": "2024-12-07T15:32:41.083Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 十円札.kepub.epub",
+  "mtime": "2024-12-07T15:32:41.033Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 地獄變.kepub.epub",
+  "mtime": "2024-12-07T15:32:40.974Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 地獄変.kepub.epub",
+  "mtime": "2024-12-07T15:32:40.889Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 讀書の態度.kepub.epub",
+  "mtime": "2024-12-07T15:32:40.802Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[AKUTAGAWA Ryunosuke] Afterlife 英訳「後世」.kepub.epub",
+  "mtime": "2024-12-07T15:32:40.755Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 邪宗門.kepub.epub",
+  "mtime": "2024-12-07T15:32:40.706Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 二人の紅毛畫家.kepub.epub",
+  "mtime": "2024-12-07T15:32:40.601Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 糸女覚え書.kepub.epub",
+  "mtime": "2024-12-07T15:32:40.552Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 一夕話.kepub.epub",
+  "mtime": "2024-12-07T15:32:40.501Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 犬と笛.kepub.epub",
+  "mtime": "2024-12-07T15:32:40.449Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 仏蘭西文学と僕.kepub.epub",
+  "mtime": "2024-12-07T15:32:40.394Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 芋粥.kepub.epub",
+  "mtime": "2024-12-07T15:32:40.346Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 本所両国.kepub.epub",
+  "mtime": "2024-12-07T15:32:40.283Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] ひょっとこ.kepub.epub",
+  "mtime": "2024-12-07T15:32:40.212Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 冬.kepub.epub",
+  "mtime": "2024-12-07T15:32:40.163Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 不思議な島.kepub.epub",
+  "mtime": "2024-12-07T15:32:40.112Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 文放古.kepub.epub",
+  "mtime": "2024-12-07T15:32:40.061Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 軍艦金剛航海記.kepub.epub",
+  "mtime": "2024-12-07T15:32:40.009Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 産屋 萩原朔太郎君に獻ず.kepub.epub",
+  "mtime": "2024-12-07T15:32:39.945Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 北京日記抄.kepub.epub",
+  "mtime": "2024-12-07T15:32:39.893Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 長江游記.kepub.epub",
+  "mtime": "2024-12-07T15:32:39.841Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 上海游記.kepub.epub",
+  "mtime": "2024-12-07T15:32:39.788Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 雑信一束.kepub.epub",
+  "mtime": "2024-12-07T15:32:39.697Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 「支那游記」自序.kepub.epub",
+  "mtime": "2024-12-07T15:32:39.647Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 報恩記.kepub.epub",
+  "mtime": "2024-12-07T15:32:39.603Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 奉教人の死.kepub.epub",
+  "mtime": "2024-12-07T15:32:39.540Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 大久保湖州.kepub.epub",
+  "mtime": "2024-12-07T15:32:39.484Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 愛読書の印象.kepub.epub",
+  "mtime": "2024-12-07T15:32:39.335Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 私の好きなロマンス中の女性.kepub.epub",
+  "mtime": "2024-12-07T15:32:39.286Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 雛.kepub.epub",
+  "mtime": "2024-12-07T15:32:39.238Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 春の夜.kepub.epub",
+  "mtime": "2024-12-07T15:32:39.178Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 大導寺信輔の半生 ―或精神的風景画―.kepub.epub",
+  "mtime": "2024-12-07T15:32:39.132Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 槍ヶ嶽紀行.kepub.epub",
+  "mtime": "2024-12-07T15:32:39.073Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 文芸鑑賞講座.kepub.epub",
+  "mtime": "2024-12-07T15:32:39.018Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] ポーの片影.kepub.epub",
+  "mtime": "2024-12-07T15:32:38.961Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 春.kepub.epub",
+  "mtime": "2024-12-07T15:32:38.912Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 河童.kepub.epub",
+  "mtime": "2024-12-07T15:32:38.851Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 東京に生れて.kepub.epub",
+  "mtime": "2024-12-07T15:32:38.756Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 手巾.kepub.epub",
+  "mtime": "2024-12-07T15:32:38.697Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 侏儒の言葉.kepub.epub",
+  "mtime": "2024-12-07T15:32:38.643Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 森先生.kepub.epub",
+  "mtime": "2024-12-07T15:32:38.552Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 夏目先生と滝田さん.kepub.epub",
+  "mtime": "2024-12-07T15:32:38.500Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 豊島与志雄氏の事.kepub.epub",
+  "mtime": "2024-12-07T15:32:38.447Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 出来上った人 ――室生犀星氏――.kepub.epub",
+  "mtime": "2024-12-07T15:32:38.392Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 恒藤恭氏.kepub.epub",
+  "mtime": "2024-12-07T15:32:38.337Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 滝田哲太郎氏.kepub.epub",
+  "mtime": "2024-12-07T15:32:38.284Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 滝田哲太郎君.kepub.epub",
+  "mtime": "2024-12-07T15:32:38.231Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 島木赤彦氏.kepub.epub",
+  "mtime": "2024-12-07T15:32:38.179Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 佐藤春夫氏の事.kepub.epub",
+  "mtime": "2024-12-07T15:32:38.124Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 合理的、同時に多量の人間味 ――相互印象・菊池氏――.kepub.epub",
+  "mtime": "2024-12-07T15:32:38.073Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 剛才人と柔才人と.kepub.epub",
+  "mtime": "2024-12-07T15:32:38.023Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 近藤浩一路氏.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.972Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 小杉未醒氏.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.922Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 久米正雄氏の事.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.872Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 久米正雄 ――傚久米正雄文体――.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.821Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 久保田万太郎氏.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.772Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 「菊池寛全集」の序.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.727Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 彼の長所十八 ――南部修太郎氏の印象――.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.677Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 鴨猟.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.630Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 格さんと食慾 ――最近の宇野浩二氏――.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.582Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 江口渙氏の事.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.540Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 犬養君に就いて.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.489Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 飯田蛇笏.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.441Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 兄貴のような心持 ――菊池寛氏の印象――.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.390Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 小説作法十則.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.343Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 内田百間氏.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.294Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 夢.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.247Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 人及び芸術家としての薄田泣菫氏 薄田泣菫氏及び同令夫人に献ず.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.195Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 平田先生の翻訳.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.150Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] プロレタリア文学論.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.102Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 装幀に就いての私の意見.kepub.epub",
+  "mtime": "2024-12-07T15:32:37.053Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] トロッコ.kepub.epub",
+  "mtime": "2024-12-07T15:32:36.957Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 杜子春.kepub.epub",
+  "mtime": "2024-12-07T15:32:36.905Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] アグニの神.kepub.epub",
+  "mtime": "2024-12-07T15:32:36.849Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 鼻.kepub.epub",
+  "mtime": "2024-12-07T15:32:36.794Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 春の日のさした往来をぶらぶら一人歩いてゐる.kepub.epub",
+  "mtime": "2024-12-07T15:32:36.743Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 新緑の庭.kepub.epub",
+  "mtime": "2024-12-07T15:32:36.695Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 恋愛と夫婦愛とを混同しては不可ぬ.kepub.epub",
+  "mtime": "2024-12-07T15:32:36.647Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 小説の戯曲化.kepub.epub",
+  "mtime": "2024-12-07T15:32:36.596Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 佐藤春夫氏.kepub.epub",
+  "mtime": "2024-12-07T15:32:36.547Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 谷崎潤一郎氏.kepub.epub",
+  "mtime": "2024-12-07T15:32:36.499Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 梅花に対する感情 このジャアナリズムの一篇を謹厳なる西川英次郎君に献ず.kepub.epub",
+  "mtime": "2024-12-07T15:32:36.451Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 岩野泡鳴氏.kepub.epub",
+  "mtime": "2024-12-07T15:32:36.403Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 芸術その他.kepub.epub",
+  "mtime": "2024-12-07T15:32:36.355Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川竜之介] 歯車.kepub.epub",
+  "mtime": "2024-12-07T15:32:36.304Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 母.kepub.epub",
+  "mtime": "2024-12-07T15:32:36.231Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 歯車.kepub.epub",
+  "mtime": "2024-12-07T15:32:36.177Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 疑惑.kepub.epub",
+  "mtime": "2024-12-07T15:32:36.104Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 戯作三昧.kepub.epub",
+  "mtime": "2024-12-07T15:32:36.047Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 三つの指環.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.967Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 或社会主義者.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.917Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 鬼ごつこ.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.868Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 槐.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.819Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] Ｏ君の新秋.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.771Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 囈語.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.721Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 二人の友.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.672Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 微笑.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.620Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 沙羅の花.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.574Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 臘梅.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.525Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 詩集.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.478Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 雪.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.428Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 鷺と鴛鴦.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.383Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 教訓談.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.334Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] かちかち山.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.286Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 商賈聖母.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.235Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] わが散文詩.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.187Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] パステルの龍.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.135Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 動物園.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.087Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 寒山拾得.kepub.epub",
+  "mtime": "2024-12-07T15:32:35.028Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 沼.kepub.epub",
+  "mtime": "2024-12-07T15:32:34.979Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 東京小品.kepub.epub",
+  "mtime": "2024-12-07T15:32:34.932Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 忘れられぬ印象.kepub.epub",
+  "mtime": "2024-12-07T15:32:34.877Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 窓.kepub.epub",
+  "mtime": "2024-12-07T15:32:34.826Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 悪魔.kepub.epub",
+  "mtime": "2024-12-07T15:32:34.776Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 京都日記.kepub.epub",
+  "mtime": "2024-12-07T15:32:34.722Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 南瓜.kepub.epub",
+  "mtime": "2024-12-07T15:32:34.670Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 饒舌.kepub.epub",
+  "mtime": "2024-12-07T15:32:34.621Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 蛙.kepub.epub",
+  "mtime": "2024-12-07T15:32:34.572Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 創作.kepub.epub",
+  "mtime": "2024-12-07T15:32:34.457Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 講演軍記.kepub.epub",
+  "mtime": "2024-12-07T15:32:34.355Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 僕の友だち二三人.kepub.epub",
+  "mtime": "2024-12-07T15:32:34.309Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 食物として.kepub.epub",
+  "mtime": "2024-12-07T15:32:34.263Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 小説の読者.kepub.epub",
+  "mtime": "2024-12-07T15:32:34.215Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] その頃の赤門生活.kepub.epub",
+  "mtime": "2024-12-07T15:32:34.168Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 無題.kepub.epub",
+  "mtime": "2024-12-07T15:32:34.120Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 比呂志との問答.kepub.epub",
+  "mtime": "2024-12-07T15:32:34.076Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 亦一説？.kepub.epub",
+  "mtime": "2024-12-07T15:32:34.029Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 又一説？.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.982Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 東西問答.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.934Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 一人の無名作家.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.887Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 病中雑記.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.838Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 拊掌談.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.790Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 孔雀.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.742Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 翻訳小品.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.692Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 身のまはり.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.642Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 風変りな作品に就いて.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.593Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 病牀雑記.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.548Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 才一巧亦不二.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.500Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 偽者二題.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.451Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 変遷その他.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.404Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 日本の女.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.349Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 念仁波念遠入礼帖.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.298Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 日本小説の支那訳.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.250Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 田端人.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.202Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 学校友だち.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.155Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] わが俳諧修業.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.108Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 娼婦美と冒険.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.055Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 蒐書.kepub.epub",
+  "mtime": "2024-12-07T15:32:33.005Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] リチヤアド・バアトン訳「一千一夜物語」に就いて.kepub.epub",
+  "mtime": "2024-12-07T15:32:32.955Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 案頭の書.kepub.epub",
+  "mtime": "2024-12-07T15:32:32.906Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 「仮面」の人々.kepub.epub",
+  "mtime": "2024-12-07T15:32:32.854Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 正岡子規.kepub.epub",
+  "mtime": "2024-12-07T15:32:32.806Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 解嘲.kepub.epub",
+  "mtime": "2024-12-07T15:32:32.758Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 鸚鵡 ――大震覚え書の一つ――.kepub.epub",
+  "mtime": "2024-12-07T15:32:32.703Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 大正十二年九月一日の大震に際して.kepub.epub",
+  "mtime": "2024-12-07T15:32:32.647Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 伊東から.kepub.epub",
+  "mtime": "2024-12-07T15:32:32.588Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 八宝飯.kepub.epub",
+  "mtime": "2024-12-07T15:32:32.542Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 近頃の幽霊.kepub.epub",
+  "mtime": "2024-12-07T15:32:32.487Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 売文問答.kepub.epub",
+  "mtime": "2024-12-07T15:32:32.430Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 世の中と女.kepub.epub",
+  "mtime": "2024-12-07T15:32:32.383Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 西洋画のやうな日本画.kepub.epub",
+  "mtime": "2024-12-07T15:32:32.331Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 文章と言葉と.kepub.epub",
+  "mtime": "2024-12-07T15:32:32.283Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 一つの作が出来上るまで ――「枯野抄」――「奉教人の死」――.kepub.epub",
+  "mtime": "2024-12-07T15:32:32.233Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 入社の辞.kepub.epub",
+  "mtime": "2024-12-07T15:32:32.182Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 俳画展覧会を観て.kepub.epub",
+  "mtime": "2024-12-07T15:32:32.137Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 永久に不愉快な二重生活.kepub.epub",
+  "mtime": "2024-12-07T15:32:32.089Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] イズムと云ふ語の意味次第.kepub.epub",
+  "mtime": "2024-12-07T15:32:32.037Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] はつきりした形をとる為めに.kepub.epub",
+  "mtime": "2024-12-07T15:32:31.987Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 一番気乗のする時.kepub.epub",
+  "mtime": "2024-12-07T15:32:31.939Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 鑑定.kepub.epub",
+  "mtime": "2024-12-07T15:32:31.890Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 続澄江堂雑記.kepub.epub",
+  "mtime": "2024-12-07T15:32:31.841Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 澄江堂雑記.kepub.epub",
+  "mtime": "2024-12-07T15:32:31.793Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 続野人生計事.kepub.epub",
+  "mtime": "2024-12-07T15:32:31.722Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 野人生計事.kepub.epub",
+  "mtime": "2024-12-07T15:32:31.658Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 支那の画.kepub.epub",
+  "mtime": "2024-12-07T15:32:31.605Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 本の事.kepub.epub",
+  "mtime": "2024-12-07T15:32:31.553Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 点心.kepub.epub",
+  "mtime": "2024-12-07T15:32:31.503Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 雑筆.kepub.epub",
+  "mtime": "2024-12-07T15:32:31.446Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 骨董羹 ―寿陵余子の仮名のもとに筆を執れる戯文―.kepub.epub",
+  "mtime": "2024-12-07T15:32:31.385Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 玄鶴山房.kepub.epub",
+  "mtime": "2024-12-07T15:32:31.319Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 英雄の器.kepub.epub",
+  "mtime": "2024-12-07T15:32:31.257Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 伝吉の敵打ち.kepub.epub",
+  "mtime": "2024-12-07T15:32:31.207Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 第四の夫から.kepub.epub",
+  "mtime": "2024-12-07T15:32:31.155Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 後世.kepub.epub",
+  "mtime": "2024-12-07T15:32:31.107Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 大導寺信輔の半生 ――或精神的風景画――.kepub.epub",
+  "mtime": "2024-12-07T15:32:31.061Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 偸盗.kepub.epub",
+  "mtime": "2024-12-07T15:32:31.001Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 父.kepub.epub",
+  "mtime": "2024-12-07T15:32:30.886Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] カルメン.kepub.epub",
+  "mtime": "2024-12-07T15:32:30.836Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 舞踏会.kepub.epub",
+  "mtime": "2024-12-07T15:32:30.786Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 文章.kepub.epub",
+  "mtime": "2024-12-07T15:32:30.739Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 文芸的な、余りに文芸的な.kepub.epub",
+  "mtime": "2024-12-07T15:32:30.686Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 田端日記.kepub.epub",
+  "mtime": "2024-12-07T15:32:30.583Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 文学好きの家庭から.kepub.epub",
+  "mtime": "2024-12-07T15:32:30.530Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 尾生の信.kepub.epub",
+  "mtime": "2024-12-07T15:32:30.476Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 露譯短篇集の序.kepub.epub",
+  "mtime": "2024-12-07T15:32:30.422Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 藪の中.kepub.epub",
+  "mtime": "2024-12-07T15:32:30.369Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] しるこ.kepub.epub",
+  "mtime": "2024-12-07T15:32:30.240Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 「侏儒の言葉」の序.kepub.epub",
+  "mtime": "2024-12-07T15:32:30.194Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 芭蕉雑記.kepub.epub",
+  "mtime": "2024-12-07T15:32:30.147Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 東洋の秋.kepub.epub",
+  "mtime": "2024-12-07T15:32:30.081Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 僕は.kepub.epub",
+  "mtime": "2024-12-07T15:32:30.030Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 春の夜は.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.982Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 機関車を見ながら.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.934Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 鵠沼雑記.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.885Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 凶.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.838Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 耳目記.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.790Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 仙人.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.743Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 都会で ――或は千九百十六年の東京――.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.696Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 軽井沢で.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.637Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 塵労.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.587Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 漱石山房の冬.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.540Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 羅生門の後に.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.493Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 浅草公園 ――或シナリオ――.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.445Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 或旧友へ送る手記.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.389Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 或阿呆の一生.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.342Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 続西方の人.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.281Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 続文芸的な、余りに文芸的な.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.225Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 闇中問答.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.177Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 続芭蕉雑記.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.127Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 誘惑 ――或シナリオ――.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.079Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 百合.kepub.epub",
+  "mtime": "2024-12-07T15:32:29.026Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] さまよえる猶太人.kepub.epub",
+  "mtime": "2024-12-07T15:32:28.928Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 妖婆.kepub.epub",
+  "mtime": "2024-12-07T15:32:28.875Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 世之助の話.kepub.epub",
+  "mtime": "2024-12-07T15:32:28.788Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 保吉の手帳から.kepub.epub",
+  "mtime": "2024-12-07T15:32:28.740Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 槍が岳に登った記.kepub.epub",
+  "mtime": "2024-12-07T15:32:28.685Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 山鴫.kepub.epub",
+  "mtime": "2024-12-07T15:32:28.639Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] あの頃の自分の事.kepub.epub",
+  "mtime": "2024-12-07T15:32:28.587Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 芥川龍之介歌集.kepub.epub",
+  "mtime": "2024-12-07T15:32:28.466Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 魚河岸.kepub.epub",
+  "mtime": "2024-12-07T15:32:28.412Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 運.kepub.epub",
+  "mtime": "2024-12-07T15:32:28.365Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 海のほとり.kepub.epub",
+  "mtime": "2024-12-07T15:32:28.311Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 馬の脚.kepub.epub",
+  "mtime": "2024-12-07T15:32:28.258Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 忠義.kepub.epub",
+  "mtime": "2024-12-07T15:32:28.199Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 樗牛の事.kepub.epub",
+  "mtime": "2024-12-07T15:32:28.134Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 一塊の土.kepub.epub",
+  "mtime": "2024-12-07T15:32:28.087Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 秋.kepub.epub",
+  "mtime": "2024-12-07T15:32:27.979Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] トロツコ.kepub.epub",
+  "mtime": "2024-12-07T15:32:27.921Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 虎の話.kepub.epub",
+  "mtime": "2024-12-07T15:32:27.871Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 点鬼簿.kepub.epub",
+  "mtime": "2024-12-07T15:32:27.826Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 手紙.kepub.epub",
+  "mtime": "2024-12-07T15:32:27.774Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 二つの手紙.kepub.epub",
+  "mtime": "2024-12-07T15:32:27.723Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] たね子の憂鬱.kepub.epub",
+  "mtime": "2024-12-07T15:32:27.669Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 煙草と悪魔.kepub.epub",
+  "mtime": "2024-12-07T15:32:27.618Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 秋山図.kepub.epub",
+  "mtime": "2024-12-07T15:32:27.569Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 酒虫.kepub.epub",
+  "mtime": "2024-12-07T15:32:27.513Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 出帆.kepub.epub",
+  "mtime": "2024-12-07T15:32:27.460Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 遺書.kepub.epub",
+  "mtime": "2024-12-07T15:32:27.411Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 僻見.kepub.epub",
+  "mtime": "2024-12-07T15:32:27.363Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 俊寛.kepub.epub",
+  "mtime": "2024-12-07T15:32:27.247Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 素描三題.kepub.epub",
+  "mtime": "2024-12-07T15:32:27.093Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 将軍.kepub.epub",
+  "mtime": "2024-12-07T15:32:27.044Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 少年.kepub.epub",
+  "mtime": "2024-12-07T15:32:26.972Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 捨児.kepub.epub",
+  "mtime": "2024-12-07T15:32:26.907Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 素戔嗚尊.kepub.epub",
+  "mtime": "2024-12-07T15:32:26.858Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 早春.kepub.epub",
+  "mtime": "2024-12-07T15:32:26.750Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 漱石山房の秋.kepub.epub",
+  "mtime": "2024-12-07T15:32:26.702Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 葬儀記.kepub.epub",
+  "mtime": "2024-12-07T15:32:26.654Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] あばばばば.kepub.epub",
+  "mtime": "2024-12-07T15:32:26.599Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 白.kepub.epub",
+  "mtime": "2024-12-07T15:32:26.549Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 虱.kepub.epub",
+  "mtime": "2024-12-07T15:32:26.493Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 蜃気楼 ――或は「続海のほとり」――.kepub.epub",
+  "mtime": "2024-12-07T15:32:26.440Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 死後.kepub.epub",
+  "mtime": "2024-12-07T15:32:26.391Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 廿年後之戦争.kepub.epub",
+  "mtime": "2024-12-07T15:32:26.344Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 青年と死.kepub.epub",
+  "mtime": "2024-12-07T15:32:26.152Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 西方の人.kepub.epub",
+  "mtime": "2024-12-07T15:32:26.105Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 猿蟹合戦.kepub.epub",
+  "mtime": "2024-12-07T15:32:26.040Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 十本の針.kepub.epub",
+  "mtime": "2024-12-07T15:32:25.990Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 猿.kepub.epub",
+  "mtime": "2024-12-07T15:32:25.941Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 三右衛門の罪.kepub.epub",
+  "mtime": "2024-12-07T15:32:25.893Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 寒さ.kepub.epub",
+  "mtime": "2024-12-07T15:32:25.837Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 西郷隆盛.kepub.epub",
+  "mtime": "2024-12-07T15:32:25.786Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 道祖問答.kepub.epub",
+  "mtime": "2024-12-07T15:32:25.732Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 竜.kepub.epub",
+  "mtime": "2024-12-07T15:32:25.683Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] るしへる.kepub.epub",
+  "mtime": "2024-12-07T15:32:25.627Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 路上.kepub.epub",
+  "mtime": "2024-12-07T15:32:25.577Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 老年.kepub.epub",
+  "mtime": "2024-12-07T15:32:25.472Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 六の宮の姫君.kepub.epub",
+  "mtime": "2024-12-07T15:32:25.416Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 或恋愛小説 ――或は「恋愛は至上なり」――.kepub.epub",
+  "mtime": "2024-12-07T15:32:25.362Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 羅生門.kepub.epub",
+  "mtime": "2024-12-07T15:32:25.288Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] お富の貞操.kepub.epub",
+  "mtime": "2024-12-07T15:32:25.184Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] おしの.kepub.epub",
+  "mtime": "2024-12-07T15:32:25.128Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] お律と子等と.kepub.epub",
+  "mtime": "2024-12-07T15:32:25.079Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 大川の水.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.997Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 或日の大石内蔵助.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.947Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 温泉だより.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.890Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 女.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.841Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] お時儀.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.790Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 老いたる素戔嗚尊.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.739Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 往生絵巻.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.679Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] おぎん.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.629Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 尾形了斎覚え書.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.579Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 女体.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.531Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 追憶.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.483Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 長崎.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.422Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 沼地.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.373Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 鴉片.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.323Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 着物.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.273Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 発句私見.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.223Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 横須賀小景.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.168Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 金春会の「隅田川」.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.120Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 文部省の仮名遣改定案について.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.069Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 龍村平蔵氏の芸術.kepub.epub",
+  "mtime": "2024-12-07T15:32:24.017Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 結婚難並びに恋愛難.kepub.epub",
+  "mtime": "2024-12-07T15:32:23.965Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] ピアノ.kepub.epub",
+  "mtime": "2024-12-07T15:32:23.916Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 野呂松人形.kepub.epub",
+  "mtime": "2024-12-07T15:32:23.865Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 霜夜.kepub.epub",
+  "mtime": "2024-12-07T15:32:23.813Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 悠々荘.kepub.epub",
+  "mtime": "2024-12-07T15:32:23.765Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 三つの宝.kepub.epub",
+  "mtime": "2024-12-07T15:32:23.718Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 三つの窓.kepub.epub",
+  "mtime": "2024-12-07T15:32:23.589Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 三つのなぜ.kepub.epub",
+  "mtime": "2024-12-07T15:32:23.539Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 庭.kepub.epub",
+  "mtime": "2024-12-07T15:32:23.488Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 日光小品.kepub.epub",
+  "mtime": "2024-12-07T15:32:23.440Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 尼提.kepub.epub",
+  "mtime": "2024-12-07T15:32:23.396Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 鼠小僧次郎吉.kepub.epub",
+  "mtime": "2024-12-07T15:32:23.350Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 年末の一日.kepub.epub",
+  "mtime": "2024-12-07T15:32:23.291Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 葱.kepub.epub",
+  "mtime": "2024-12-07T15:32:23.244Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 南京の基督.kepub.epub",
+  "mtime": "2024-12-07T15:32:23.191Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 長崎小品.kepub.epub",
+  "mtime": "2024-12-07T15:32:23.137Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 妙な話.kepub.epub",
+  "mtime": "2024-12-07T15:32:23.087Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 女仙.kepub.epub",
+  "mtime": "2024-12-07T15:32:23.041Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 貉.kepub.epub",
+  "mtime": "2024-12-07T15:32:22.995Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 毛利先生.kepub.epub",
+  "mtime": "2024-12-07T15:32:22.944Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[芥川龍之介] 桃太郎.kepub.epub",
+  "mtime": "2024-12-07T15:32:22.889Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[尾形亀之助] 早春雑記.kepub.epub",
+  "mtime": "2024-12-07T15:32:22.841Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[尾形亀之助] 机の前の裸は語る.kepub.epub",
+  "mtime": "2024-12-07T15:32:22.795Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[尾形亀之助] 身辺雑記.kepub.epub",
+  "mtime": "2024-12-07T15:32:22.749Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[尾形亀之助] さびしい人生興奮.kepub.epub",
+  "mtime": "2024-12-07T15:32:22.704Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[尾形亀之助] 跡.kepub.epub",
+  "mtime": "2024-12-07T15:32:22.654Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[尾形亀之助] 部屋の中.kepub.epub",
+  "mtime": "2024-12-07T15:32:22.599Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[尾形亀之助] 私と詩.kepub.epub",
+  "mtime": "2024-12-07T15:32:22.556Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[尾形亀之助] 障子のある家.kepub.epub",
+  "mtime": "2024-12-07T15:32:22.509Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[尾形亀之助] 雨になる朝.kepub.epub",
+  "mtime": "2024-12-07T15:32:22.439Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[尾形亀之助] 詩集＜色ガラスの街＞.kepub.epub",
+  "mtime": "2024-12-07T15:32:22.390Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[金田千鶴] 霜.kepub.epub",
+  "mtime": "2024-12-07T15:32:22.318Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[金田千鶴] 夏蚕時.kepub.epub",
+  "mtime": "2024-12-07T15:32:22.263Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[木内高音] 水菓子屋の要吉.kepub.epub",
+  "mtime": "2024-12-07T15:32:22.188Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[木内高音] くまと車掌.kepub.epub",
+  "mtime": "2024-12-07T15:32:22.137Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[木内高音] やんちゃオートバイ.kepub.epub",
+  "mtime": "2024-12-07T15:32:22.081Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[小野浩] 金のくびかざり.kepub.epub",
+  "mtime": "2024-12-07T15:32:22.031Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[山本勝治] 十姉妹.kepub.epub",
+  "mtime": "2024-12-07T15:32:21.981Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[永崎貢] 組合旗を折る.kepub.epub",
+  "mtime": "2024-12-07T15:32:21.914Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[池宮城積宝] 奥間巡査.kepub.epub",
+  "mtime": "2024-12-07T15:32:21.842Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[狩野亨吉] 修善寺漱石詩碑碑陰に記せる文.kepub.epub",
+  "mtime": "2024-12-07T15:32:21.786Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[狩野亨吉] 天津教古文書の批判.kepub.epub",
+  "mtime": "2024-12-07T15:32:21.739Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[狩野亨吉] 漱石と自分.kepub.epub",
+  "mtime": "2024-12-07T15:32:21.552Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[狩野亨吉] 歴史の概念.kepub.epub",
+  "mtime": "2024-12-07T15:32:21.502Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[狩野亨吉] 安藤昌益.kepub.epub",
+  "mtime": "2024-12-07T15:32:21.430Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[板倉勝宣] 春の槍から帰って.kepub.epub",
+  "mtime": "2024-12-07T15:32:21.284Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[板倉勝宣] 五色温泉スキー日記.kepub.epub",
+  "mtime": "2024-12-07T15:32:21.225Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[板倉勝宣] 春の上河内へ.kepub.epub",
+  "mtime": "2024-12-07T15:32:21.167Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[板倉勝宣] 山と雪の日記.kepub.epub",
+  "mtime": "2024-12-07T15:32:21.108Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[大島亮吉] 涸沢の岩小屋のある夜のこと.kepub.epub",
+  "mtime": "2024-12-07T15:32:21.049Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[山田美妙] 武蔵野.kepub.epub",
+  "mtime": "2024-12-07T15:32:20.991Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[山路愛山] 頼襄を論ず.kepub.epub",
+  "mtime": "2024-12-07T15:32:20.908Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[山路愛山] 唯心的、凡神的傾向に就て（承前）.kepub.epub",
+  "mtime": "2024-12-07T15:32:20.843Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[山路愛山] 凡神的唯心的傾向に就て.kepub.epub",
+  "mtime": "2024-12-07T15:32:20.794Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[山路愛山] 詩人論.kepub.epub",
+  "mtime": "2024-12-07T15:32:20.748Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[山路愛山] 明治文学史.kepub.epub",
+  "mtime": "2024-12-07T15:32:20.698Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[山路愛山] 透谷全集を読む.kepub.epub",
+  "mtime": "2024-12-07T15:32:20.633Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[山路愛山] 信仰個条なかるべからず.kepub.epub",
+  "mtime": "2024-12-07T15:32:20.582Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[山路愛山] 北村透谷君.kepub.epub",
+  "mtime": "2024-12-07T15:32:20.532Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[山路愛山] 英雄論 明治廿三年十一月十日静岡劇塲若竹座に於て演説草稿.kepub.epub",
+  "mtime": "2024-12-07T15:32:20.476Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[柳川春葉] 一つ枕.kepub.epub",
+  "mtime": "2024-12-07T15:32:20.418Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[柳川春葉] 青銅鬼.kepub.epub",
+  "mtime": "2024-12-07T15:32:20.369Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[柳川春葉] 怪物屋敷.kepub.epub",
+  "mtime": "2024-12-07T15:32:20.324Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[森本薫] 女の一生 五幕七場.kepub.epub",
+  "mtime": "2024-12-07T15:32:20.274Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[森本薫] 華々しき一族.kepub.epub",
+  "mtime": "2024-12-07T15:32:20.129Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[森本薫] みごとな女.kepub.epub",
+  "mtime": "2024-12-07T15:32:19.250Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[森田草平] 四十八人目.kepub.epub",
+  "mtime": "2024-12-07T15:32:18.832Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[森田草平] 「青白き夢」序.kepub.epub",
+  "mtime": "2024-12-07T15:32:18.701Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[村上浪六] 上方者の啖呵.kepub.epub",
+  "mtime": "2024-12-07T15:32:18.647Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[村井弦斎] 食道楽 冬の巻.kepub.epub",
+  "mtime": "2024-12-07T15:32:18.593Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[村井弦斎] 食道楽 秋の巻.kepub.epub",
+  "mtime": "2024-12-07T15:32:18.284Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[村井弦斎] 食道楽 春の巻.kepub.epub",
+  "mtime": "2024-12-07T15:32:17.990Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 風変りな決闘.kepub.epub",
+  "mtime": "2024-12-07T15:32:17.647Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 熊捕り競争.kepub.epub",
+  "mtime": "2024-12-07T15:32:17.595Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 怪艦ウルフ号.kepub.epub",
+  "mtime": "2024-12-07T15:32:17.542Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 動く海底.kepub.epub",
+  "mtime": "2024-12-07T15:32:17.492Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 賢い秀雄さんの話.kepub.epub",
+  "mtime": "2024-12-07T15:32:17.436Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 鳩の鳴く時計.kepub.epub",
+  "mtime": "2024-12-07T15:32:17.388Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 幸坊の猫と鶏.kepub.epub",
+  "mtime": "2024-12-07T15:32:17.338Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 豆小僧の冒険.kepub.epub",
+  "mtime": "2024-12-07T15:32:17.287Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 悪魔の尾.kepub.epub",
+  "mtime": "2024-12-07T15:32:17.239Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 蛇いちご.kepub.epub",
+  "mtime": "2024-12-07T15:32:17.191Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 竜宮の犬.kepub.epub",
+  "mtime": "2024-12-07T15:32:17.143Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 夢の国.kepub.epub",
+  "mtime": "2024-12-07T15:32:17.093Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 孝行鶉の話.kepub.epub",
+  "mtime": "2024-12-07T15:32:17.042Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 拾うた冠.kepub.epub",
+  "mtime": "2024-12-07T15:32:16.987Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 愛人と厭人.kepub.epub",
+  "mtime": "2024-12-07T15:32:16.939Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] スカンヂナヴィア文學概觀.kepub.epub",
+  "mtime": "2024-12-07T15:32:16.893Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] イプセンの日本語譯.kepub.epub",
+  "mtime": "2024-12-07T15:32:16.836Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 科學的の神祕.kepub.epub",
+  "mtime": "2024-12-07T15:32:16.791Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] ラマ塔の秘密.kepub.epub",
+  "mtime": "2024-12-07T15:32:16.741Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 漁師の冒険.kepub.epub",
+  "mtime": "2024-12-07T15:32:16.687Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 子良の昇天.kepub.epub",
+  "mtime": "2024-12-07T15:32:16.642Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 虹猫の話.kepub.epub",
+  "mtime": "2024-12-07T15:32:16.592Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 虹猫の大女退治.kepub.epub",
+  "mtime": "2024-12-07T15:32:16.543Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 虹猫と木精.kepub.epub",
+  "mtime": "2024-12-07T15:32:16.491Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮原晃一郎] 椰子蟹.kepub.epub",
+  "mtime": "2024-12-07T15:32:16.438Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[宮崎湖処子] 空屋.kepub.epub",
+  "mtime": "2024-12-07T15:32:16.388Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[八面樓（宮崎湖処子）] 泉鏡花作『外科室』.kepub.epub",
+  "mtime": "2024-12-07T15:32:16.315Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[三宅やす子] 買ひものをする女.kepub.epub",
+  "mtime": "2024-12-07T15:32:16.257Z",
+  "type": "kepub"
+ },
+ {
+  "filename": "[三宅花圃] 藪の鶯.kepub.epub",
+  "mtime": "2024-12-07T15:32:16.208Z",
+  "type": "kepub"
+ },
+ {
   "filename": "[水上滝太郎] 九月一日.kepub.epub",
   "mtime": "2024-12-07T08:04:04.788Z",
   "type": "kepub"
